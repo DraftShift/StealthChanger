@@ -3,7 +3,7 @@ Spinoff from Viertuz Tapchanger-Lite
 
 Due to difficulties with heat insert and ligning of bearings and mounts i wanted to try a more simplistic design based on bushings and rods.
 
-## Hardware
+## Hardware Rev 2
 ### Shuttle
 - [2] 6x3mm magnets
 - [2] m3x6 bolt (tap sensor)
