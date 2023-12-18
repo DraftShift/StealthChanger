@@ -4,7 +4,7 @@ Spinoff from Viertuz Tapchanger-Lite
 Due to difficulties with heat insert and ligning of bearings and mounts i wanted to try a more simplistic design based on bushings and rods.
 
 ## Hardware Rev 3 v32 - PROTOTYPE TESTED AND WORKING BUT STILL WIP. BOM WILL CHANGE
-## Notes: hetsets in teh shuttle go in from the oppsite side as the Voron instructions, slightly longer screws on the CW2 attachment may be required
+## Notes: heatsets in the back plate go in from the opposite side as the Voron instructions, slightly longer screws on the CW2 attachment may be required
 ### Shuttle
 - [3] 6x3mm magnets
 - [2] m3x6 button head (tap sensor)
