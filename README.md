@@ -11,7 +11,7 @@ This version is very lite, requires less parts and as such is cheaper and easyer
 All parts are easily replaceable without reprinting if wear happens, life of the bushings and pins are still being tested.
 
 ## Tool compatability
-Currently we support the standard Stealth Burner.  There are plans in place to sadd the Mini Stealth Burner, Dragon Burner and XOL.
+Currently we support the standard Stealth Burner.  There are plans in place to add the Mini Stealth Burner, Dragon Burner and XOL.
 
 ## BOM and Printing
 All print settings are the same as [Voron Standards](https://docs.vorondesign.com/sourcing.html#print-settings)
@@ -22,8 +22,8 @@ Orientation is flat on the parts back with supports enabled currently, we are wo
 - [3] 6x3mm magnets
 - [2] m3x6 button head (tap sensor)
 - [4] m3x6 button head (mgn bolts)
-- [3] 4x6x6mm bronze bushing (4id 6od 6tall)
-### Mounting plate x1 per toolhead
+- [3] 4x6x6mm bronze bushing (4mm id x 6mm od x 6mm tall)
+### Back plate x1 per toolhead
 - [4] m3 heat inserts
 - [3] 4x12mm ssRod (dowel pin) with a rounded end
 - [1] 6x3mm magnets
