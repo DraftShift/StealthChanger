@@ -13,13 +13,10 @@ All parts are easily replaceable without reprinting if wear happens, life of the
 ## Tool compatability
 Currently we support the standard Stealth Burner.  There are plans in place to sadd the Mini Stealth Burner, Dragon Burner and XOL.
 
-## Print Settings
+## BOM and Printing
 All print settings are the same as [Voron Standards](https://docs.vorondesign.com/sourcing.html#print-settings)
 
 Orientation is flat on the parts back with supports enabled currently, we are working on models with integrated supports.
-
-## Software
-[Viertuz Tapchanger](https://github.com/viesturz/tapchanger).  The only changes will be in the toolhead config which you will find in the klipper directory in this repo.
 
 ### Shuttle
 - [3] 6x3mm magnets
@@ -37,6 +34,9 @@ Orientation is flat on the parts back with supports enabled currently, we are wo
 - [1] 6x3mm magnet (Hall Effect Sensor ONLY)
 
 **Note: heatsets on the SB version in from the opposite side as the Voron instructions, slightly longer screws on the CW2 attachment may be required**
+
+## Software
+[Viertuz Tapchanger](https://github.com/viesturz/tapchanger).  The only changes will be in the toolhead config which you will find in the klipper directory in this repo.
 
 ## Docks
 Currently all docks used with [Viertuz Tapchanger](https://github.com/viesturz/tapchanger) are compatible.  In the future we might develop our own.
