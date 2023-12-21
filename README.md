@@ -40,6 +40,7 @@ Orientation is flat on the parts back with supports enabled currently, we are wo
 | Bushing 	| https://amzn.to/48jnoPO 	|        	|        	|        	|
 | Pin     	| https://amzn.to/488gP2v 	|        	|        	|        	|
 | Screw   	|                         	|        	|        	|        	|
+**note links are affiliate to BT123**
 
 ## Docks
 Currently all docks used with [Viertuz Tapchanger](https://github.com/viesturz/tapchanger) are compatible.  In the future we might develop our own.
