@@ -1,6 +1,6 @@
 ![](https://github.com/Hellsparks/StealthChanger/blob/main/media/Stealthchanger_logo_sm.png?raw=true)
 # StealthChanger
-Spinoff from [Viertuz Tapchanger](https://github.com/viesturz/tapchanger)
+Based on Viesturz's work on [Tapchanger](https://github.com/viesturz/tapchanger)
 
 ### WIP - STABLE TESTED AND WORKING BUT STILL WIP. BOM MAY CHANGE
 
@@ -41,13 +41,13 @@ Orientation is flat on the parts back with supports enabled currently, we are wo
 | Pin     	| https://amzn.to/488gP2v 	|        	|        	|        	|
 | Screw   	|                         	|        	|        	|        	|
 
-**note links are affiliate to BT123**
+**note links are affiliates**
 
 ## Docks
 Currently all docks used with [Viertuz Tapchanger](https://github.com/viesturz/tapchanger) are compatible.  In the future we might develop our own.
 
 ## Software
-[Viertuz Tapchanger](https://github.com/viesturz/tapchanger).  The only changes will be in the toolhead config which you will find in the klipper directory in this repo.
+[Viesturz's Tapchanger](https://github.com/viesturz/tapchanger).  The only changes will be in the toolhead config which you will find in the klipper directory in this repo.
 
 ## Preview
 ### Assembled Shuttle
