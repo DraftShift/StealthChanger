@@ -1,9 +1,22 @@
 # StealthChanger
-Spinoff from Viertuz Tapchanger-Lite
+Spinoff from [Viertuz Tapchanger](https://github.com/viesturz/tapchanger)
+
+### WIP - PROTOTYPE TESTED AND WORKING BUT STILL WIP. BOM WILL CHANGE
 
 Due to difficulties with heat insert and ligning of bearings and mounts i wanted to try a more simplistic design based on bushings and rods.
 
-## Hardware Rev 3 v34 - PROTOTYPE TESTED AND WORKING BUT STILL WIP. BOM WILL CHANGE
+This version is very lite, requires less parts and as such is cheaper and easyer to build.  Input shaper tests have shown it to be as rigid if not better then current Tapchanger.
+
+All parts are easily replaceable without reprinting if wear happens, life of the bushings and pins are still being tested.
+
+## Print Settings
+All print settings are the same as [Voron Standards](https://docs.vorondesign.com/sourcing.html#print-settings)
+
+Orientation is flat on the parts back with supports enabled currently, we are working on models with integrated supports.
+
+## Software
+[Viertuz Tapchanger](https://github.com/viesturz/tapchanger).  The only changes will be in the toolhead config which you will find in the klipper directory in this repo.
+
 ### Shuttle
 - [3] 6x3mm magnets
 - [2] m3x6 button head (tap sensor)
@@ -20,6 +33,16 @@ Due to difficulties with heat insert and ligning of bearings and mounts i wanted
 - [2] m3x8 counter sunk
 
 **Note: heatsets on the SB version in from the opposite side as the Voron instructions, slightly longer screws on the CW2 attachment may be required**
-### Dock
-TODO: See TapChanger Feet Docks
 
+## Docks
+Currently all docks used with [Viertuz Tapchanger](https://github.com/viesturz/tapchanger) are compatible.  In the future we might develop our own.
+
+## Images
+### Assembled Shuttle
+(https://github.com/Hellsparks/StealthChanger/blob/main/media/shuttle.png?raw=true)
+### Shuttle on back plate on Stealth Burner
+(https://github.com/Hellsparks/StealthChanger/blob/main/media/assembled.png?raw=true)
+### Motion
+(https://github.com/Hellsparks/StealthChanger/blob/main/media/motion.gif?raw=true)
+### Docking
+(https://github.com/Hellsparks/StealthChanger/blob/main/media/docking.gif?raw=true)
