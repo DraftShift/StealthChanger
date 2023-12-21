@@ -4,7 +4,7 @@ Based on Viesturz's work on [Tapchanger](https://github.com/viesturz/tapchanger)
 
 ### WIP - STABLE TESTED AND WORKING BUT STILL WIP. BOM MAY CHANGE
 
-Due to difficulties with heat insert and aligning of bearings and mounts we wanted to try a more simplistic design based on bushings and rods.
+Due to difficulties with heat insert and aligning of bearings and mounts we wanted to try a more simplistic design based on bushings and pins.
 
 This is a very light design, requiring less parts and as such is cheaper and easier to build.  Input shaper tests have shown it to be as rigid if not more then current Tapchanger.
 
