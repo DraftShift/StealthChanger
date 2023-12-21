@@ -1,3 +1,4 @@
+![](https://github.com/Hellsparks/StealthChanger/blob/main/media/Stealthchanger_logo_sm.png?raw=true)
 # StealthChanger
 Spinoff from [Viertuz Tapchanger](https://github.com/viesturz/tapchanger)
 
