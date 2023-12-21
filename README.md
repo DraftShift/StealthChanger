@@ -44,7 +44,7 @@ Orientation is flat on the parts back with supports enabled currently, we are wo
 **note links are affiliates**
 
 ## Docks
-Currently all docks used with [Viertuz Tapchanger](https://github.com/viesturz/tapchanger) are compatible.  In the future we might develop our own.
+Currently all docks used with [Viesturz's Tapchanger](https://github.com/viesturz/tapchanger) are compatible.  In the future we might develop our own.
 
 ## Software
 [Viesturz's Tapchanger](https://github.com/viesturz/tapchanger).  The only changes will be in the toolhead config which you will find in the klipper directory in this repo.
