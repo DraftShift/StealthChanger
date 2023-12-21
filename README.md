@@ -2,7 +2,7 @@
 # StealthChanger
 Spinoff from [Viertuz Tapchanger](https://github.com/viesturz/tapchanger)
 
-### WIP - PROTOTYPE TESTED AND WORKING BUT STILL WIP. BOM WILL CHANGE
+### WIP - STABLE TESTED AND WORKING BUT STILL WIP. BOM MAY CHANGE
 
 Due to difficulties with heat insert and ligning of bearings and mounts i wanted to try a more simplistic design based on bushings and rods.
 
