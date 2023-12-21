@@ -9,6 +9,9 @@ This version is very lite, requires less parts and as such is cheaper and easyer
 
 All parts are easily replaceable without reprinting if wear happens, life of the bushings and pins are still being tested.
 
+## Tool compatability
+Currently we support the standard Stealth Burner.  There are plans in place to sadd the Mini Stealth Burner, Dragon Burner and XOL.
+
 ## Print Settings
 All print settings are the same as [Voron Standards](https://docs.vorondesign.com/sourcing.html#print-settings)
 
