@@ -42,9 +42,9 @@ Currently all docks used with [Viertuz Tapchanger](https://github.com/viesturz/t
 
 ## Images
 ### Assembled Shuttle
-![](https://github.com/Hellsparks/StealthChanger/blob/main/media/shuttle.png?raw=true)
+![](https://github.com/Hellsparks/StealthChanger/blob/main/media/shuttle.jpg?raw=true)
 ### Shuttle on back plate on Stealth Burner
-![](https://github.com/Hellsparks/StealthChanger/blob/main/media/assembled.png?raw=true)
+![](https://github.com/Hellsparks/StealthChanger/blob/main/media/assembled.jpg?raw=true)
 ### Motion
 ![](https://github.com/Hellsparks/StealthChanger/blob/main/media/motion.gif?raw=true)
 ### Docking
