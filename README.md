@@ -35,11 +35,11 @@ Orientation is flat on the parts back with supports enabled currently, we are wo
 
 **Note: heatsets on the SB version in from the opposite side as the Voron instructions, slightly longer screws on the CW2 attachment may be required**
 
-| Parts   	| Link 1 	| Link 2 	| Link 3 	| Link 4 	|
-|---------	|--------	|--------	|--------	|--------	|
-| Bushing 	|        	|        	|        	|        	|
-| Pin     	|        	|        	|        	|        	|
-| Screw   	|        	|        	|        	|        	|
+| Parts   	| Link 1                  	| Link 2 	| Link 3 	| Link 4 	|
+|---------	|-------------------------	|--------	|--------	|--------	|
+| Bushing 	| https://amzn.to/48jnoPO 	|        	|        	|        	|
+| Pin     	| https://amzn.to/488gP2v 	|        	|        	|        	|
+| Screw   	|                         	|        	|        	|        	|
 
 ## Docks
 Currently all docks used with [Viertuz Tapchanger](https://github.com/viesturz/tapchanger) are compatible.  In the future we might develop our own.
