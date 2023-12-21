@@ -35,13 +35,13 @@ Orientation is flat on the parts back with supports enabled currently, we are wo
 
 **Note: heatsets on the SB version in from the opposite side as the Voron instructions, slightly longer screws on the CW2 attachment may be required**
 
-## Software
-[Viertuz Tapchanger](https://github.com/viesturz/tapchanger).  The only changes will be in the toolhead config which you will find in the klipper directory in this repo.
-
 ## Docks
 Currently all docks used with [Viertuz Tapchanger](https://github.com/viesturz/tapchanger) are compatible.  In the future we might develop our own.
 
-## Images
+## Software
+[Viertuz Tapchanger](https://github.com/viesturz/tapchanger).  The only changes will be in the toolhead config which you will find in the klipper directory in this repo.
+
+## Preview
 ### Assembled Shuttle
 ![](https://github.com/Hellsparks/StealthChanger/blob/main/media/shuttle.jpg?raw=true)
 ### Shuttle on back plate on Stealth Burner
