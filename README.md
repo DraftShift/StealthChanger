@@ -27,7 +27,7 @@ Orientation is flat on the parts back with supports enabled currently, we are wo
 - [4] m3 heat inserts
 - [3] 4x12mm ssRod (dowel pin) with a rounded end
 - [1] 6x3mm magnets
-- [2] m3x8 FHCS (Flat head cap screw, MUST BE MAGNETIC. no stainless, as per TAP)
+- [2] m3x8 FHCS (Flat head countersunk screw, MUST BE MAGNETIC. no stainless, as per TAP)
 ### Endstop options
 - [1] m3x6 button head
 - [1] m3 heat inserts
