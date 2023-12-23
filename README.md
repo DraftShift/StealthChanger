@@ -6,7 +6,7 @@ Based on Viesturz's work on [Tapchanger](https://github.com/viesturz/tapchanger)
 
 Due to difficulties with heat insert and aligning of bearings and mounts we wanted to try a more simplistic design based on bushings and pins.
 
-This is a very light design, requiring less parts and as such is cheaper and easier to build.  Input shaper tests have shown it to be as rigid if not more then current Tapchanger.
+This is a very light design, requiring less parts and as such is cheaper and easier to build.  Input shaper tests have shown it to be as rigid if not more than current Tapchanger.
 
 All parts are easily replaceable without reprinting if wear happens, life of the bushings and pins are still being tested.
 
@@ -16,7 +16,9 @@ Currently we support the standard Stealth Burner.  There are plans in place to a
 ## BOM and Printing
 All print settings are the same as [Voron Standards](https://docs.vorondesign.com/sourcing.html#print-settings)
 
-Orientation is flat on the parts back with supports enabled currently, we are working on models with integrated supports.
+All parts (screws, magnets, etc) are Voron, and Voron Tap standards.
+
+Print orientation is flat on the parts back with supports enabled currently, we are working on models with integrated supports.
 
 ### Shuttle
 - [3] 6x3mm magnets
