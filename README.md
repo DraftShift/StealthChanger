@@ -37,11 +37,11 @@ Print orientation is flat on the parts back with supports enabled currently, we 
 
 **Note: heatsets on the SB version in from the opposite side as the Voron instructions, slightly longer screws on the CW2 attachment may be required**
 
-| Parts   	| Link 1                  	| Link 2 	| Link 3 	| Link 4 	|
-|---------	|-------------------------	|--------	|--------	|--------	|
-| Bushing 	| https://amzn.to/48jnoPO 	|        	|        	|        	|
-| Pin     	| https://amzn.to/488gP2v 	|        	|        	|        	|
-| Screw   	|                         	|        	|        	|        	|
+| Parts   	| Link 1   UK amazon      	| Link 2 AliExpress                      	| Link 3 	| Link 4 	|
+|---------	|-------------------------	|-----------------------------------------	|--------	|--------	|
+| Bushing 	| https://amzn.to/48jnoPO 	| https://s.click.aliexpress.com/e/_DDdsj8V |        	|        	|
+| Pin     	| https://amzn.to/488gP2v 	| https://s.click.aliexpress.com/e/_DEfc0JB	|        	|        	|
+| Screw   	|                         	|                                        	|        	|        	|
 
 **note links are affiliates**
 
