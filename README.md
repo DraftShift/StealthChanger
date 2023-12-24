@@ -41,7 +41,6 @@ Print orientation is flat on the parts back with supports enabled currently, we 
 |---------	|-------------------------	|-----------------------------------------	|--------	|--------	|
 | Bushing 	| https://amzn.to/48jnoPO 	| https://s.click.aliexpress.com/e/_DDdsj8V |        	|        	|
 | Pin     	| https://amzn.to/488gP2v 	| https://s.click.aliexpress.com/e/_DEfc0JB	|        	|        	|
-| Screw   	|                         	|                                        	|        	|        	|
 
 **note links are affiliates**
 
