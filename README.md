@@ -1,5 +1,4 @@
-![](https://github.com/Hellsparks/StealthChanger/blob/main/media/Stealthchanger_logo_sm.png?raw=true)
-# StealthChanger
+# ![](https://github.com/Hellsparks/StealthChanger/blob/main/media/Stealthchanger_logo_sm.png?raw=true) StealthChanger
 Based on Viesturz's work on [Tapchanger](https://github.com/viesturz/tapchanger)
 
 ### WIP - STABLE TESTED AND WORKING BUT STILL WIP. BOM MAY CHANGE
@@ -13,13 +12,14 @@ All parts are easily replaceable without reprinting if wear happens, life of the
 ## Tool compatability
 Currently we support the standard Stealth Burner.  There are plans in place to add the Mini Stealth Burner, Dragon Burner and XOL.
 
-## BOM and Printing
-All print settings are the same as [Voron Standards](https://docs.vorondesign.com/sourcing.html#print-settings)
+## Printing
+All print settings are the same as [Voron Standards](https://docs.vorondesign.com/sourcing.html#print-settings) or better.
 
 All parts (screws, magnets, etc) are Voron, and Voron Tap standards.
 
 Print orientation is flat on the parts back with supports enabled currently, we are working on models with integrated supports.
 
+## BOM
 ### Shuttle
 - [3] 6x3mm magnets
 - [2] m3x6 button head (tap sensor)
@@ -50,6 +50,9 @@ Currently all docks used with [Viesturz's Tapchanger](https://github.com/viestur
 ## Software
 [Viesturz's Tapchanger](https://github.com/viesturz/tapchanger).  The only changes will be in the toolhead config which you will find in the klipper directory in this repo.
 
+## Support
+[Discord](https://discord.com/channels/1119433664799965186/1187877885235699843)
+
 ## Preview
 ### Assembled Shuttle
 ![](https://github.com/Hellsparks/StealthChanger/blob/main/media/shuttle.jpg?raw=true)
@@ -59,3 +62,12 @@ Currently all docks used with [Viesturz's Tapchanger](https://github.com/viestur
 ![](https://github.com/Hellsparks/StealthChanger/blob/main/media/motion.gif?raw=true)
 ### Docking
 ![](https://github.com/Hellsparks/StealthChanger/blob/main/media/docking.gif?raw=true)
+
+## Contributors
+| Github   	| Discord    	|
+|---------	|---------	|
+| Hellsparks 	| _hellspark 	|
+| TheSin-     	| thessien 	|
+| BT123D     	| bt123_ 	|
+| fiferboy     	| fiferboy 	|
+| paeppi88     	| paeppi88 	|
