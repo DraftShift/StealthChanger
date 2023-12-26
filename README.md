@@ -54,14 +54,14 @@ Currently all docks used with [Viesturz's Tapchanger](https://github.com/viestur
 [Discord](https://discord.com/channels/1119433664799965186/1187877885235699843)
 
 ## Preview
-### Printed Parts (Dragonburner)
+### Printed Parts (Dragonburner) by ZombieHedgehog
 ![](https://github.com/Hellsparks/StealthChanger/blob/main/media/parts.png?raw=true)
 ![](https://github.com/Hellsparks/StealthChanger/blob/main/media/parts_together.png?raw=true)
-### Assembled Shuttle
+### Assembled Shuttle by TheSin-
 ![](https://github.com/Hellsparks/StealthChanger/blob/main/media/shuttle.jpg?raw=true)
-### Motion (Stealthburner)
+### Motion (Stealthburner) by TheSin-
 ![](https://github.com/Hellsparks/StealthChanger/blob/main/media/motion.gif?raw=true)
-### Docking (Stealthburner)
+### Docking (Stealthburner) by fiferboy
 ![](https://github.com/Hellsparks/StealthChanger/blob/main/media/docking.gif?raw=true)
 
 ## Contributors
