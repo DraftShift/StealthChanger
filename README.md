@@ -30,6 +30,11 @@ Print orientation is flat on the parts back with supports enabled currently, we 
 - [3] 4x12mm ssRod (dowel pin) with a rounded end
 - [1] 6x3mm magnets
 - [2] m3x8 FHCS (Flat head countersunk screw, MUST BE MAGNETIC. no stainless, as per TAP)
+#### Dragonburner
+- [1] m3x6 button head (optional to keep spacer in place)
+- [2] m3x35
+- [2] m3 heat inserts (optional m3 hex nuts, stl not exported, but in cad)
+** Note: Dragonburner extended mount is require depending on extruder**
 ### Endstop options
 - [1] m3x6 button head
 - [1] m3 heat inserts
