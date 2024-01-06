@@ -19,24 +19,26 @@ All parts (screws, magnets, etc) are Voron, and Voron Tap standards.
 
 Print orientation is flat on the parts back with supports enabled currently, we are working on models with integrated supports.
 
+NOTE: Currently pins may feel very loose, this is by design to allow for room for glue or epoxy (recommended) to set.  Normally press fit is good enough for testined, but for actual use make sure to secure the pins properly.
+
 ## BOM
 ### Shuttle
 - [3] 6x3mm magnets
-- [2] m3x6 button head (tap sensor)
-- [4] m3x6 button head (mgn bolts)
-- [3] 4x6x6mm bronze bushing (4mm id x 6mm od x 6mm tall)
+- [2] m3x6 BHCS (tap sensor)
+- [4] m3x6 BHCS head (mgn bolts)
+- [3] 4x6x6mm brass bushing (4mm id x 6mm od x 6mm tall)
 ### Back plate x1 per toolhead
 - [4] m3 heat inserts
 - [3] 4x12mm ssRod (dowel pin) with a rounded end
 - [1] 6x3mm magnets
-- [2] m3x8 FHCS (Flat head countersunk screw, MUST BE MAGNETIC. no stainless, as per TAP)
+- [2] m3x6 or m3x8 FHCS (Flat head countersunk screw, MUST BE MAGNETIC. no stainless, as per TAP)
 #### Dragonburner
-- [1] m3x6 button head (optional to keep spacer in place)
-- [2] m3x35
-- [2] m3 heat inserts (optional m3 hex nuts, stl not exported, but in cad)
+- [1] m3x12 BHCS (optional to keep spacer in place)
+- [2] m3x35 SHCS
+- [2] m3 heat inserts
 ** Note: Dragonburner extended mount is require depending on extruder**
 ### Endstop options
-- [1] m3x6 button head
+- [1] m3x6 BHCS
 - [1] m3 heat inserts
 - [1] 6x3mm magnet (Hall Effect Sensor ONLY)
 
