@@ -27,6 +27,7 @@ NOTE: Currently pins may feel very loose, this is by design to allow for room fo
 - [2] m3x6 BHCS (tap sensor)
 - [4] m3x6 BHCS head (mgn bolts)
 - [3] 4x6x6mm brass bushing (4mm id x 6mm od x 6mm tall)
+- [2] m3x40 SHCS (Optional: to stiffen the shuttle)
 ### Back plate x1 per toolhead
 - [4] m3 heat inserts
 - [3] 4x12mm ssRod (dowel pin) with a rounded end
