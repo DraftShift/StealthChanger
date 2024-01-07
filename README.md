@@ -80,3 +80,12 @@ Currently all docks used with [Viesturz's Tapchanger](https://github.com/viestur
 | BT123D     	| bt123_ 	|
 | fiferboy     	| fiferboy 	|
 | paeppi88     	| paeppi88 	|
+
+## Media
+### Built on stream by ZombieHedgehog
+https://www.twitch.tv/zombiehedgehog
+| Episode   |           |
+|---------	|---------	|
+| 1 | https://youtu.be/YK2Zk2K584Y |
+| 2 | https://youtu.be/yOGEAGLlvZc |
+| 3 | https://youtu.be/W_r2b8U1J6k |
