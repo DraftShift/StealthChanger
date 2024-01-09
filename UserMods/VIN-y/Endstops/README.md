@@ -1,4 +1,4 @@
-This mod is a remixing the endstop carrier from [MrTeliP](https://www.printables.com/model/325765-voron-24r2-pg7-cable-gland-and-endstop)
+This mod is a remixing the endstop carrier from [MrTeliP](https://www.printables.com/model/325765-voron-24r2-pg7-cable-gland-and-endstop) (on Printables)
 
 ### Pupose
 It move the X and Y endstop switches to a single assembly, which attached to the stock Voron A(Y) motor mount. 
