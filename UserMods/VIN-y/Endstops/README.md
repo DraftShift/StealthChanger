@@ -4,7 +4,7 @@ This mod is a remixing the endstop carrier from [MrTeliP](https://www.printables
 It move the X and Y endstop switches to a single assembly, which attached to the stock Voron A(Y) motor mount. 
 
 ### Assembly
-This assembly is held in place by replacing the original two M3x30mm bolts with two M3x35mm bolts, which passed through the holes on the assembly.
+This assembly is held in place by replacing the original two M3x30mm bolts with two M3x35mm bolts, which passed through the holes on the assembly (See the **Images** folder).
 
 ### How it works
 This configuration works by adding the `[force_move]` and `[homing_override]` function in klipper's **printer.cfg** to create make sure that the Y-axis is homed before the X-axis.
