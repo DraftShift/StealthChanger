@@ -41,7 +41,7 @@ in order to get proper matching set you should:
 - [2] m3x40 SHCS (Optional: to stiffen the shuttle)
 ### Back plate x1 per toolhead
 - [4] m3 heat inserts
-- [3] Ø4x12mm ssRod (dowel pin) with a rounded end *(if it has female threads on the back it will be listed as an M3, but make sure the pin is 4mm OD, that is what is important)*
+- [3] Ø4x12mm ssRod (dowel pin) with a rounded end **(if it has female threads on the back it will be listed as an M3, but make sure the pin is 4mm OD, that is what is important)**
 - [1] 6x3mm magnets
 - [2] m3x6 or m3x8 FHCS (Flat head countersunk screw, MUST BE MAGNETIC. no stainless, as per TAP)
 #### Dragonburner
