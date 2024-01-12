@@ -31,6 +31,8 @@ in order to get proper matching set you should:
 - You can now use the shuttle as a "master blank" for glueing the pins into all your backplates.
 
 ### Configs (TO BE DONE)
+#### CANbus
+https://github.com/Esoterical/voron_canbus this is a preety definitive guide for canbus implementation on klipper.
 
 ## BOM
 ### Shuttle
