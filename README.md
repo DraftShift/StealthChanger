@@ -1,5 +1,5 @@
-# ![](https://github.com/Hellsparks/StealthChanger/blob/main/media/Stealthchanger_logo_sm.png?raw=true) StealthChanger
-Based on Viesturz's work on [Tapchanger](https://github.com/viesturz/tapchanger)
+# ![](https://github.com/Hellsparks/StealthChanger/blob/main/media/Stealthchanger_logo_sm.png?raw=true) 
+StealthChanger: Based on Viesturz's work on [Tapchanger](https://github.com/viesturz/tapchanger)
 
 ### WIP - STABLE TESTED AND WORKING BUT STILL WIP. BOM MAY CHANGE
 
