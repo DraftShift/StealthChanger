@@ -41,9 +41,9 @@ gcode_z_offset: 0
 | M3x6mm FHCS screw           | 2         | Has to be magnetic (not stainless)                               |
 | springsteel plate           | 1         | max 10mm wide, max 1mm thick, with M4 hole (I used blades from a [feeler gauge](https://www.biltema.no/en-no/car---mc/car-tools/engine-tools/spark-plug-tools/feeler-gauge-mminches-2000028588) )        |
 | M4 screw                    | 1         | Maximum 6.3mm wide screw head                                    |
-| M3x14mm BHCS or SHCS screw  | 2         | Any M3 screw will work                                           |
+| M3x14mm screw               | 2         | Recommend BHCS or SHCS, but any M3 screw will work               |
 | M3 T-slot nut               | 2         | Any M3 2020 T-Slot Nut will work (recommend springnuts)          |
-| M3 heatset nut (5x4x3)      | 2         | For EBB36 mount (Voron Standard)                                 |
+| M3 heatset nut (5x4x3)      | 8         | (Voron Standard) 6 for Plate and 2 for EBB36 mount               |
 
 
 ## Assembly
