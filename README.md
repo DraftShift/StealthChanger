@@ -76,7 +76,7 @@ Currently all docks used with [Viesturz's Tapchanger](https://github.com/viestur
 [Viesturz's Tapchanger](https://github.com/viesturz/tapchanger).  The only changes will be in the toolhead config which you will find in the klipper directory in this repo.
 
 ## Support
-[Discord](https://discord.com/channels/1119433664799965186/1187877885235699843)
+[Wiki](https://github.com/Hellsparks/StealthChanger/wiki)
 
 ## Preview
 ### Printed Parts (Dragonburner) by ZombieHedgehog
