@@ -19,6 +19,9 @@ All parts (screws, magnets, etc) are Voron, and Voron Tap standards.
 
 Print orientation is flat on the parts back with supports enabled currently, we are working on models with integrated supports.
 
+![Print Orientation](media/Print_orientation.jpg?raw=true)
+
+
 **NOTE: Currently pins may feel very loose, this is by design to allow for room for glue or epoxy (recommended) to set.  Normally press fit is good enough for testined, but for actual use make sure to secure the pins properly.**
 
 **NOTE: D2HW shuttle is not compatible with Hall Effects, and D2HW back plate will affect cooling.**
