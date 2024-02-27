@@ -1,11 +1,13 @@
 # Example Setup
 
-Most of the code has been taken from the [TapChanger](https://github.com/viesturz/tapchanger)
+Most of the code has been taken from the [TapChanger](https://github.com/viesturz/tapchanger) repo.
 
 
 ## Tapchanger Files
 
 You need `homing.cfg`, `macros.cfg`, `tool_detection.cfg` and `toolchanger.cfg` from [TapChanger Example](https://github.com/viesturz/tapchanger/tree/main/Klipper/config-example)
+
+You can either add them manually to your klipper install, or alternatively, you can integrate them to your config so that moonraker keeps them up to date with your other software if they change. Below are the steps for the integrated way. If you make any changes to the files though, they will be overwritten if you update. If you choose to manually add them, make sure your printer.cfg reflects the location of them.
 
 **On the Klipper System** 
 ```
