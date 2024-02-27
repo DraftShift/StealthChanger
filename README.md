@@ -38,7 +38,7 @@ https://github.com/Esoterical/voron_canbus this is a preety definitive guide for
 
 ## BOM
 ### Shuttle
-- [3] 6x3mm magnets
+- [3] 6x3mm magnets (N52 Highly recommended to counter the pull from the umbilicals)
 - [2] m3x6 BHCS (tap sensor)
 - [4] m3x6 BHCS head (mgn bolts)
 - [3] 4x6x6mm brass bushing (4mm id x 6mm od x 6mm tall)
@@ -46,7 +46,7 @@ https://github.com/Esoterical/voron_canbus this is a preety definitive guide for
 ### Back plate x1 per toolhead
 - [4] m3 heat inserts
 - [3] Ø4x12mm ssRod (dowel pin) with a rounded end **(if it has female threads on the back it will be listed as an M3, but make sure the pin is 4mm OD, that is what is important)**
-- [1] 6x3mm magnets
+- [1] 6x3mm magnets (N52 Highly recommended to counter the pull from the umbilicals)
 - [2] m3x6 or m3x8 FHCS (Flat head countersunk screw, MUST BE MAGNETIC. no stainless, as per TAP)
 #### Dragonburner
 - [1] m3x12 BHCS (optional to keep spacer in place)
@@ -56,7 +56,7 @@ https://github.com/Esoterical/voron_canbus this is a preety definitive guide for
 ### Endstop options
 - [1] m3x6 BHCS
 - [1] m3 heat inserts
-- [1] 6x3mm magnet (Hall Effect Sensor ONLY)
+- [1] 6x3mm magnet (Hall Effect Sensor ONLY, Voron spec)
 
 **Note: heatsets on the SB version in from the opposite side as the Voron instructions, slightly longer screws on the CW2 attachment may be required**
 
