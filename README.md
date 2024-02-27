@@ -18,6 +18,8 @@ All print settings are the same as [Voron Standards](https://docs.vorondesign.co
 All parts (screws, magnets, etc) are Voron, and Voron Tap standards.
 
 Print orientation is flat on the parts back with supports enabled currently, we are working on models with integrated supports.
+<img width="704" alt="image" src="https://github.com/BrewNinja/StealthChanger/assets/19670552/74be808a-2bcb-46f9-9db5-7f63dfe70e61">
+
 
 **NOTE: Currently pins may feel very loose, this is by design to allow for room for glue or epoxy (recommended) to set.  Normally press fit is good enough for testined, but for actual use make sure to secure the pins properly.**
 
