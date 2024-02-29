@@ -21,24 +21,3 @@ Currently we support the standard Stealth Burner, Dragon Burner, and Rapid Burne
 6. [Docks](Docks)
 7. [Support and FAQs](Support)
 8. [Contributors](Contributors)
-
-**Printed Parts (Dragonburner) by ZombieHedgehog**
-
-![](https://github.com/Hellsparks/StealthChanger/blob/main/media/parts.png?raw=true)
-![](https://github.com/Hellsparks/StealthChanger/blob/main/media/parts_together.png?raw=true)
-
-
-**Assembled Shuttle by TheSin-**
-
-![](https://github.com/Hellsparks/StealthChanger/blob/main/media/shuttle.jpg?raw=true)
-
-
-**Motion (Stealthburner) by TheSin-**
-
-![](https://github.com/Hellsparks/StealthChanger/blob/main/media/motion.gif?raw=true)
-
-
-**Docking (Stealthburner) by fiferboy**
-
-![](https://github.com/Hellsparks/StealthChanger/blob/main/media/docking.gif?raw=true)
-
