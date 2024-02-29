@@ -3,7 +3,7 @@ All parts (screws, magnets, etc) are Voron, and Voron Tap standards.
 1. [Shuttle](#shuttle)
 2. [BackPlates](#backplates)
 3. [Endstops](#endstops)
-4. [Links](#links)
+4. [Affiliate Links](#affiliate-links)
 
 ## Shuttle
 
@@ -43,9 +43,7 @@ Optional
 - [1] 6x3mm magnet (Hall Effect Sensor ONLY, Voron spec)
 
 
-## Links
-
-**note links are affiliates**
+## Affiliate Links
 
 | Parts   	| Link 1   UK Amazon      	| Link 2 AliExpress                      	| Link 3    US Amazon	  | Link 4 	|
 |---------	|-------------------------	|-----------------------------------------	|------------------------ |--------	|
