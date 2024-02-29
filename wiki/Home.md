@@ -19,5 +19,6 @@ Currently we support the standard Stealth Burner, Dragon Burner, and Rapid Burne
 4. [Installation](Installation)
 5. [Configuration](Configuration)
 6. [Docks](Docks)
-7. [Support and FAQs](Support-and-FAQs)
-8. [Contributors](Contributors)
+7. [Slicers](Slicers)
+8. [Support and FAQs](Support-and-FAQs)
+9. [Contributors](Contributors)
