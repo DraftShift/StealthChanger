@@ -2,10 +2,10 @@
 
 | Github   	| Discord    	| Main Role     |
 |---------	|---------	|---------      |
-| @Hellsparks 	| _hellspark 	| Designer      |
-| @TheSin-     	| thessien 	| Designer      |
-| @BT123D     	| bt123_ 	| Designer      |
-| @fiferboy    	| fiferboy 	| Designer      |
-| @paeppi88    	| paeppi88 	| Contributor   |
-| @MarcO        | OstroMa       | Tested        |
-| @BrewNinja    | BrewNinja     | Documentation |
+| [Hellsparks](https://github.com/Hellsparks/) | _hellspark | Designer |
+| [TheSin-](https://github.com/thesin-/) | thessien | Designer |
+| [BT123D](https://github.com/bt123d/) | bt123_ | Designer |
+| [fiferboy](https://github.com/fiferboy/) | fiferboy | Designer |
+| [paeppi88](https://github.com/paeppi88/) | paeppi88 | Contributor |
+| [MarcO](https://github.com/ostroma/) | MarcO | Tester |
+| [BrewNinja](https://github.com/BrewNinja/) | BrewNinja | Documentation |
