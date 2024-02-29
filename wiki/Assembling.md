@@ -1,5 +1,9 @@
 # Assembling
 
+**NOTE: Currently pins may feel very loose, this is by design to allow for room for glue or epoxy (recommended) to set.  Normally press fit is good enough for testined, but for actual use make sure to secure the pins properly.**
+
+**NOTE: D2HW shuttle is not compatible with Hall Effects, and D2HW back plate will affect cooling.**
+
 In order to get proper matching set you should:
 - insert pins in your best backplate (straightest)
 - press bushings in the shuttle and ensure a smooth mating between the parts.
