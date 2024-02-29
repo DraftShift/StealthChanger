@@ -13,7 +13,7 @@ All parts are easily replaceable without reprinting if wear happens, life of the
 Currently we support the standard Stealth Burner, Dragon Burner, and Rapid Burner.  There are plans in place to add the Mini Stealth Burner, XOL, and Archetype.
 
 
-1. [Bill of Materials](BOM)
+1. [Bill of Materials](Bill-of-Materials)
 2. [Printing](Printing)
 3. [Assembling](Assembling)
 4. [Installation](Installation)

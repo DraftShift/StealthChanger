@@ -1,5 +1,3 @@
-# Bill of Materials
-
 All parts (screws, magnets, etc) are Voron, and Voron Tap standards.
 
 1. [Shuttle](#shuttle)

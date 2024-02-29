@@ -1,5 +1,3 @@
-# Support and FAQs
-
 1. [Methods](#methods)
 2. [FAQs](#faqs)
 3. [Build Guides](#build-guides)

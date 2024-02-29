@@ -1,5 +1,3 @@
-# Installation
-
 All sections are required, so please follow all steps carefully.
 
 1. [Klipper Addon](#klipper-addon)

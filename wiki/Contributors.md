@@ -1,5 +1,3 @@
-# Contributors
-
 | Github   	| Discord    	| Main Role     |
 |---------	|---------	|---------      |
 | [Hellsparks](https://github.com/Hellsparks/) | _hellspark | Designer |
