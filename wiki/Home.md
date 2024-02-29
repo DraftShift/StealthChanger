@@ -15,11 +15,12 @@ Currently we support the standard Stealth Burner, Dragon Burner, and Rapid Burne
 
 1. [Bill of Materials](BOM)
 2. [Printing](Printing)
-3. [Installation](Installation)
-4. [Configuration](Configuration)
-5. [Docks](Docks)
-6. [Support and FAQs](Support)
-7. [Contributors](Contributors)
+3. [Assembling](Assembling)
+4. [Installation](Installation)
+5. [Configuration](Configuration)
+6. [Docks](Docks)
+7. [Support and FAQs](Support)
+8. [Contributors](Contributors)
 
 **Printed Parts (Dragonburner) by ZombieHedgehog**
 
