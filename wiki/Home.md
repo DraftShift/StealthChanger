@@ -1,7 +1,7 @@
 ![](https://github.com/Hellsparks/StealthChanger/blob/main/media/Stealthchanger_logo_sm.png?raw=true)
 # StealthChanger
 
-### WIP - STABLE TESTED AND WORKING BUT STILL WIP - BOM MAY CHANGE
+**WIP - STABLE TESTED AND WORKING BUT STILL WIP - BOM MAY CHANGE**
 
 Due to difficulties with heat insert and aligning of bearings and mounts we wanted to try a more simplistic design based on bushings and pins.
 

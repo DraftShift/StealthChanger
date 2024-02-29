@@ -2,15 +2,15 @@
 
 All sections are required, so please follow all steps carefully.
 
-1. [Klipper](#klipper)
-2. [Macros](#macros)
+1. [Klipper Addon](#klipper-addon)
+2. [Toolchanger Configuration](#toolchanger-configuration)
 
-## Klipper
+## Klipper Addon
 
 You must install [klipper-toolchanger](https://github.com/viesturz/klipper-toolchanger/), Follow instruction on the linked page.
 
 
-## Macros
+## Toolchanger Configuration
 
 You need `homing.cfg`, `macros.cfg`, `tool_detection.cfg` and `toolchanger.cfg` from [TapChanger Example](https://github.com/viesturz/tapchanger/tree/main/Klipper/config-example)
 
