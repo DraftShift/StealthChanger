@@ -1,6 +1,7 @@
 1. [Methods](#methods)
 2. [FAQs](#faqs)
-3. [Build Guides](#build-guides)
+3. [Build Guide](#build-guide)
+4. [Macros](#macros)
 
 
 ## Methods
@@ -38,3 +39,9 @@
 | 3 | https://youtu.be/W_r2b8U1J6k |
 | 4 | https://youtu.be/cCbIjArKL4M |
 
+## Macros
+
+Tool_Align_Start - This macro will put the toolhead 100mm away from where you set the docking position. 
+Tool_Align_Test - This macro will test the docking/undocking procedure. Start it from the docking position (start a few mm up on z, as the first movement is moving straight back on Y). 
+Tool_Align_Done - This macro will move the toolhead back away from the dock.
+A link to a video showing each one: [Youtube Video](https://www.youtube.com/watch?v=mOSi8zTpu_Q)
