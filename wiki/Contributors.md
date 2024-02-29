@@ -7,3 +7,5 @@
 | [paeppi88](https://github.com/paeppi88/) | paeppi88 | Contributor |
 | [MarcO](https://github.com/ostroma/) | MarcO | Tester |
 | [BrewNinja](https://github.com/BrewNinja/) | BrewNinja | Documentation |
+
+* For other Contributors see the [Usermods](ihttps://github.com/Hellsparks/StealthChanger/tree/main/UserMods) folders.
