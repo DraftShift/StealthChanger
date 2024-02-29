@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 793.7007874015749 1122.5196850393702"
+   width="793.7007874015749"
+   height="1122.5196850393702"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="Stealthchanger_logo.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.21024131"
+     inkscape:cx="397.16267"
+     inkscape:cy="561.25983"
+     inkscape:window-width="1552"
+     inkscape:window-height="849"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g9" />
+  <desc
+     id="desc1">Stealthchanger_logo.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc>
+  <defs
+     id="defs4">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path1" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path2" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path3" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path4" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="0"
+     id="g9">
+    <path
+       d="M 685.99159,177.06487 398.33068,10.983754 110.66974,177.06487 V 343.14598 H 14.782774 l 95.886966,95.88698 47.94349,-27.68019 V 204.74504 L 398.33068,66.344123 638.04811,204.74504 Z"
+       style="fill:none;stroke:#000000;stroke-width:0.507403"
+       id="path5" />
+    <path
+       d="M 110.66974,509.22711 398.33068,675.30818 685.99159,509.22711 V 343.14598 h 95.88699 L 685.99159,247.25902 638.04811,274.9392 V 481.54688 L 398.33068,619.94784 158.61323,481.54688 Z"
+       style="fill:none;stroke:#000000;stroke-width:0.507403"
+       id="path6" />
+    <path
+       d="M 398.33068,509.22711 H 328.59469 L 223.99071,343.14598 h 69.73598 z"
+       style="fill:none;stroke:#000000;stroke-width:0.507403"
+       id="path7" />
+    <path
+       d="m 468.06665,509.22711 h 69.73599 L 328.59469,177.06487 h -69.73598 z"
+       style="fill:none;stroke:#000000;stroke-width:0.507403"
+       id="path8" />
+    <path
+       d="m 398.33068,177.06487 h 69.73597 l 104.60399,166.08111 h -69.736 z"
+       style="fill:none;stroke:#000000;stroke-width:0.507403"
+       id="path9" />
+  </g>
+</svg>
