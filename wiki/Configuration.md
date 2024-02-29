@@ -14,3 +14,7 @@ You need to have a separate toolhead config for each toolhead, then link those i
 ## CANbus
 
 [voron_canbus](https://github.com/Esoterical/voron_canbus) this is a pretty definitive guide for canbus implementation on klipper.
+
+**Example CANbus layout**
+
+![Example CANbus Layout](https://github.com/Hellsparks/StealthChanger/blob/main/media/can_example.jpg?raw=true)
