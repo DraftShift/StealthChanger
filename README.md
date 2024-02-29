@@ -14,7 +14,7 @@ Currently we support the standard Stealth Burner, Dragon Burner, and Rapid Burne
 
 ## Documentation and Info
 
-Please use our [wiki](wiki) for more information and documentation.
+Please use our [wiki](https://github.com/Hellsparks/StealthChanger/wiki) for more information and documentation.
 
 ## Preview
 ### Printed Parts (Dragonburner) by ZombieHedgehog
