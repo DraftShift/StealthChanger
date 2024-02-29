@@ -9,7 +9,11 @@
 
 ## Settings
 
+All print settings are the same as [Voron Standards](https://docs.vorondesign.com/sourcing.html#print-settings) or better.
+
 
 ## Orientation
 
-Coming Soon
+Print orientation is flat on the parts back with supports enabled currently, we are working on models with integrated supports.
+
+![Print Orientation](media/Print_orientation.jpg?raw=true)

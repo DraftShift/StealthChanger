@@ -2,6 +2,7 @@
 
 1. [Methods](#methods)
 2. [FAQs](#faqs)
+3. [Build Videos](#builds)
 
 
 ## Methods
@@ -27,3 +28,13 @@
 5. A lot of people are asking which toolhead/extruder is recommended. The answer is whatever you want. The changer and tools are completely separate. That being said, using something that is already a tested combination for Stealth Burner or Dragon Burner is going to be the easiest.
 
 6. CAN setup. You are definitely going to want to use CAN to connect your toolheads. Its only 4 wires and much lighter. You don't need anything fancy to split out the signal. Simple WAGO connectors work just fine. Of course, there are options for boards that will split the signal as well if you want something that looks a little more professional. Run wires up to the umbilical from your controller and power supply, then use WAGO's there to split the signal. See the guide here for a lot more CAN information: https://github.com/Esoterical/voron_canbus 
+
+## Builds
+### Built on stream by [ZombieHedgehog](https://www.twitch.tv/zombiehedgehog)
+| Episode   |           |
+|---------	|---------	|
+| 1 | https://youtu.be/YK2Zk2K584Y |
+| 2 | https://youtu.be/yOGEAGLlvZc |
+| 3 | https://youtu.be/W_r2b8U1J6k |
+| 4 | https://youtu.be/cCbIjArKL4M |
+
