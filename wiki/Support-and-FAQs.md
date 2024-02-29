@@ -31,7 +31,8 @@
 7. If you try to change tools during a print (or when the hotends are active) and it drops off one tool, then waits behind another tool and does nothing, the issue is that its probably waiting for the tool temp to stabilize. Make sure you run a PID tune for each tool and place the info in the corresponding tool config.
 
 ## Build Guide
-### Built on stream by [ZombieHedgehog](https://www.twitch.tv/zombiehedgehog)
+**Built on stream by [ZombieHedgehog](https://www.twitch.tv/zombiehedgehog)**
+
 | Episode | |
 |--------- |--------- |
 | 1 | https://youtu.be/YK2Zk2K584Y |
