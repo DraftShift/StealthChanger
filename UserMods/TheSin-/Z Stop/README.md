@@ -10,6 +10,12 @@ Print the Spacer if you aren't using any X Endstops.  it's meant to be using bel
 Replace the endstop screw with an m3x10 BHCS
 
 ## Config
+After the required PR is accepted.
+
 Only the homing routine needs to be modified.
 
 Coming Soon.
+
+## Video
+
+[First test](https://www.youtube.com/shorts/LuYX53iF-jE)
