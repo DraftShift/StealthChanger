@@ -45,7 +45,7 @@ Optional
 
 ## Affiliate Links
 
-| Parts   	| Link 1   UK Amazon      	| Link 2 AliExpress                      	| Link 3    US Amazon	  | Link 4 	|
-|---------	|-------------------------	|-----------------------------------------	|------------------------ |--------	|
-| Bushing 	| https://amzn.to/48jnoPO 	| https://s.click.aliexpress.com/e/_Dkek3Op | https://amzn.to/3RAjKtY |        	|
-| Pin     	| https://amzn.to/488gP2v 	| https://s.click.aliexpress.com/e/_DEfc0JB	| https://amzn.to/3GZBSZn |        	|
+| Parts   	| Link 1     | Link 2    | Link 3    |
+|---------	|------------|-----------|-----------|
+| Bushing 	| [AliExpress](https://s.click.aliexpress.com/e/_Dkek3Op) | [US Amazon](https://amzn.to/3RAjKtY) | [UK Amazon](https://amzn.to/48jnoPO) | 
+| Pin     	| [AliExpress](https://s.click.aliexpress.com/e/_Dkek3Op) | [US Amazon](https://amzn.to/3GZBSZn) | [UK Amazon](https://amzn.to/488gP2v) |
