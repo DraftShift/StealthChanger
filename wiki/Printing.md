@@ -4,7 +4,7 @@
 
 ## Parts
 
-**NOTE: the DB dock in the Tapchanger repo uses custom Cowl that is not compatible or supported by Stealthchanger.  We recommend to always use the original cowls for all tools.  If you must use that dock please see the [Usermods](https://github.com/Hellsparks/StealthChanger/blob/main/UserMods/OstroMa/DB_Cowl_v8_with_TapChanger_Dock_Hooks.stl) for a merged version with proper original bolt locations.**
+**NOTE: The Dragonburner dock in the Tapchanger repo uses a custom cowl that is not compatible with or supported by Stealthchanger. Until a dock that is compatible with the original Dragonburner cowl is released, you must use the [custom cowl by OstroMa](https://github.com/Hellsparks/StealthChanger/blob/main/UserMods/OstroMa/DB_Cowl_v8_with_TapChanger_Dock_Hooks.stl). We always recommend to use the original cowls when possible.**
 
 
 Coming Soon
