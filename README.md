@@ -1,4 +1,4 @@
-# ![](media/Stealthchanger_logo_sm.png?raw=true) 
+# ![](media/Stealthchanger_toolchanger_logo.png?raw=true) 
 StealthChanger: Based on Viesturz's work on [Tapchanger](https://github.com/viesturz/tapchanger)
 
 ### WIP - STABLE TESTED AND WORKING BUT STILL WIP. BOM MAY CHANGE
