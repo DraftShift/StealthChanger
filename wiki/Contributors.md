@@ -8,4 +8,4 @@
 | [MarcO](https://github.com/ostroma/) | MarcO | Tester |
 | [BrewNinja](https://github.com/BrewNinja/) | BrewNinja | Documentation |
 
-* For other Contributors see the [Usermods](https://github.com/Hellsparks/StealthChanger/tree/main/UserMods) folders.
+* For other Contributors see the [Usermods](https://github.com/StealthChanger/Toolchanger/tree/main/UserMods) folders.

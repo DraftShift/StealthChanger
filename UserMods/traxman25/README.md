@@ -4,12 +4,12 @@ Mod to the stock Stealth Changer shuttle to use 5.5mm OD bushings from Mc Master
 ## Custom Dragonburner upgrades
 These parts mod the Dragonburner tool head with optional numbered cowl and EBB36 mount. The EBB36 mount is designed to work with the Orbiter v2.0 extruder on the tall mount.
 
-![](https://github.com/Hellsparks/StealthChanger/blob/main/UserMods/traxman25/images/DB5s.jpg?raw=true)
+![](https://github.com/StealthChanger/Toolchanger/blob/main/UserMods/traxman25/images/DB5s.jpg?raw=true)
 
-![](https://github.com/Hellsparks/StealthChanger/blob/main/UserMods/traxman25/images/DB6s.jpg?raw=true)
+![](https://github.com/StealthChanger/Toolchanger/blob/main/UserMods/traxman25/images/DB6s.jpg?raw=true)
 
 ## Custom Dragonburner Cowls
-![](https://github.com/Hellsparks/StealthChanger/blob/main/UserMods/traxman25/images/DB7s.jpg?raw=true)
+![](https://github.com/StealthChanger/Toolchanger/blob/main/UserMods/traxman25/images/DB7s.jpg?raw=true)
 
 A series of Tap Changer Hook On Dock style Cowls based on Viesturz modification of Chirpy2605’s Dragonburner Cowl (https://github.com/viesturz/tapchanger/blob/main/Tapchanger/STL/Toolheads/DragonBurner/Cowling.stl).  These are modified to have the upper tool head light display the tool number. The Stealth Changer logo is applied as a second object (color) in the lower right corner. The STEP file for each tool head has the SC Logo embedded. To make them multi colored simply open each numbered cowl in your slicer as one object and then change the color for each part.
 
@@ -22,12 +22,12 @@ A build plate with all tool heads and parts already oriented is provided. You’
 ##Dragonburner_EBB36_SC_Mount
 All 3 parts described below are included in the DragonBurner_EBB36_OrbiterV2_mounts.STEP step file, and also on a pre-oriented and pre-support painted build plate in the .3mf file. 
 
-![](https://github.com/Hellsparks/StealthChanger/blob/main/UserMods/traxman25/images/EBB36%20Mounts.jpg?raw=true)
+![](https://github.com/StealthChanger/Toolchanger/blob/main/UserMods/traxman25/images/EBB36%20Mounts.jpg?raw=true)
 
-![](https://github.com/Hellsparks/StealthChanger/blob/main/UserMods/traxman25/images/EBB36%20Mount%202s.jpg?raw=true)
+![](https://github.com/StealthChanger/Toolchanger/blob/main/UserMods/traxman25/images/EBB36%20Mount%202s.jpg?raw=true)
 
 ### Dragon Burner EBB36 Backing Plate 
-The only change to this part is adding the tool head PCB mount support ears to the top. These 2 holes will get an M3 heat set insert. This is modified from Hellsparks’ back plate.
+The only change to this part is adding the tool head PCB mount support ears to the top. These 2 holes will get an M3 heat set insert. This is modified from Stealthchanger’s back plate.
 
 ### EBB36 mount
 Mounting plate with lower support screw holes that is similar to Chirpy2605’s mount. However, Chirpy2605’s original mount interferes with the DB Backing Plage. This mod also centers the EBB36 to the tool head assembly better.

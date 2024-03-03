@@ -14,15 +14,15 @@ Currently we support the standard Stealth Burner, Dragon Burner, and Rapid Burne
 
 ## Documentation and Info
 
-Please use our [wiki](https://github.com/Hellsparks/StealthChanger/wiki) for more information and documentation.
+Please use our [wiki](https://github.com/StealthChanger/Toolchanger/wiki) for more information and documentation.
 
 ## Preview
 ### Printed Parts (Dragonburner) by ZombieHedgehog
-![](https://github.com/Hellsparks/StealthChanger/blob/main/media/parts.png?raw=true)
-![](https://github.com/Hellsparks/StealthChanger/blob/main/media/parts_together.png?raw=true)
+![](https://github.com/StealthChanger/Toolchanger/blob/main/media/parts.png?raw=true)
+![](https://github.com/StealthChanger/Toolchanger/blob/main/media/parts_together.png?raw=true)
 ### Assembled Shuttle by TheSin-
-![](https://github.com/Hellsparks/StealthChanger/blob/main/media/shuttle.jpg?raw=true)
+![](https://github.com/StealthChanger/Toolchanger/blob/main/media/shuttle.jpg?raw=true)
 ### Motion (Stealthburner) by TheSin-
-![](https://github.com/Hellsparks/StealthChanger/blob/main/media/motion.gif?raw=true)
+![](https://github.com/StealthChanger/Toolchanger/blob/main/media/motion.gif?raw=true)
 ### Docking (Stealthburner) by fiferboy
-![](https://github.com/Hellsparks/StealthChanger/blob/main/media/docking.gif?raw=true)
+![](https://github.com/StealthChanger/Toolchanger/blob/main/media/docking.gif?raw=true)
