@@ -1,7 +1,7 @@
 # ![](media/Stealthchanger_toolchanger_logo.png?raw=true) 
 StealthChanger: Based on Viesturz's work on [Tapchanger](https://github.com/viesturz/tapchanger)
 
-### WIP - STABLE TESTED AND WORKING BUT STILL WIP. BOM MAY CHANGE
+### SteathChanger - Tool changing system for Vorons and other front mount printer motion systems. 
 
 Due to difficulties with heat insert and aligning of bearings and mounts we wanted to try a more simplistic design based on bushings and pins.
 
