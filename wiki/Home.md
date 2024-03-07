@@ -1,7 +1,7 @@
 ![Stealthchanger Logo](https://github.com/StealthChanger/Toolchanger/blob/main/media/Stealthchanger_logo_sm.png?raw=true)
 # StealthChanger
 
-**WIP - STABLE TESTED AND WORKING BUT STILL WIP - BOM MAY CHANGE**
+Unlike the name suggests we support more then just stealthburner.
 
 Due to difficulties with heat insert and aligning of bearings and mounts we wanted to try a more simplistic design based on bushings and pins.
 
@@ -20,7 +20,7 @@ Are you going to be printing any material that needs an enclosed printer? If the
 
 Canbus is nearly a requirement. While technically you dont to do canbus, getting that many wires to each tool and doing so in a way that they won't tangle is going to be a nightmare. That being said, cable management is a very big part of the process. Without it, the cables will get wrapped up around each other and cause issues. Having some kind of plan for umbilicals is a must when considering the project.
 
-How are you doing docks? There are a few different ways of doing them, and what you choose is going to influence a lot of things. If you plan on using a stock Voron build, remember that you need to have clearance at the sides of the docks for the front idlers to go beside them. This will also influence number of tools. You also have the option of top rail mounted docks or crossbar docks. Crossbar docks are probably the most stable, as they ultimately can be more stiff. You can also do a crossbar plus topmount for even more rigidity. If you decide to go this route, then you really want to use 2040 extrusions for your 2 front vertical rails. This way you can still use all the stock voron doors/panels etc with the crossbar, as well as not have the idlers hitting the crossbar. Top mounted docks are completely acceptable though, they just have a little more movement to them.
+How are you doing docks? There are a few different ways of doing them, and what you choose is going to influence a lot of things. If you plan on using a stock Voron build, remember that you need to have clearance at the sides of the docks for the front idlers to go beside them. This will also influence number of tools. You also have the option of top rail mounted docks or crossbar docks. Crossbar docks are probably the most stable, as they ultimately can be more stiff. You can also do a crossbar plus topmount for even more rigidity. If you decide to go this route, then you really want to use 2040 extrusions for your front rails. This way you can still use all the stock voron doors/panels etc with the crossbar, as well as not have the idlers hitting the crossbar. Top mounted docks are completely acceptable though, they just have a little more movement to them. As an alternative option the team has created a printable [door buffer](https://github.com/Stealthchanger/DoorBuffer) that will give you a crossbar without requiremend to replace your current front frame.
 
 
 1. [Bill of Materials](Bill-of-Materials)
