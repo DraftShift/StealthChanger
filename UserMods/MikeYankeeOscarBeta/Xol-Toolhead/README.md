@@ -1,6 +1,8 @@
 # StealthChanger Xol-Toolhead (Experimental)
 by [MikeYankeeOscarBeta](https://github.com/MikeYankeeOscarBeta/) (VoronDesign Discord: #MikeyMike V2.5796, Voron Toolchangers Discord: MikeyMike - Github: [MikeYankeeOscarBeta](https://github.com/MikeYankeeOscarBeta/StealthChanger))
 
+[Xol Toolhead](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead) by [Armchair Heavy Industries](https://github.com/Armchair-Heavy-Industries)
+
 ### This is EXPERIMENTAL If you have issues, please post them on the tapchanger discord ASAP!
 
 ## Description
