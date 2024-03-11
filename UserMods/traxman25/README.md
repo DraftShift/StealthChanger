@@ -4,6 +4,8 @@ Mod to the stock Stealth Changer shuttle to use 5.5mm OD bushings from Mc Master
 ## Custom Dragonburner upgrades
 These parts mod the Dragonburner tool head with optional numbered cowl and EBB36 mount. The EBB36 mount is designed to work with the Orbiter v2.0 extruder on the tall mount.
 
+Original cowl by [chirpy2605](https://github.com/chirpy2605/voron)
+
 ![](https://github.com/StealthChanger/Toolchanger/blob/main/UserMods/traxman25/images/DB5s.jpg?raw=true)
 
 ![](https://github.com/StealthChanger/Toolchanger/blob/main/UserMods/traxman25/images/DB6s.jpg?raw=true)
