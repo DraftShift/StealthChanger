@@ -47,5 +47,5 @@ Optional
 
 | Parts   	| Link 1     | Link 2    | Link 3    |
 |---------	|------------|-----------|-----------|
-| Bushing 	| [AliExpress](https://s.click.aliexpress.com/e/_Dkek3Op) | [US Amazon](https://amzn.to/3RAjKtY) | [UK Amazon](https://amzn.to/48jnoPO) | 
-| Pin     	| [AliExpress](https://s.click.aliexpress.com/e/_Dkek3Op) | [US Amazon](https://amzn.to/3GZBSZn) | [UK Amazon](https://amzn.to/488gP2v) |
+| Bushing 	| [AliExpress](https://s.click.aliexpress.com/e/_Dmsh3LJ) | [US Amazon](https://amzn.to/3RAjKtY) | [UK Amazon](https://amzn.to/48jnoPO) | 
+| Pin     	| [AliExpress](https://s.click.aliexpress.com/e/_DCQkrFP) | [US Amazon](https://amzn.to/3GZBSZn) | [UK Amazon](https://amzn.to/488gP2v) |
