@@ -19,6 +19,16 @@ Currently we support the standard Stealth Burner, Dragon Burner, and Rapid Burne
 ## Documentation and Info
 
 Please use our [wiki](https://github.com/StealthChanger/Toolchanger/wiki) for more information and documentation.
+ [Bill of Materials](https://github.com/StealthChanger/Toolchanger/wiki/Bill-of-Materials)
+ [Printing](https://github.com/StealthChanger/Toolchanger/wiki/Printing)
+ [Assembling](https://github.com/StealthChanger/Toolchanger/wiki/Assembling)
+ [Installation](https://github.com/StealthChanger/Toolchanger/wiki/Installation)
+ [Configuration](https://github.com/StealthChanger/Toolchanger/wiki/Configuration)
+ [Docks](https://github.com/StealthChanger/Toolchanger/wiki/Docks)
+ [Slicers](https://github.com/StealthChanger/Toolchanger/wiki/Slicers)
+ [Support and FAQs](https://github.com/StealthChanger/Toolchanger/wiki/Support-and-FAQs)
+ [Contributors & Credits](https://github.com/StealthChanger/Toolchanger/wiki/Contributors)
+
 
 ## Preview
 ### Printed Parts (Dragonburner) by ZombieHedgehog
