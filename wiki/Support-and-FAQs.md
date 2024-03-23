@@ -6,8 +6,7 @@
 
 ## Methods
 
-- For extra support join our [Discord](https://discord.gg/JhYY5BJe)
-- For serial requests please see our [rules and how to](https://discord.gg/CjjZ4B5J)
+- For extra support join our [Discord](https://discord.gg/K949fvuUQ9)
 
 
 ## FAQs
