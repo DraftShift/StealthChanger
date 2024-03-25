@@ -3,7 +3,10 @@ This mount for DragonBurner provides a mount for the EBB36 that attaches to the 
 
 Dragonburner orignal design chirpy2605 here https://github.com/chirpy2605/voron
 
-The design attempts to:
+Traxman25's EBB36 mount takes a different approach and can be found here:
+https://github.com/cekim-git/Toolchanger/tree/main/UserMods/traxman25/Dragonburner_EBB36_SC_Mount
+
+This design attempts to:
 - Keep the Orbiter 2.0 on the original/shoter exrtuder block, flush with the top of the cowl.
 - Provide a CAN cable stress-relief tower with zip-tie holes that is shifted to be in-line with the filament tube for cable harness alignment.
 - Provide clearance for the opto-tap PCB without adding over-all height or extending rearward (the EBB36 and OptoTap will be roughly in-line with eachoter).
