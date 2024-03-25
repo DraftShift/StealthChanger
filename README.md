@@ -28,6 +28,7 @@ Please use our [wiki](https://github.com/StealthChanger/Toolchanger/wiki) for mo
 - [Docks](https://github.com/StealthChanger/Toolchanger/wiki/Docks)
 - [Slicers](https://github.com/StealthChanger/Toolchanger/wiki/Slicers)
 - [Support and FAQs](https://github.com/StealthChanger/Toolchanger/wiki/Support-and-FAQs)
+- [Contributing](https://github.com/StealthChanger/Toolchanger/wiki/Contributing)
 - [Contributors & Credits](https://github.com/StealthChanger/Toolchanger/wiki/Contributors-and-Credits)
 
 
