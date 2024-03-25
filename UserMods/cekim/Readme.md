@@ -1,6 +1,8 @@
 ## Dragon Burner EBB36 mount for the orbit2.0 extruder
 This mount for DragonBurner provides a mount for the EBB36 that attaches to the rear of the Orbiter2.0. 
 
+Dragonburner orignal design chirpy2605 here https://github.com/chirpy2605/voron
+
 The design attempts to:
 - Keep the Orbiter 2.0 on the original/shoter exrtuder block, flush with the top of the cowl.
 - Provide a CAN cable stress-relief tower with zip-tie holes that is shifted to be in-line with the filament tube for cable harness alignment.
