@@ -33,4 +33,4 @@ This uses "standard" DragaonBurner cowls - though it is specifically fit for Tra
 - Install EBB36 with 2 m3x8 BHCS to the rear.
 - Wire as needed.
 
-<img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/Orbiter2.0_EBB36_Mount.png" width="200" height="100">
+<img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/Orbiter2.0_EBB36_Mount.png" width="400" height="465">
