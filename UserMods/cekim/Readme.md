@@ -11,7 +11,7 @@ https://github.com/cekim-git/Toolchanger/tree/main/UserMods/traxman25/Dragonburn
 - Provide a CAN cable stress-relief tower with zip-tie holes that is shifted to be in-line with the filament tube for cable harness alignment.
 - Provide clearance for the opto-tap PCB without adding over-all height or extending rearward (the EBB36 and OptoTap will be roughly in-line with eachother).
 - Remove the need for stand-offs and potentially add rigidity by augmenting the attachment screws with design features fit to the outside of the Orbiter2 stepper motor.
-- Support the optional Oribiter2.0 filament sensor via the mount with shorter fingers.
+- Support the optional Orbiter2.0 filament sensor via the mount with shorter fingers.
 
 This uses "standard" DragaonBurner cowls - though it is specifically fit for Traxman25's numbered cowls for StealthChanger, it will also fit on a standard cowl.  It also works the V1 back-plate for StealthChanger/DragonBurner and OptoTap.
 
