@@ -32,7 +32,7 @@ This uses "standard" DragaonBurner cowls - though it is specifically fit for Tra
 - (optional) install the filament sensor to the Orbiter2.0.
 - While keeping the stepper motor, optional sensor and gearbox assembly together, slide the rear of the stepper into the mount's cup that is sized to fit around it. 
 - Line up the screw-holes on the fingers with the Orbiter's stepper motor fastener holes.
-- While pressing this entire assembly together, thread in the m3x20 (or m3x35) screws.  You are simultaneously fastening the Orbiter2.0 stepper to its gear-box and self-tapping the 3mm ABS holes on the mounting bracket, so keep them pressed together the entire time.
+- While pressing this entire assembly together, thread in the m3x20 (or m3x25) screws.  You are simultaneously fastening the Orbiter2.0 stepper to its gear-box and self-tapping the 3mm ABS holes on the mounting bracket, so keep them pressed together the entire time.
 - Install EBB36 with 2 m3x8 BHCS to the rear.
 - Wire as needed.
 
