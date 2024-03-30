@@ -3,13 +3,14 @@ All parts (screws, magnets, etc) are Voron, and Voron Tap standards.
 1. [Shuttle](#shuttle)
 2. [BackPlates](#backplates)
 3. [Endstops](#endstops)
-4. [Affiliate Links](#affiliate-links)
+4. [Options]($options)
+5. [Affiliate Links](#affiliate-links)
 
 ## Shuttle
 
 - [3] 6x3mm magnets (N52 Highly recommended to counter the pull from the umbilicals)
 - [2] m3x6 BHCS (tap sensor)
-- [4] m3x6 BHCS head (mgn bolts)
+- [4] m3x6 BHCS head (mgn bolts) `m3x12 if used with the shuttle keeper`
 - [3] 4x6x6mm brass bushing (4mm id x 6mm od x 6mm tall)
 - [2] m3x40 SHCS (Optional: to stiffen the shuttle)
 
@@ -41,6 +42,11 @@ Optional
 - [1] m3x6 BHCS
 - [1] m3 heat inserts
 - [1] 6x3mm magnet (Hall Effect Sensor ONLY, Voron spec)
+
+
+## Options
+
+You will likely need help with belts, make sure to decide on if you will use the [shuttle keeper](https://github.com/Stealthchanger/Toolchanger/tree/main/STLs/Extras) or use the [belt helper](https://github.com/Stealthchanger/Toolchanger/tree/main/UserMods/HellSpark/BeltHelper).  And print the required parts and make sure to have the addition bill of materials for them.
 
 
 ## Affiliate Links

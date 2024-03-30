@@ -31,4 +31,5 @@ How are you doing docks? There are a few different ways of doing them, and what 
 6. [Docks](Docks)
 7. [Slicers](Slicers)
 8. [Support and FAQs](Support-and-FAQs)
-9. [Contributors & Credits](Contributors-and-Credits)
+9. [Contributing](Contributing)
+10. [Contributors & Credits](Contributors-and-Credits)
