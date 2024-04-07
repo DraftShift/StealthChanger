@@ -12,6 +12,7 @@ https://github.com/cekim-git/Toolchanger/tree/main/UserMods/traxman25/Dragonburn
 - Provide clearance for the opto-tap PCB without adding over-all height or extending rearward (the EBB36 and OptoTap will be roughly in-line with eachother).
 - Remove the need for stand-offs and potentially add rigidity by augmenting the attachment screws with design features fit to the outside of the Orbiter2 stepper motor.
 - Support the optional Orbiter2.0 filament sensor via the mount with shorter fingers.
+- Provide hole on cable stress-relief tower to insert 1mm "piano-wire" to support the umbilical
 
 This uses "standard" DragaonBurner cowls - though it is specifically fit for Traxman25's numbered cowls for StealthChanger, it will also fit on a standard cowl.  It also works the V1 back-plate for StealthChanger/DragonBurner and OptoTap.
 
@@ -34,8 +35,9 @@ This uses "standard" DragaonBurner cowls - though it is specifically fit for Tra
 - Line up the screw-holes on the fingers with the Orbiter's stepper motor fastener holes.
 - While pressing this entire assembly together, thread in the m3x20 (or m3x25) screws.  You are simultaneously fastening the Orbiter2.0 stepper to its gear-box and self-tapping the 3mm ABS holes on the mounting bracket, so keep them pressed together the entire time.
 - Install EBB36 with 2 m3x8 BHCS to the rear.
+- If using the "piano-wire" hole, you may want to insert your 1mm wire prior to assembly to clear out any printing artifacts.  It is a 20mm deep hole.
 - Wire as needed.
 
 <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/Orbiter2.0_EBB36_Mount.png" width="400" height="465">
 <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/DB_EBB36_Orbiter2.0_Mount.jpg" width="400" height="506">
-<img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/DB_EBB36_Orbiter2.0_wFSensor_Mount.jpg" width="400" height="513">
+<img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/DB_EBB36_Orbiter2.0_wFSensor_Mount.jpg" width="363" height="500">
