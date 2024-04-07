@@ -1,4 +1,4 @@
-# <img src="media/Stealthchanger_toolchanger_logo.png?raw=true" height="100" align="top" /> SteathChanger
+# <img src="media/Stealthchanger_toolchanger_logo.png?raw=true" height="100" align="top" /> StealthChanger
 **Tool changing system for Vorons and other front mount printer motion systems.**
 
 Based on Viesturz's work on [Tapchanger](https://github.com/viesturz/tapchanger)
