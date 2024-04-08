@@ -20,7 +20,7 @@ Currently we support the standard Stealth Burner, Dragon Burner, and Rapid Burne
 
 Please use our [wiki](wiki) for more information and documentation.
 
-- [Bill of Materials](wiki/Bill-of-Materials)
+- [Bill of Materials](/wiki/Bill-of-Materials)
 - [Printing](wiki/Printing)
 - [Assembling](wiki/Assembling)
 - [Installation](wiki/Installation)
