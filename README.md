@@ -20,16 +20,16 @@ Currently we support the standard Stealth Burner, Dragon Burner, and Rapid Burne
 
 Please use our [wiki](../../wiki) for more information and documentation.
 
-- [Bill of Materials](https://github.com/Stealthchanger/Toolchanger/wiki/Bill-of-Materials)
-- [Printing](https://github.com/Stealthchanger/Toolchanger/wiki/Printing)
-- [Assembling](https://github.com/Stealthchanger/Toolchanger/wiki/Assembling)
-- [Installation](https://github.com/Stealthchanger/Toolchanger/wiki/Installation)
-- [Configuration](https://github.com/Stealthchanger/Toolchanger/wiki/Configuration)
-- [Docks](https://github.com/Stealthchanger/Toolchanger/wiki/Docks)
-- [Slicers](https://github.com/Stealthchanger/Toolchanger/wiki/Slicers)
-- [Support and FAQs](https://github.com/Stealthchanger/Toolchanger/wiki/Support-and-FAQs)
-- [Contributing](https://github.com/Stealthchanger/Toolchanger/wiki/Contributing)
-- [Contributors & Credits](https://github.com/Stealthchanger/Toolchanger/wiki/Contributors-and-Credits)
+- [Bill of Materials](../../wiki/Bill-of-Materials)
+- [Printing](../../wiki/Printing)
+- [Assembling](../../wiki/Assembling)
+- [Installation](../../wiki/Installation)
+- [Configuration](../../wiki/Configuration)
+- [Docks](../../wiki/Docks)
+- [Slicers](../../wiki/Slicers)
+- [Support and FAQs](../../wiki/Support-and-FAQs)
+- [Contributing](../../wiki/Contributing)
+- [Contributors & Credits](../../wiki/Contributors-and-Credits)
 
 
 ## Preview
