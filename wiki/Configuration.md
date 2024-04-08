@@ -7,6 +7,7 @@ Toolchangers start with number 0, and count up. So for all the configs, make sur
 ## Toolheads Configuration
 
 Please see the repo files for more info on these. [Configuration Files Repo](https://github.com/StealthChanger/Toolchanger/blob/main/Klipper)
+[testing](/blob/main/Klipper)
 
 You need to add the info in printer.cfg from the repo to your your printer.cfg
 You need to have a separate toolhead config for each toolhead, then link those in your printer.cfg, as well as removing/moving the current extruder/hotend config from your printer.cfg file. See the examples in the repo for more information and a starting place. You will have to edit them with your own values.
