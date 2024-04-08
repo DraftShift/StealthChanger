@@ -18,7 +18,7 @@ Currently we support the standard Stealth Burner, Dragon Burner, and Rapid Burne
 
 ## Documentation and Info
 
-Please use our [wiki](./wiki) for more information and documentation.
+Please use our [wiki](../../wiki) for more information and documentation.
 
 - [Bill of Materials](https://github.com/Stealthchanger/Toolchanger/wiki/Bill-of-Materials)
 - [Printing](https://github.com/Stealthchanger/Toolchanger/wiki/Printing)
