@@ -1,8 +1,6 @@
 # <img src="media/Stealthchanger_toolchanger_logo.png?raw=true" height="100" align="top" /> StealthChanger
 **Tool changing system for Vorons and other front mount printer motion systems.**
 
-Based on Viesturz's work on [Tapchanger](https://github.com/viesturz/tapchanger)
-
 ## Introduction
 
 Unlike the name suggests we support more then just stealthburner.
@@ -42,3 +40,5 @@ Please use our [wiki](../../wiki) for more information and documentation.
 ![](media/motion.gif?raw=true)
 ### Docking (Stealthburner) by fiferboy
 ![](media/docking.gif?raw=true)
+
+Originally based on Viesturz's [Tapchanger](https://github.com/viesturz/tapchanger)
