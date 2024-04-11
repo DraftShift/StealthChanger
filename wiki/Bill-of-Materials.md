@@ -3,7 +3,7 @@ All parts (screws, magnets, etc) are Voron, and Voron Tap standards.
 1. [Shuttle](#shuttle)
 2. [BackPlates](#backplates)
 3. [Endstops](#endstops)
-4. [Options]($options)
+4. [Options](#options)
 5. [Affiliate Links](#affiliate-links)
 
 ## Shuttle
