@@ -1,8 +1,6 @@
-
-
 # Temporary Backplate
 
-![Temporary Backplate](Flisher-Backplate-V2.png)
+![Temporary Backplate](image1.png)
 ## What is it?
 Very rought backplate that support some electronic, it's naked, not intented to be a final solution, but a good placeholder while working on other stuff.
 This is not intended to be your final setup, but is a nice placeholder while figuring everything out.
