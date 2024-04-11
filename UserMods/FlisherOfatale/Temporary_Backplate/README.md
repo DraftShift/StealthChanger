@@ -1,6 +1,5 @@
 # Temporary Backplate
 
-![Temporary Backplate](image1.png)
 ## What is it?
 Very rought backplate that support some electronic, it's naked, not intented to be a final solution, but a good placeholder while working on other stuff.
 This is not intended to be your final setup, but is a nice placeholder while figuring everything out.
@@ -29,3 +28,4 @@ You need to be carefull to not short stuff while playing around, always shut dow
 The original idea come from **gdachs** Backpanel showcased on the Voron Tool Change Discord server, but my version is independant from the exaust port.
 Original design can be found at https://cad.onshape.com/documents/60014468b9b72e460b456067/w/f3137b097c5c1d080a4612b0/e/ff5c83f39f6ad8db1b8a2981
 
+![Temporary Backplate](image1.png)
