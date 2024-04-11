@@ -1,4 +1,4 @@
-# <img src="media/Stealthchanger_toolchanger_logo.png?raw=true" height="100" align="top" /> StealthChanger
+# <img src="media/Stealthchanger_logo.png?raw=true" height="100" align="top" /> StealthChanger
 **Tool changing system for Vorons and other front mount printer motion systems.**
 
 ## Introduction
