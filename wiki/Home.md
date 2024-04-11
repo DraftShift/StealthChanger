@@ -1,5 +1,4 @@
-![Stealthchanger Logo](https://github.com/StealthChanger/Toolchanger/blob/main/media/Stealthchanger_logo_sm.png?raw=true)
-# StealthChanger
+# <img src="../../blob/main/media/Stealthchanger_logo.png?raw=true" height="100" align="top" /> StealthChanger
 
 Unlike the name suggests we support more then just stealthburner.
 
