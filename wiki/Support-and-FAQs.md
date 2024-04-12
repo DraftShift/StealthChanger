@@ -6,7 +6,7 @@
 
 ## Methods
 
-- For extra support join our [Discord](https://discord.gg/K949fvuUQ9)
+- For extra support join our [Discord](https://discord.gg/jJs73c6vSc)
 
 
 ## FAQs

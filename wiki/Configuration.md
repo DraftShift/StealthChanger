@@ -6,7 +6,7 @@ Toolchangers start with number 0, and count up. So for all the configs, make sur
 
 ## Toolheads Configuration
 
-Please see the repo files for more info on these. [Configuration Files Repo](https://github.com/StealthChanger/Toolchanger/blob/main/Klipper)
+Please see the repo files for more info on these. [Configuration Files Repo](https://github.com/DraftShift/StealthChanger/blob/main/Klipper)
 [testing](/blob/main/Klipper)
 
 You need to add the info in printer.cfg from the repo to your your printer.cfg
@@ -18,7 +18,7 @@ You need to have a separate toolhead config for each toolhead, then link those i
 
 **Example CANbus layout**
 
-![Example CANbus Layout](https://github.com/StealthChanger/Toolchanger/blob/main/media/can_example.jpg?raw=true)
+![Example CANbus Layout](https://github.com/DraftShift/StealthChanger/blob/main/media/can_example.jpg?raw=true)
 
 ## Offsets
 

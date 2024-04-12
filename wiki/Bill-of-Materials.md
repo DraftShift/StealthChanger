@@ -46,7 +46,7 @@ Optional
 
 ## Options
 
-You will likely need help with belts, make sure to decide on if you will use the [shuttle keeper](https://github.com/Stealthchanger/Toolchanger/tree/main/STLs/Extras) or use the [belt helper](https://github.com/Stealthchanger/Toolchanger/tree/main/UserMods/HellSpark/BeltHelper).  And print the required parts and make sure to have the addition bill of materials for them.
+You will likely need help with belts, make sure to decide on if you will use the [shuttle keeper](https://github.com/DraftShift/Stealthchanger/tree/main/STLs/Extras) or use the [belt helper](https://github.com/DraftShift/Stealthchanger/tree/main/UserMods/HellSpark/BeltHelper).  And print the required parts and make sure to have the addition bill of materials for them.
 
 
 ## Affiliate Links

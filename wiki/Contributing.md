@@ -20,7 +20,7 @@ Follow [Creating a pull request](https://docs.github.com/en/pull-requests/collab
 - Make sure the `README.md` contains all credits with links **respect and follow GPL**
 - Make sure to be descriptive in your pull request
 - Sign up for [file watcher](https://app.github-file-watcher.com/), it's your responsibility to monitor changes and keep your UserMod up to date and usable, broken or orphanded mods will be removed
-- Make sure to be in our [Discord](https://discord.gg/K949fvuUQ9) to be able to support your mod, no support is the same as not updating
+- Make sure to be in our [Discord](https://discord.gg/jJs73c6vSc) to be able to support your mod, no support is the same as not updating
 
 
 **Not following any of these guide lines will result in the pull request being denied**
