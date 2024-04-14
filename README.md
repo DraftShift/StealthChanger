@@ -25,6 +25,7 @@ Please use our [wiki](../../wiki) for more information and documentation.
 - [Configuration](../../wiki/Configuration)
 - [Docks](../../wiki/Docks)
 - [Slicers](../../wiki/Slicers)
+- [Serials](../../wiki/Serials)
 - [Support and FAQs](../../wiki/Support-and-FAQs)
 - [Contributing](../../wiki/Contributing)
 - [Contributors & Credits](../../wiki/Contributors-and-Credits)
