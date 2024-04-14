@@ -5,7 +5,7 @@
 
 **Serial Application Guide Lines**
 
-~~make sure media is below 25MB (youtube link allowed)~~
+*make sure media is below 25MB (youtube link allowed)*
 
 Post a video here that shows:
 * 2 tool min print (mid print is fine)
