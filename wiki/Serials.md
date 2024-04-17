@@ -13,7 +13,7 @@ Post a video here that shows:
 * clearly shows the stealthchanger shuttle
 * a picture of the finished print is a bonus!
 
-**NOTE: tool calibration prints to not count**
+**NOTE: tool calibration prints do not count**
 
 Submit the request to the `#serial-request` channel on our [Discord](https://discord.gg/jJs73c6vSc).
 
