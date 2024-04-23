@@ -1,4 +1,4 @@
-# Main Team
+# Official Team Roster
 
 | Github   	| Discord    	| Main Role     |
 |---------	|---------	|---------      |
