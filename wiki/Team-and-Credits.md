@@ -6,10 +6,10 @@
 | [TheSin-](https://github.com/thesin-/) | thessien | Designer |
 | [BT123D](https://github.com/bt123d/) | bt123_ | Designer |
 | [fiferboy](https://github.com/fiferboy/) | fiferboy | Designer |
-| [MarcO](https://github.com/ostroma/) | MarcO | Tester |
+| [ostroma](https://github.com/ostroma/) | nobo6855 | Tester |
 | [BrewNinja](https://github.com/BrewNinja/) | BrewNinja | Documentation/Tester |
-| [jdmontgomery](https://github.com/ostroma/) | MarcO | Tester |
-| [traxman25](https://github.com/ostroma/) | MarcO | Tester |
+| [jdmontgomery](https://github.com/jdmontgomery/) | jdmontgomery | Tester |
+| [traxman25](https://github.com/traxman25/) | Traxman25 | Tester |
 
 * For other Contributors see the [Usermods](https://github.com/DraftShift/StealthChanger/tree/main/UserMods) folders.
 
