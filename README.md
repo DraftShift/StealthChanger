@@ -28,7 +28,7 @@ Please use our [wiki](../../wiki) for more information and documentation.
 - [Serials](../../wiki/Serials)
 - [Support and FAQs](../../wiki/Support-and-FAQs)
 - [Contributing](../../wiki/Contributing)
-- [Contributors & Credits](../../wiki/Contributors-and-Credits)
+- [Team & Credits](../../wiki/Team-and-Credits)
 
 
 ## Preview

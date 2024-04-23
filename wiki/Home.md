@@ -32,4 +32,4 @@ How are you doing docks? There are a few different ways of doing them, and what 
 8. [Serails](Serials)
 9. [Support and FAQs](Support-and-FAQs)
 10. [Contributing](Contributing)
-11. [Contributors & Credits](Contributors-and-Credits)
+11. [Team & Credits](Team-and-Credits)

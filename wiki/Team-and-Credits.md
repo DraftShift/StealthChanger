@@ -1,17 +1,20 @@
+# Main Team
+
 | Github   	| Discord    	| Main Role     |
 |---------	|---------	|---------      |
 | [Hellsparks](https://github.com/Hellsparks/) | _hellspark | Designer |
 | [TheSin-](https://github.com/thesin-/) | thessien | Designer |
 | [BT123D](https://github.com/bt123d/) | bt123_ | Designer |
 | [fiferboy](https://github.com/fiferboy/) | fiferboy | Designer |
-| [paeppi88](https://github.com/paeppi88/) | paeppi88 | Contributor |
 | [MarcO](https://github.com/ostroma/) | MarcO | Tester |
-| [BrewNinja](https://github.com/BrewNinja/) | BrewNinja | Documentation |
+| [BrewNinja](https://github.com/BrewNinja/) | BrewNinja | Documentation/Tester |
+| [jdmontgomery](https://github.com/ostroma/) | MarcO | Tester |
+| [traxman25](https://github.com/ostroma/) | MarcO | Tester |
 
 * For other Contributors see the [Usermods](https://github.com/DraftShift/StealthChanger/tree/main/UserMods) folders.
 
 
-Credits
+# Credits
 
 * [VoronDesign](https://github.com/VoronDesign)
 * [TapChanger](https://github.com/viesturz/tapchanger) by Viestures
