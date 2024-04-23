@@ -7,7 +7,7 @@
 | [BT123D](https://github.com/bt123d/) | bt123_ | Designer |
 | [fiferboy](https://github.com/fiferboy/) | fiferboy | Designer |
 | [ostroma](https://github.com/ostroma/) | nobo6855 | Tester |
-| [BrewNinja](https://github.com/BrewNinja/) | BrewNinja | Documentation/Tester |
+| [BrewNinja](https://github.com/BrewNinja/) | BrewNinja | Tester/Documentation |
 | [jdmontgomer](https://github.com/jdmontgomer/) | jdmontgomery | Tester |
 | [traxman25](https://github.com/traxman25/) | Traxman25 | Tester |
 
