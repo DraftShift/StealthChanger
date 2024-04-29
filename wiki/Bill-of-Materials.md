@@ -20,8 +20,6 @@ All parts (screws, magnets, etc) are Voron, and Voron Tap standards.
 x1 per toolhead
 
 
-## Backplate BOM
-
 ### All Tools
 
 **Note: heatsets on the SB version in from the opposite side as the Voron instructions, slightly longer screws on the CW2 attachment may be required**
