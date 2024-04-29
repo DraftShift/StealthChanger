@@ -2,15 +2,19 @@
 
 Follow [Creating a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
+
 ## Design Changes
 
 - Make sure to be detailed about all changes in the Description
 - Make sure to include updated CAD files and all changed STLs
 - Make sure to indicate any manual changes required (including image updates in the manual)
 
+
 ## Wiki/Docu
+
 - Make sure the pull request only contains changes to the `wiki` folder and is in proper [Markdown](https://en.wikipedia.org/wiki/Markdown)
 - Make sure to include a good description
+
 
 ## UserMods
 
@@ -24,6 +28,7 @@ Follow [Creating a pull request](https://docs.github.com/en/pull-requests/collab
 
 
 **Not following any of these guide lines will result in the pull request being denied**
+
 
 ## Support via Donation
 

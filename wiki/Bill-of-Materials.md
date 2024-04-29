@@ -19,7 +19,10 @@ All parts (screws, magnets, etc) are Voron, and Voron Tap standards.
 
 x1 per toolhead
 
-### All toolheads (per tool)
+
+## Backplate BOM
+
+### All Tools
 
 **Note: heatsets on the SB version in from the opposite side as the Voron instructions, slightly longer screws on the CW2 attachment may be required**
 
@@ -29,7 +32,9 @@ x1 per toolhead
 - [2] m3x6 or m3x8 FHCS (Flat head countersunk screw, MUST BE MAGNETIC. no stainless, as per TAP)
 - [1] [OptoTap sensor](https://s.click.aliexpress.com/e/_DEGsGTV) (only the PCB is required)
 
-### Additional Tool Specific BOM
+
+**The list bellow is in addition to the Stealthburner BOM above.**
+
 
 ### Dragonburner/Rapidburner
 
@@ -42,6 +47,7 @@ x1 per toolhead
 
 - [1] m3x12 BHCS (to hold the sherpa mount in place)
 - [2] m3 heat inserts
+
 
 ## Endstops
 
