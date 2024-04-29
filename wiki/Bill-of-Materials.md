@@ -27,7 +27,7 @@ x1 per toolhead
 - [3] Ø4x12mm ssRod (dowel pin) with a rounded end **(if it has female threads on the back it will be listed as an M3, but make sure the pin is 4mm OD, that is what is important)**
 - [1] 6x3mm magnet (N52 Highly recommended to counter the pull from the umbilicals)
 - [2] m3x6 or m3x8 FHCS (Flat head countersunk screw, MUST BE MAGNETIC. no stainless, as per TAP)
-- [1] [OptiTap sensor](https://s.click.aliexpress.com/e/_DEGsGTV) (only the PCB is required)
+- [1] [OptoTap sensor](https://s.click.aliexpress.com/e/_DEGsGTV) (only the PCB is required)
 
 ### Additional Tool Specific BOM
 
