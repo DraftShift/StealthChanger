@@ -27,7 +27,7 @@ Please use our [wiki](../../wiki) for more information and documentation.
 - [Slicers](../../wiki/Slicers)
 - [Serials](../../wiki/Serials)
 - [Support and FAQs](../../wiki/Support-and-FAQs)
-- [Contributing](../../wiki/Contributing)
+- [Contributing and Donating](../../wiki/Contributing-and-Donating)
 - [Team & Credits](../../wiki/Team-and-Credits)
 
 
