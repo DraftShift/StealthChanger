@@ -29,7 +29,7 @@ How are you doing docks? There are a few different ways of doing them, and what 
 5. [Configuration](Configuration)
 6. [Docks](Docks)
 7. [Slicers](Slicers)
-8. [Serails](Serials)
+8. [Serials](Serials)
 9. [Support & FAQs](Support-and-FAQs)
 10. [Contributing & Donating](Contributing-and-Donating)
 11. [Team & Credits](Team-and-Credits)

@@ -3,6 +3,9 @@ Toolchangers start with number 0, and count up. So for all the configs, make sur
 1. [Toolhead Configuration](#toolheads-configuration)
 2. [CANbus](#canbus)
 3. [Offsets](#offsets)
+4. [Dock Positions](#dock-positions)
+5. [close_y and safe_y](#close_y-and-safe_y)
+6. [Docking Path](#Docking-Path)
 
 ## Toolheads Configuration
 
@@ -27,3 +30,34 @@ There are 2 places to set offsets in your toolhead config files. There is gcode_
 You should set all the [tool_probe] offsets as well though. If you are only using a single tool, you can home with that tool, and it will use the offset in the [tool_probe] section. You won't need to home with your primary tool first then before you start a print. 
 
 To try and further clarify. Lets say you have 3 tools, T0, T1, and T2. We will say that T0 is your "primary" tool. Setup the probe z_offset like you would any other printer. Make sure the offset is set in z_offset (IE, make sure when you home and go to Z0, the nozzle is actually in that spot). Its location in x/y/z is always going to be 0 in relation to the other tools. So after T0 is homed, T1 and T2 (may) need to have their gcode_(x/y/z)_offset changed so they match the location that the primary tool actually is. There are 2 main ways of doing this. You can use a test print to print layers on top of or next to each other (something like this: [Nozzle Alignment Assist](https://www.printables.com/model/109267-nozzle-alignment-assist)) or you can use a camera (something like [kTAMV Klipper Tool Alignment](https://github.com/TypQxQ/kTAMV) or [IDEX Nozzle Calibration Tool](https://github.com/Life0fBrian/Brians-IDEX-Nozzle-Calibration-tool)).
+
+## Dock Positions
+
+When setting your dock position in your tool config, X and Y are pretty self explanatory. Put the tool in the right spot for it to sit. However, Z should be the point where 1 more mm down will untrigger the tap module. 
+
+## close_y and safe_y
+
+It is important to get this right. If you don't, you will have changing issues, or crash your tools into your docks. This is where we recommend you start:
+
+close_Y = park_y + 30\
+safe_y = park_y + thickness of your thickest tool (plus a little buffer)
+
+IE, if you Y park position is -15. Your close Y should be 15. If your Y park position is 0, it should be 30. Safe Y should be slighty further out. 
+
+## Docking Path
+
+The docking path can be confusing for people to understand. Let's try to disect it. Take this path:
+
+params_rods_sb_path: [{'y':9.5 ,'z':8}, {'y':9.5, 'z':2}, {'y':5.5, 'z':0}, {'z':0, 'y':0, 'f':0.5}, {'z':-6, 'y':0}, {'z':-10, 'y':3}, {'z':-10, 'y':16}]
+
+When looking at this, understand that the movements are relative to the park position. When dropping off a tool, it will go left to right, and when picking up a tool, it will go right to left on movements. Let's say your park position is x=20 y=-10, z=240 and close_y=20. When dropping off a tool, it will move up and start the sequence essentially at x=20 y=20 z=240. Now add in the first set of items. 
+
+*  {'y':9.5 ,'z':8} Move to x=20 y=-0.5 z=248
+*  {'y':9.5, 'z':2} Move to x=20 y=-0.5 z=242
+*  {'y':5.5, 'z':0} Move to x=20 y=-4.5 z=240
+*  {'z':0, 'y':0, 'f':0.5}. This will slowly move you (f is speed in gcode) to docking position of x=20 y=-10, z=240
+*  {'z':-6, 'y':0} Drop the z down to z=234 so that it starts unhooking.
+*  {'z':-10, 'y':3} Move to z=230, y=-7, so its starting to move away. 
+*  {'z':-10, 'y':16}. Move to z=230 y=6, we are clear of the tool.
+
+It will then move to the close_y and x of the tool its picking up, and run in reverse order.
