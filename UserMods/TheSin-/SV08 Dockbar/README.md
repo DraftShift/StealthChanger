@@ -1,5 +1,5 @@
 # SV08 Top Dockbar Brackets
-This mod reuses the bolts on the top bar of the SV06 to add a 2020 extrusion.
+This mod reuses the bolts on the top bar of the SV08 to add a 2020 extrusion.
 
 ## Instructions
 - Print Left and Right using Voron standards.
