@@ -10,6 +10,8 @@
 | [BrewNinja](https://github.com/BrewNinja/) | BrewNinja | Tester/Documentation |
 | [jdmontgomer](https://github.com/jdmontgomer/) | jdmontgomery | Tester |
 | [traxman25](https://github.com/traxman25/) | Traxman25 | Tester |
+| [MikeYankeeOscarBeta](https://github.com/MikeYankeeOscarBeta/) | dubiousmnemonic | Tester |
+| [nic335](https://github.com/nic335/) | nic335 | Tester |
 
 * For other Contributors see the [Usermods](https://github.com/DraftShift/StealthChanger/tree/main/UserMods) folders.
 

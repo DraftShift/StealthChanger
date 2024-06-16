@@ -16,7 +16,7 @@
 
 2. Calculating available size for tools (number of tools you can fit)
    - Dragon Burners require 60mm per tool (I recommend 5mm between for extruder handles)
-   - Stealth Burners require 80mm per tool
+   - Blackbird, Stealth Burners and XOL require 76mm per tool
    - The gantry required about 20mm per side to be able to pass the tools.  To know how many tools you can fit it's simple math, measure that top bar -40mm to gantry and then divide the remainder by the size of your toolhead.
 
 3. Adjusting preload... Preload is created with the 2 countersunk screws in the tool plate.  These 2 screws need to be magnetic and will make contact with the magnets in the shuttle.  This adds 2 more wider points of contact at the base while also pre loading the sleeves/bearings.  To adjust them screw them all the way in, then slowly unscrew them 1/4 turn at a time (keeping each side even) until the tool no longer engages its self right away.  Once you reach a point where this happens, screw them back in 1/4 turn.  Each tool needs to be adjusted separately as printing irregularities can happen and this will allow you to compensate for it.  You may want to test and readjust these from time to time.
