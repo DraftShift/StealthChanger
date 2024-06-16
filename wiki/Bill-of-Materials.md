@@ -68,3 +68,7 @@ You will likely need help with belts, make sure to decide on if you will use the
 | Bushing 	  | [AliExpress](https://s.click.aliexpress.com/e/_Dmsh3LJ) | [US Amazon](https://amzn.to/3RAjKtY) | [UK Amazon](https://amzn.to/48jnoPO) | 
 | Pin     	  | [AliExpress](https://s.click.aliexpress.com/e/_DCQkrFP) | [US Amazon](https://amzn.to/3GZBSZn) | [UK Amazon](https://amzn.to/488gP2v) |
 | N52 Magnets | [US KB-3D](https://kb-3d.com/store/magnets-bearings/995-disccylinder-magnet-high-temp-n52h-6x3mm-1696789934996.html) | [UK Printy Please](https://www.printyplease.uk/N52H) | |
+
+Due to QC issues, this is an [Alternative bush](https://s.click.aliexpress.com/e/_DFJQgtN) which has also been tested and works fine.
+
+Alternatively you can purchase a kit from [Broncosis’s Etsy store](https://www.etsy.com/ca/listing/1736497017/voron-stealth-changer-essential-hardware) if you’re based in North America
