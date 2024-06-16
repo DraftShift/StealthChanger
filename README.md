@@ -14,6 +14,10 @@ All parts are easily replaceable without reprinting if wear happens, life of the
 ## Tool compatability
 Currently we support the standard Stealth Burner, Dragon Burner, and Rapid Burner.  There are plans in place to add the Mini Stealth Burner, XOL, and Archetype.
 
+## V1.1 Release
+The origional StealthChanger shuttle and backplates have been updated to V1.1, this update is to improve rigidity and probe accuracy. To help identify the version, "V1.1" has been clearly marked on all shuttles and backplates. please note, V1.1 is NOT compatible with previous versions.
+![](media/v1.1.jpg?raw=true)
+
 ## Documentation and Info
 
 Please use our [wiki](../../wiki) for more information and documentation.
