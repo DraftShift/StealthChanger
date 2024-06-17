@@ -30,8 +30,8 @@ Upgrade your Voron 2.4 350mm with the Z-Umbilical Alternative and experience the
 ## Credits
 Special thanks to FizzySG for his invaluable contributions and collaboration in giving some “Style” to this project! Be sure to check out FizzySG’s other amazing projects and offerings to enhance your 3D printing experience even further.
 
-![RealPicture](Images\RealPicture.png)
-![Render of top mount](Images\TopZbillicalMount.png)
-![Render of complete view](Images\Zbillical_CompleteView.png)
-![Render of back of the top mount](Images\BackOfMount.png)
+![RealPicture](Images/RealPicture.png)
+![Render of top mount](Images/TopZbillicalMount.png)
+![Render of complete view](Images/Zbillical_CompleteView.png)
+![Render of back of the top mount](Images/BackOfMount.png)
 
