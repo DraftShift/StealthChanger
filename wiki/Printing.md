@@ -4,7 +4,7 @@
 
 ## Parts
 
-**NOTE: The Dragonburner dock in the Tapchanger repo uses a custom cowl that is not compatible with or supported by Stealthchanger. Until a dock that is compatible with the original Dragonburner cowl is released, you must use the [custom cowl by OstroMa](https://github.com/DraftShift/StealthChanger/blob/main/UserMods/OstroMa/DB_Cowl_v8_with_TapChanger_Dock_Hooks.stl). We always recommend to use the original cowls when possible.**
+**NOTE: If you plan on using the Tapchanger Dragonburner dock you must use the [custom cowl by OstroMa](https://github.com/DraftShift/StealthChanger/blob/main/UserMods/OstroMa/DB_Cowl_v8_with_TapChanger_Dock_Hooks.stl). We always recommend to use the original cowls when possible, and such the [Modular Dock](https://github.com/DraftShift/ModularDock) does not require any special Cowl, print the original from the original repo.**
 
 
 Coming Soon
