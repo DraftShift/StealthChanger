@@ -1,5 +1,3 @@
-## Stealth Changer
-
 # <img src="https://github.com/DraftShift/Stealthchanger/blob/main/media/Stealthchanger_logo.png?raw=true" height="100" align="top" /> StealthChanger
 
 Stealth Changer is a friction and magnetic fit, 3d printing multiple tool changer for the Voron 2.4 printer.
