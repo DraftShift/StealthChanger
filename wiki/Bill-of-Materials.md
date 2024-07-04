@@ -29,6 +29,7 @@ x1 per toolhead
 - [1] 6x3mm magnet (N52 Highly recommended to counter the pull from the umbilicals. Note that most magnets not from a reputable source may say N52 but aren't actually. Recommend one of the two links below.)
 - [2] m3x6 or m3x8 FHCS (Flat head countersunk screw, MUST BE MAGNETIC. no stainless, as per TAP)
 - [1] [OptoTap sensor](https://s.click.aliexpress.com/e/_DEGsGTV) (only the PCB is required)
+- [1] m3x6 BHSC (optional in v1.1)
 
 
 **The list bellow is in addition to the Stealthburner BOM above.**
@@ -39,12 +40,14 @@ x1 per toolhead
 - [1] m3x12 BHCS (optional to keep spacer in place)
 - [2] m3x35 SHCS
 - [2] m3 heat inserts
+- [2] m3x6 BHSC (optional in v1.1)
 ** Note: Dragonburner extended mount is required depending on extruder**
 
 ### Archetype Blackbird
 
 - [1] m3x12 BHCS (to hold the sherpa mount in place)
 - [2] m3 heat inserts
+- [2] m3x6 BHSC (optional in v1.1)
 
 
 ## Endstops
