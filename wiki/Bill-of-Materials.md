@@ -12,7 +12,7 @@ All parts (screws, magnets, etc) are Voron, and Voron Tap standards.
 - [2] m3x6 BHCS (tap sensor)
 - [4] m3x6 BHCS head (mgn bolts) `m3x12 if used with the shuttle keeper`
 - [3] 4x6x6mm brass bushing (4mm id x 6mm od x 6mm tall)
-- [2] m3x40 SHCS (Optional: to stiffen the shuttle)
+- [2] m3x40 SHCS (Optional: to stiffen the shuttle, **Fully threaded, no shoulder**)
 
 
 ## Backplates
