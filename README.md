@@ -36,6 +36,8 @@ Please use our [wiki](../../wiki) for more information and documentation.
 
 
 ## Preview
+### Explaination Video featuring GMBridge
+[![MRRF Interview](https://img.youtube.com/vi/iQx_yx1GapI/0.jpg)](https://www.youtube.com/watch?v=iQx_yx1GapI)
 ### Printed Parts (Dragonburner) by BT123
 ![](media/parts.png?raw=true)
 ![](media/parts_together.png?raw=true)
