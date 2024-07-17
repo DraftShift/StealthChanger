@@ -15,13 +15,13 @@ Coming Soon
 
 All print settings are the same as [Voron Standards](https://docs.vorondesign.com/sourcing.html#print-settings) or better.
 
+- Shuttle is the only part that requires supports and should be set to `touching build plate`
 
 ## Orientation
 
 Print orientation is flat on the parts back with supports enabled currently, we are working on models with integrated supports.
 
 - All stls are in the proper print orientation
-- Shuttle is the only part that requires supports and should be set to `touching build plate`
 
 ![Print Orientation](https://github.com/DraftShift/StealthChanger/blob/main/media/Print_orientation.jpg?raw=true)
 
