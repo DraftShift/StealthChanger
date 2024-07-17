@@ -23,11 +23,12 @@ The original StealthChanger shuttle and backplates have been updated to V1.1, th
 Please use our [wiki](../../wiki) for more information and documentation.
 
 - [Bill of Materials](../../wiki/Bill-of-Materials)
+- [Docks](../../wiki/Docks)
 - [Printing](../../wiki/Printing)
 - [Assembling](../../wiki/Assembling)
 - [Installation](../../wiki/Installation)
 - [Configuration](../../wiki/Configuration)
-- [Docks](../../wiki/Docks)
+- [Calibration](../../wiki/Calibration)
 - [Slicers](../../wiki/Slicers)
 - [Serials](../../wiki/Serials)
 - [Support and FAQs](../../wiki/Support-and-FAQs)
