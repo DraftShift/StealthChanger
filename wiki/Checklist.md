@@ -1,0 +1,21 @@
+ - [ ] Read and understand all the documentation
+ - [ ]  Decide on the tools to use, See [Docks](Docks) for a calculation of how many will fit
+ - [ ] Decide on dock types, [Modular Dock](https://github.com/DraftShift/ModularDock) or other
+ - [ ] Decide if you are going top mount, or use a cross bar, 2040 or [Door Buffer](https://github.com/DraftShift/DoorBuffer) or [MiniBFI](https://github.com/DraftShift/StealthChanger/tree/main/UserMods/BT123/MiniBFI)
+ - [ ] Visit the [BOM](Bill-of-Materials) to make sure you have ordered everything you need for the convertion
+ - [ ] Visit our [Printing](Printing) guide and start printing
+ - [ ] At this point please inspect your prints, take extra note that your hexes are very uniform, if the tops are flat you will have alignment issues, it doesn't take much for things to start off wrong here.  Luckily we have [Tips and Tricks](Printing#tips-and-tricks) if you want to try to salvage things
+ - [ ] [Assemble](Assembling) the shuttle and backplates
+ - [ ] [Install](Installation) software
+ - [ ] [Configure](Configuration) software
+ - [ ] Home and QGL
+ - [ ] Set tool offset using paper
+ - [ ] save in the config and restart klipper
+ - [ ] Home and QGL
+ - [ ] Remove the tool from the shuttle and place it in the dock
+ - [ ] Move the gantry as if to pick up the tool, as soon as the light on the optotap pub changes, note the park x/y/z location for the config
+ - [ ] Repeat this for all tools
+ - [ ] Once all tools are done you are ready to try a tool change
+ - [ ] Now we need to calibrate x/y for all tools, T0 will always be 0,0 as it's the base tool
+ - [ ] Registrer for a [serial](Serials)
+ - [ ] Visit our [sponsor](https://github.com/sponsors/DraftShift) page

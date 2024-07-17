@@ -24,6 +24,8 @@ Currently we support the standard Stealth Burner, Dragon Burner, and Rapid Burne
 
 ## Before you begin
 
+Make sure to visit our [Checklist](Checklist)
+
 There are a few considerations that should be taken into account before you begin this project. First is, yes, you need an optotop board on every tool. The board is needed as thats how klipper knows which board is active. When the tap sensor is triggered, it knows which tool it has. You do not need the other tap parts though, like the MGN9 rail. StealthChanger by design also acts like the normal tap and does z probing.
 
 Are you going to be printing any material that needs an enclosed printer? If the answer is yes, then you will need a tophat on your printer (or longer vertical extrusions). Typically, it adds around 200mm to the top (give or take based on your specific build). 
