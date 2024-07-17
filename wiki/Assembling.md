@@ -7,9 +7,18 @@
 In order to get proper matching set you should:
 - insert pins in your best backplate (straightest)
 - press bushings in the shuttle and ensure a smooth mating between the parts.
-- if everything feels smooth, pop the bushings out and glue them in place using either superglue or epoxy, other wise see [Tips and Tricks](#tips-and-tricks)
+- if everything feels smooth, pop the bushings out and glue them in place using either superglue or epoxy, other wise see [Heat Treating](#heat-treating)
 - be sure to test that the mating still feels smooth after the glue sets.
 - You can now use the shuttle as a "master blank" for glueing the pins into all your backplates.
+
+
+## Preload
+
+**NOTE** Every backplate needs to be adjusted.
+
+Preload is meant remove all the wiggle when it's fully seated by preloading the pins onto the bushings.
+
+To set your preload you want to back the FSCS screws till they are just touching the magnest on the shuttle.  See [Preload Paper Trick](#preload-paper-trick)
 
 
 ## Tips and Tricks
@@ -26,7 +35,8 @@ If you printed the shuttle and backplate and things are just not smooth or you h
 
 Big thank you to `unguided-wanderer` on Discord for this technique.
 
+### Preload Paper Trick
 
-## Preload
+You can use a piece of paper per side to make sure they both have the same pressure.
 
-To set your preload you want to back the FSCS screws till they are just touching the magnest on the shuttle.  You can use a piece of paper per side to make sure they both have the same pressure.  This should remove all the wiggle when it's fully seated.  **NOTE** Every backplate needs to be adjusted.
+Big thank you to `ButtSlark` on Discord for this technique.
