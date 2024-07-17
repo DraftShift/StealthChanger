@@ -19,6 +19,6 @@
 
 ## X/Y Offset
 
-**Only for tools after 0, T) will always be 0**
+**Only for tools after 0, T0 will always be 0**
 
 Coming Soon™
