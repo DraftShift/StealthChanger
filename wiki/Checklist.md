@@ -6,7 +6,7 @@
  - [ ] Decide on umbilical management **WIP**
  - [ ] Visit the [BOM](Bill-of-Materials) to make sure you have ordered everything you need for the convertion
  - [ ] Visit our [Printing](Printing) guide and start printing
- - [ ] At this point please inspect your prints, take extra note that your hexes are very uniform, if the tops are flat you will have alignment issues, it doesn't take much for things to start off wrong here.  Luckily we have [Tips and Tricks](Printing#tips-and-tricks) if you want to try to salvage things
+ - [ ] At this point please inspect your prints, take extra note that your hexes are very uniform, if the tops are flat you will have alignment issues, it doesn't take much for things to start off wrong here.
  - [ ] [Assemble](Assembling) the shuttle and backplates
  - [ ] [Install](Installation) software
  - [ ] [Configure](Configuration) software
