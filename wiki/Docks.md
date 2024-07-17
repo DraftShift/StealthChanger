@@ -1,6 +1,6 @@
-The team has created their own dock as a solution. It allows for mounting from both the top bar, as well as a crossbar (or both). While its currently still in testing, its an option if you can do some work without having a full readme. You can view it here: [DraftShift Modular Dock for StealthChanger](https://github.com/DraftShift/ModularDock)
+The team has created their own dock as a solution. It allows for mounting from both the top bar, as well as a crossbar (or both). While its currently still in testing, its an option if you can do some work without having a full readme. You can view it here: [DraftShift Modular Dock](https://github.com/DraftShift/ModularDock)
 
-Currently all docks used with [Viesturz's Tapchanger](https://github.com/viesturz/tapchanger) are compatible.  
+Currently all docks used with [Viesturz's Tapchanger](https://github.com/viesturz/tapchanger) are compatible.
 
 To calculate how many tools you can fit on the front of your printer you ened to know the tools to use first and the amount of room for your front idlers (stock gantry also can't move the entire length of X so make sure you factor that in as well.
 
