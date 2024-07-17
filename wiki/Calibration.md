@@ -12,7 +12,7 @@
 
 - Home and QGL
 - Remove the tool from the shuttle and place it in the dock
-- Move the gantry as if to pick up the tool, as soon as the light on the optotap pub changes, note the park x/y/z location for the config
+- Move the gantry as if to pick up the tool, as soon as the light on the optotap pcb changes, note the park x/y/z location for the config
 - Repeat this for all tools
 - Restart Klipper
 
