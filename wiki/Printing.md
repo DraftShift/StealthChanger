@@ -1,7 +1,7 @@
 1. [Parts](#parts)
 2. [Settings](#settings)
 3. [Orientation](#orientation)
-4. [Tips and Tricks](#tips_and_tricks)
+4. [Tips and Tricks](#tips-and-tricks)
 
 ## Parts
 
