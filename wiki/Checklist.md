@@ -10,14 +10,8 @@
  - [ ] [Assemble](Assembling) the shuttle and backplates
  - [ ] [Install](Installation) software
  - [ ] [Configure](Configuration) software
- - [ ] Home and QGL
- - [ ] Set tool offset using paper
- - [ ] save in the config and restart klipper
- - [ ] Home and QGL
- - [ ] Remove the tool from the shuttle and place it in the dock
- - [ ] Move the gantry as if to pick up the tool, as soon as the light on the optotap pub changes, note the park x/y/z location for the config
- - [ ] Repeat this for all tools
- - [ ] Once all tools are done you are ready to try a tool change
- - [ ] Now we need to calibrate x/y for all tools, T0 will always be 0,0 as it's the base tool
+ - [ ] Calibrate [Z Offsets](Calibration#z-offset)
+ - [ ] Calibrate [Dock Parking](Calibration#dock-parking)
+ - [ ] Calibrate [X/Y Offsets](Calibration#xy-offset)
  - [ ] Registrer for a [serial](Serials)
  - [ ] Visit our [sponsor](https://github.com/sponsors/DraftShift) page
