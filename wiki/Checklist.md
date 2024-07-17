@@ -2,6 +2,8 @@
  - [ ]  Decide on the tools to use, See [Docks](Docks) for a calculation of how many will fit
  - [ ] Decide on dock types, [Modular Dock](https://github.com/DraftShift/ModularDock) or other
  - [ ] Decide if you are going top mount, or use a cross bar, 2040 or [Door Buffer](https://github.com/DraftShift/DoorBuffer) or [MiniBFI](https://github.com/DraftShift/StealthChanger/tree/main/UserMods/BT123/MiniBFI)
+ - [ ] Decide on a [Tophat](https://github.com/DraftShift/Tophat)
+ - [ ] Decide on umbilical management **WIP**
  - [ ] Visit the [BOM](Bill-of-Materials) to make sure you have ordered everything you need for the convertion
  - [ ] Visit our [Printing](Printing) guide and start printing
  - [ ] At this point please inspect your prints, take extra note that your hexes are very uniform, if the tops are flat you will have alignment issues, it doesn't take much for things to start off wrong here.  Luckily we have [Tips and Tricks](Printing#tips-and-tricks) if you want to try to salvage things
