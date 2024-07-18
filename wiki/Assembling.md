@@ -30,7 +30,7 @@ If you printed the shuttle and backplate and things are just not smooth or you h
 - Set your heat bed to 100-110°C
 - Once at temperature, mate both parts fully, and set them on the bed with the backplate (tool side) down
 - After 20+ minutes pick them up and slide them 3-4 times, then fully mate them once again
-- Set down on the backplate (tool side) someplace cool (Desk) and let them cool without touching them for 5+ hours
+- With both parts still fully mated, set them down with the backplate (tool side) down someplace flat and at room temperature and let them fully cool without touching them for 5+ hours
 - Try and slide them again and you should feel an improvement, you can try this multiple times if you are still not satisfied
 
 Big thank you to `unguided-wanderer` on Discord for this technique.
