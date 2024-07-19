@@ -18,7 +18,7 @@ Before you start with calibrations and QGLs, make sure to run `PROBE_ACCURACY SA
 
 - Home and QGL
 - Remove the tool from the shuttle and place it in the dock
-- Move the gantry as if to pick up the tool, as soon as the light on the optotap pcb changes, note the park x/y/z location for the config
+- Move the gantry as if to pick up the tool, as soon as the light on the optotap pcb changes, note the `params_park_x`, `params_park_y` and `params_park_z` and put them in the tool config file
 - Repeat this for all tools
 - Restart Klipper
 
