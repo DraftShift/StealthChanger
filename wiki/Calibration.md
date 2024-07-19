@@ -14,7 +14,7 @@ Before you start with calibrations and QGLs, make sure to run `PROBE_ACCURACY SA
 
 ## Dock Parking
 
-**NOTE:** Set the `params_close_y` to your heighest `params_park_y` + 30, and set `params_safe_y` to `params_close_y` + the thickness of your thickest tool + 10 in the `toolchanger.cfg` and remove them from the tool config files.  For `params_safe_y` you could also just make sure when you have a tool on the shuttle you can move freely behind the dock and not hit anyother tools and note that `y` position.
+**NOTE:** Set the `params_close_y` to your heighest `params_park_y` + 30, and set `params_safe_y` to `params_close_y` + the thickness of your thickest tool + 10 in the `toolchanger.cfg` and **remove them from the tool config files**.  For `params_safe_y` you could also just make sure when you have a tool on the shuttle you can move freely behind the dock and not hit anyother tools and note that `y` position.
 
 - Home and QGL
 - Remove the tool from the shuttle and place it in the dock
