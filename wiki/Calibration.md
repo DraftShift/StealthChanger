@@ -5,7 +5,7 @@
 - Home and QGL
 - Set the tool `z_offset` using the paper method
 - Add this to the tool_probe config `z_offset`
-- For tools after Tool 0, use this value to find the `gcode_z_offset`, which is the difference between this `tool_probe` and `tool_probe` for tool 0 `z_offset`. ie: if Tool 1 has a `z_offset` of `1.0` and Tool 0 is `0.8`, the `gcode_z_offset` for Tool 1 is `-0.2`
+- For tools after Tool 0, use this value to find the `gcode_z_offset`, which is the difference between this `tool_probe` and `tool_probe` for tool 0 `z_offset`. ie: if Tool 1 has a `z_offset` of `-1.0` and Tool 0 is `-0.8`, the `gcode_z_offset` for Tool 1 is `-0.2`
 - Restart Klipper
 - Repeat for all tools
 
