@@ -12,8 +12,11 @@ Toolchangers start with number 0, and count up. So for all the configs, make sur
 Please see the repo files for more info on these. [Configuration Files Repo](https://github.com/DraftShift/StealthChanger/blob/main/Klipper)
 [testing](/blob/main/Klipper)
 
-You need to add the info in printer.cfg from the repo to your your printer.cfg
-You need to have a separate toolhead config for each toolhead, then link those in your printer.cfg, as well as removing/moving the current extruder/hotend config from your printer.cfg file. See the examples in the repo for more information and a starting place. You will have to edit them with your own values.
+You need to add the info in `printer.cfg` from our repo to your `printer.cfg`
+
+You need to have a separate toolhead config for each toolhead, then link those in your `printer.cfg`, as well as removing/moving the current extruder/hotend config from your `printer.cfg` file. See the examples in the repo for more information and a starting place. You will have to edit them with your own values.
+
+**NOTE:** for some odd reason `t_command_restore_axis` was set to blank recently, this should be `t_command_restore_axis: z` please make sure that is your setting.
 
 ## CANbus
 
@@ -39,7 +42,7 @@ When setting your dock position in your tool config, X and Y are pretty self exp
 
 It is important to get this right. If you don't, you will have changing issues, or crash your tools into your docks. This is where we recommend you start:
 
-close_Y = park_y + 30\
+close_Y = park_y + 30
 safe_y = park_y + thickness of your thickest tool (plus a little buffer)
 
 IE, if you Y park position is -15. Your close Y should be 15. If your Y park position is 0, it should be 30. Safe Y should be slighty further out. 
