@@ -1,3 +1,5 @@
+Before you start with calibrations and QGLs, make sure to run `PROBE_ACCURACY SAMPLES=100` or more to brake things in.
+
 ## Z Offset
 
 **NOTE:** `gcode_z_offset` on Tool 0 is always 0.
