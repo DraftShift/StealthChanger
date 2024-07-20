@@ -18,6 +18,8 @@ You need to have a separate toolhead config for each toolhead, then link those i
 
 **NOTE:** for some odd reason `t_command_restore_axis` was set to blank recently, this should be `t_command_restore_axis: z` please make sure that is your setting.
 
+**NOTE:** `_PARK_ON_COOLING_PAD` is a useless macro in `PRINT_START` in `macros.cfg` please make sure to comment out or remove that line, currently it is line 129.
+
 ## CANbus
 
 [Esoterical CANbus](https://github.com/Esoterical/voron_canbus) this is a pretty definitive guide for canbus implementation on klipper.
