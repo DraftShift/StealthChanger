@@ -22,18 +22,18 @@ The original StealthChanger shuttle and backplates have been updated to V1.1, th
 
 Please use our [wiki](../../wiki) for more information and documentation.
 
-- [Bill of Materials](../../wiki/Bill-of-Materials)
-- [Docks](../../wiki/Docks)
-- [Printing](../../wiki/Printing)
-- [Assembling](../../wiki/Assembling)
-- [Installation](../../wiki/Installation)
-- [Configuration](../../wiki/Configuration)
-- [Calibration](../../wiki/Calibration)
-- [Slicers](../../wiki/Slicers)
-- [Serials](../../wiki/Serials)
-- [Support and FAQs](../../wiki/Support-and-FAQs)
-- [Contributing & Donating](../../wiki/Contributing-and-Donating)
-- [Team & Credits](../../wiki/Team-and-Credits)
+- [Bill of Materials](../../wiki/Bill-of-Materials.md)
+- [Docks](../../wiki/Docks.md)
+- [Printing](../../wiki/Printing.md)
+- [Assembling](../../wiki/Assembling.md)
+- [Installation](../../wiki/Installation.md)
+- [Configuration](../../wiki/Configuration.md)
+- [Calibration](../../wiki/Calibration.md)
+- [Slicers](../../wiki/Slicers.md)
+- [Serials](../../wiki/Serials.md)
+- [Support and FAQs](../../wiki/Support-and-FAQs.md)
+- [Contributing & Donating](../../wiki/Contributing-and-Donating.md)
+- [Team & Credits](../../wiki/Team-and-Credits.md)
 
 
 ## Preview
