@@ -3,6 +3,8 @@ All sections are required, so please follow all steps carefully.
 1. [Klipper Addon](#klipper-addon)
 2. [Toolchanger Configuration](#toolchanger-configuration)
 
+**NOTE:** Before you start remove your `PRINT_START` and `PRINT_END` macros out of the config as toolchanging requires a specific version of these to initialize and start printing.
+
 ## Klipper Addon
 
 You must install [klipper-toolchanger](https://github.com/viesturz/klipper-toolchanger/), Follow instruction on the linked page.
