@@ -11,7 +11,7 @@ Mini Stealthburner designed by [Voron Design](https://vorondesign.com/).
 - Modified Cowl ( which adds extra mount points )
   - Voron Logo Option -> `STL's/Cowl.stl`
   - Micron Logo Option -> `STL's/Micron_Cowl.stl`
-  - Voron Logo Option ->
+  - Micron 2Colors Logo Option ->
     - `STL's/Micron_MultiColor_Cowl.stl`
     - `STL's/Micron_MultiColor_Logo.stl`
 
