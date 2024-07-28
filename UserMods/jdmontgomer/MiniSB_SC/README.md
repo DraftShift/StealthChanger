@@ -13,7 +13,7 @@ Mini Stealthburner designed by [Voron Design](https://vorondesign.com/).
   - Micron Logo Option -> `STL's/Micron_Cowl.stl`
   - Micron 2Colors Logo Option ->
     - `STL's/Micron_MultiColor_Cowl.stl`
-    - `STL's/Micron_MultiColor_Logo.stl`
+    - `STL's/[A]_Micron_MultiColor_Logo.stl`
 
 ### BOM (On top of the normal DragonBurner Backplate BOM)
 
