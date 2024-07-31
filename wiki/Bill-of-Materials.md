@@ -41,7 +41,9 @@ x1 per toolhead
 - [2] m3x35 SHCS
 - [2] m3 heat inserts
 - [2] m3x8 BHSC (optional in v1.1)
+
 ** Note: Dragonburner extended mount is required depending on extruder**
+
 
 ### Archetype Blackbird
 
