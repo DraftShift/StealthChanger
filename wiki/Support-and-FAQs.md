@@ -6,7 +6,7 @@
 
 ## Methods
 
-- For extra support join our [Discord](https://discord.gg/jJs73c6vSc)
+<a href="https://discord.gg/jJs73c6vSc" rel="For extra support join our Discord">![For extra support join our Discord](https://github.com/DraftShift/Stealthchanger/blob/main/media/join-us-on-discord.png?raw=true)</a>
 
 
 ## FAQs
