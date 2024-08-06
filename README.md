@@ -1,7 +1,7 @@
 # <img src="media/Stealthchanger_logo.png?raw=true" height="100" align="top" /> StealthChanger
 **Tool changing system for Vorons and other front mount printer motion systems.**
 
-<a href="https://discord.gg/jJs73c6vSc" rel="For extra support join our Discord">![For extra support join our Discord](https://github.com/DraftShift/Stealthchanger/blob/main/media/join-us-on-discord.png?raw=true)</a>
+<a href="https://discord.gg/jJs73c6vSc" rel="For extra support join our Discord"><img src="https://github.com/DraftShift/Stealthchanger/blob/main/media/join-us-on-discord.png?raw=true" alt="Join our Discord" width="300"/></a>
 
 
 ## Introduction
