@@ -6,7 +6,7 @@
 
 ## Methods
 
-![Discord](https://img.shields.io/discord/1226846451028725821?logo=discord&logoColor=%23ffffff&label=Join%20our%20Discord&labelColor=%237785cc&color=%23adf5ff&link=https%3A%2F%2Fdiscord.gg%2FjJs73c6vSc)
+<a target="_blank" href="https://discord.gg/jJs73c6vSc" alt="Join our Discord">![Discord](https://img.shields.io/discord/1226846451028725821?logo=discord&logoColor=%23ffffff&label=Join%20our%20Discord&labelColor=%237785cc&color=%23adf5ff)</a>
 
 
 ## FAQs
