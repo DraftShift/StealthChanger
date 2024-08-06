@@ -6,7 +6,7 @@
 
 ## Methods
 
-<a href="https://discord.gg/jJs73c6vSc" rel="For extra support join our Discord"><img src="https://github.com/DraftShift/Stealthchanger/blob/main/media/join-us-on-discord.png?raw=true" alt="Join our Discord" width="300"/></a>
+![Discord](https://img.shields.io/discord/1226846451028725821?logo=discord&logoColor=%23ffffff&label=Join%20Our%20Discord&labelColor=%237785cc&color=%23adf5ff)
 
 
 ## FAQs
