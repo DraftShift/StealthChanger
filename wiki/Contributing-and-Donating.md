@@ -32,6 +32,8 @@ Follow [Creating a pull request](https://docs.github.com/en/pull-requests/collab
 
 ## Support via Donation
 
+<a href="https://github.com/sponsors/DraftShift" target="_blank" alt="Sponsor Us">![GitHub Sponsors](https://img.shields.io/github/sponsors/DraftShift?logo=githubsponsors&label=Sponsors&labelColor=rgb(246%2C%20248%2C%20250)&color=rgb(191%2C%2057%2C%20137))</a>
+
 StealthChanger and all other designs by DraftShift design are fully open source and come at no cost to the user.
 
 If you feel that you would like to contribute by donating, please use either the Paypal or Ko-Fi links below
