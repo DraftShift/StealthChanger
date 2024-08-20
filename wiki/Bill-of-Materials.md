@@ -35,7 +35,7 @@ x1 per toolhead
 **The list bellow is in addition to the Stealthburner BOM above.**
 
 
-### Dragonburner/Rapidburner
+### Dragonburner/Rapidburner/Yavoth
 
 - [1] m3x12 BHCS (optional to keep spacer in place)
 - [2] m3x35 SHCS
