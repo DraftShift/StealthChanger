@@ -258,28 +258,36 @@ def makeCover(profile, panel_clearance):
     return cover
 
 
-cover = makeCover("fly_utoc", panel_clearance=3)
+try:
+    show_object(makeCover("fly_utoc", panel_clearance=3))
+except NameError:
 
+    # Release
+    import os
+    current_path = os.getcwd()
+    stl_path     = os.path.join(current_path, "STL")
+    step_path    = os.path.join(current_path, "STEP")
 
-## Release
-# import os
-# current_path = os.getcwd()
-# stl_path     = os.path.join(current_path, "STL")
-# step_path    = os.path.join(current_path, "STEP")
+    for x in [stl_path, step_path]:
+        if not os.path.exists(x):
+            os.makedirs(x)
 
-# for x in [stl_path, step_path]:
-#     if not os.path.exists(x):
-#         os.makedirs(x)
+    for profile in profiles:
+        profile_path_stl  = os.path.join(stl_path, profile.upper())
+        profile_path_step = os.path.join(step_path, profile.upper())
 
-# for panel_clearance in [3, 3.5, 4, 4.5, 5]:
-#     for profile in profiles:
-#         fn    = f"{profile.upper()}_{panel_clearance}mm"
-#         cover = makeCover(profile, panel_clearance)
-#         stl   = os.path.join(stl_path, f"{fn}.stl")
-#         step  = os.path.join(step_path, f"{fn}.step")
+        for x in [profile_path_stl, profile_path_step]:
+            if not os.path.exists(x):
+                os.makedirs(x)
 
-#         print("Exporting", stl)
-#         cq.exporters.export(cover, stl)
+        for panel_clearance in [3, 3.5, 4, 4.5, 5]:
+            fn    = f"{profile.upper()}_{panel_clearance}mm_panel_gap"
+            cover = makeCover(profile, panel_clearance)
+            stl   = os.path.join(profile_path_stl, f"{fn}.stl")
+            step  = os.path.join(profile_path_step, f"{fn}.step")
 
-#         print("Exporting", step)
-#         cq.exporters.export(cover, step)
+            print("Exporting", stl)
+            cq.exporters.export(cover, stl, angularTolerance=0.3)
+
+            print("Exporting", step)
+            cq.exporters.export(cover, step)
