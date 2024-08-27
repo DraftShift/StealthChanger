@@ -140,7 +140,7 @@ def backPlate(printer_size=300, tool_count=6):
 
         bowden = (
             cq.Workplane()
-            .circle(2.3).revolve(18, (0, -length*2.6, 0), (-1, -length*2.6, 0))
+            .circle(2.3).revolve(18, (0, -length*2.75, 0), (-1, -length*2.75, 0))
             .faces("<Z").workplane(centerOption="CenterOfBoundBox").circle(2.3).revolve(45, (0, -length, 0), (1, -length, 0))
             .rotate((0, 0, 0), (0, 0, 1), -20 if rotation_angle[tool] < 60 else 20)
             .translate((0, 11.2, length+1))
@@ -189,19 +189,21 @@ except NameError:
     current_path = os.getcwd()
     stl_path     = os.path.join(current_path, "STL")
     step_path    = os.path.join(current_path, "STEP")
+    stl_PG7  = os.path.join(stl_path,  "PG7")
+    step_PG7 = os.path.join(step_path, "PG7")
 
-    for x in [stl_path, step_path]:
+    for x in [stl_path, step_path, stl_PG7, step_PG7]:
         if not os.path.exists(x):
             os.makedirs(x)
 
     # Single tool
-    name = f"PG7_1_tool"
+    name = "PG7_1_tool"
     print("Generating", name)
 
-    step = os.path.join(step_path, f"{name}.step")
+    step = os.path.join(step_PG7, f"{name}.step")
     cq.exporters.export(backPlate(tool_count=1), step)
 
-    stl = os.path.join(stl_path, f"{name}.stl")
+    stl = os.path.join(stl_PG7, f"{name}.stl")
     cq.exporters.export(backPlate(tool_count=1), stl, angularTolerance=0.3)
 
     # Multi Tool
@@ -209,12 +211,12 @@ except NameError:
         max_tool_count = frames[printer_size][2]
 
         for tool_count in range(2, max_tool_count+1):
-            step_size_path = os.path.join(step_path, str(printer_size))
+            step_size_path = os.path.join(step_PG7, str(printer_size))
 
             if not os.path.exists(step_size_path):
                 os.makedirs(step_size_path)
 
-            stl_size_path = os.path.join(stl_path, str(printer_size))
+            stl_size_path = os.path.join(stl_PG7, str(printer_size))
 
             if not os.path.exists(stl_size_path):
                 os.makedirs(stl_size_path)

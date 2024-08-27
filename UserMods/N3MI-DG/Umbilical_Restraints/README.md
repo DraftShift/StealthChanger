@@ -4,17 +4,12 @@
 
 There are 3 factors in determining which files you need.
 
-- The style of umbilical plate you are using (Tapchanger or Nitehawk). [Link](https://github.com/DraftShift/StealthChanger/tree/mod_updates/UserMods/N3MI-DG/Umbilical_Plates)
-- The cable diameter you are using.
+- The style of umbilical plate you are using (Regular Or Large). [Link](https://github.com/DraftShift/StealthChanger/tree/mod_updates/UserMods/N3MI-DG/Umbilical_Plates)
 - The type of umbilical support you are using (1mm piano wire or [0.3x3mm flat spring steel](https://www.aliexpress.com/item/1005006731615186.html))
-
-For example. A Nitehawk style umbilical plate user with 5.5mm cable and piano wire would print the following:
-
-- 5.5mm_Cable_Wire_Relief_(Nitehawk_Style).stl
-- 5.5mm_Cable_Wire_Clip_(Nitehawk_Style).stl
-- 5.5mm_Cable_Wire_Terminator_(Nitehawk_Style).stl
+- The cable diameter you are using.
 
 You need to print 1 Relief, 1 Terminator and enough Clips to keep your umbilical tidy (typically 4-6) per tool.
+If you have a cubed build volume the spring steel/piano wire length should be the diagonal length of your bed + enough material for bending.
 
 ## Spring Steel
 Insert the spring steel through the strain relief and bend the end 2-3mm with needle nose plyers to roughly 30-45 degrees. You can heat the end of the spring steel with a flame to stop it from snapping. If there is too much friction you can add a dab of dishwashing liquid as a lubricant.

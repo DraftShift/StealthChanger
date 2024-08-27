@@ -8,8 +8,8 @@ This mod is intended to be used with my [umbilical restraints](https://github.co
 
 There are 3 different styles.
 
-- Tapchanger style. Also compatible with [viesturz' Tapchanger umbilicals](https://github.com/viesturz/tapchanger)
-- Nitehawk style. Bigger opening.
+- Regular. Compatible with [viesturz' Tapchanger umbilicals](https://github.com/viesturz/tapchanger)
+- Large. Use this version for Nitehawk and larger cables.
 - PG7. Can be used with either 1mm piano wire or 0.3x3mm spring steel.
 
 If you require custom positioning for the docks or umbilical spacing, the [CadQuery](https://github.com/CadQuery/cadquery, "CadQuery") source has been included.
