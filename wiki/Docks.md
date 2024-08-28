@@ -4,7 +4,7 @@ Currently all docks used with [Viesturz's Tapchanger](https://github.com/viestur
 
 To calculate how many tools you can fit on the front of your printer you ened to know the tools to use first and the amount of room for your front idlers (stock gantry also can't move the entire length of X so make sure you factor that in as well.
 
-   - Dragon Burners require 60mm per tool (I recommend 5mm between for extruder handles)
+   - Dragon Burners/Yavoth require 60mm per tool (I recommend 5mm between for extruder handles)
    - Blackbird, Stealth Burners and XOL require 76mm per tool
    - The gantry required about 20mm per side to be able to pass the tools.  To know how many tools you can fit it's simple math, measure that top bar -40mm to gantry and then divide the remainder by the size of your toolhead.
 
