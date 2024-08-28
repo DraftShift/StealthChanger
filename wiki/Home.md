@@ -20,7 +20,7 @@ The number of docks that can be installed is based on the width of the printer a
 
 
 ## Tool compatability
-Currently we support the standard Stealth Burner, Dragon Burner, Rapid Burner, Yavoth, XOL and Archetype. There is also a usermod for the Mini Stealth Burner.
+Currently we support the standard Stealth Burner, Dragon Burner, Rapid Burner, Yavoth, XOL and Archetype. There is also a usermod for the [Mini Stealth Burner](../UserMods/jdmontgomer/MiniSB_SC).
 
 ## Before you begin
 
