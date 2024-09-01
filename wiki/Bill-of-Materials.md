@@ -22,7 +22,7 @@ x1 per toolhead
 
 ### All Tools
 
-**Note: heatsets on the SB version in from the opposite side as the Voron instructions, slightly longer screws on the CW2 attachment may be required**
+**Note:** heatsets on the SB version in from the opposite side as the Voron instructions, slightly longer screws on the CW2 attachment may be required
 
 - [4] m3 heat inserts
 - [3] Ø4x12mm ssRod (dowel pin) with a rounded end **(if it has female threads on the back it will be listed as an M3, but make sure the pin is 4mm OD, that is what is important)**
@@ -42,7 +42,7 @@ x1 per toolhead
 - [2] m3 heat inserts
 - [2] m3x8 BHCS (optional in v1.1)
 
-** Note: Dragonburner extended mount is required depending on extruder**
+**Note:** Dragonburner [extended mount](https://github.com/chirpy2605/voron/tree/main/general/Alternative_Voron_Mounts/Extended_Extruder_Mounts) is required depending on extruder
 
 
 ### Archetype Blackbird
