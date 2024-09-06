@@ -40,3 +40,18 @@ Big thank you to `unguided-wanderer` on Discord for this technique.
 You can use a piece of paper per side to make sure they both have the same pressure.
 
 Big thank you to `ButtSlark` on Discord for this technique.
+
+### Cleaning out bushings
+
+Sometimes the bushings aren't debured or do not slide well when you recieve them.
+
+[![Bushing Cleaning](https://img.youtube.com/vi/AHlydBsMJro/0.jpg)](https://www.youtube.com/watch?v=AHlydBsMJro)
+
+- Find a drill bit 4mm or smaller (I’m using 3mm in the video at the link)
+- Using your thumb, apply pressure onto the bush and roll back and forth on the drill bit. 
+- Test on the pin again
+- Rinse and repeat. 
+
+Some bushings take multiple tries, but try not to over do it, just enough that the bushing falls on the pin.
+
+Big thank you to `BT123` on Discord for this technique.
