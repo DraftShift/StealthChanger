@@ -5,13 +5,14 @@
 
 **Serial Application Guide Lines**
 
-*make sure media is below 25MB (youtube link allowed)*
+**Make sure media is 25MB or less (youtube link allowed, no limit)**
 
 Post a video here that shows:
 * 2 tool min print (mid print is fine)
 * clearly shows a tool change
 * clearly shows the stealthchanger shuttle
 * a picture of the finished print is a bonus!
+* some form of visual with your discord username and date on it
 
 **NOTE: tool calibration prints do not count**
 
