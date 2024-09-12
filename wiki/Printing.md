@@ -15,6 +15,8 @@ Coming Soon
 
 All print settings are the same as [Voron Standards](https://docs.vorondesign.com/sourcing.html#print-settings) or better.
 
+Since every filament shrinks at a different rate and our tolerances are too tight to allow for "pre-scalling".  You need to calibrate the shrinkage for each and every filament you use, even the same brand but different colour can shrink at a different rate.  We recommend using Califlower for each filament.
+
 - Shuttle is the only part that requires supports and should be set to `touching build plate`
 
 ## Orientation
