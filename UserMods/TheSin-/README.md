@@ -6,6 +6,6 @@
 
 - **SV08 Dockbar Brackets**
 
-- **PCB36 Mount** is an Fly SHT36 PCB mount for SC with HGX CNC Extruder.  Requiers a 20mm standoff.  Original PCB mount is from [MapleLeafMakers](https://github.com/MapleLeafMakers), updated to fit V3.
+- **PCB36 Mount** is an Fly SHT36/Nitehawk 36 PCB mount for SC with HGX CNC/Orbitor2 Extruder.  Requiers a 25mm standoff.  Original PCB mount is from [MapleLeafMakers](https://github.com/MapleLeafMakers), updated to fit V3.
 
 - **Belt Covers** For Voron v2, orignal from [Akio in the Voron Usermods](https://mods.vorondesign.com/details/LzEFU0RDHXUarF7y69x2Q), build with the SC Logo in open or raised for 2 colour printing
