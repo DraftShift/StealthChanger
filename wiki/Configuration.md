@@ -10,7 +10,6 @@ Toolchangers start with number 0, and count up. So for all the configs, make sur
 ## Toolheads Configuration
 
 Please see the repo files for more info on these. [Configuration Files Repo](https://github.com/DraftShift/StealthChanger/blob/main/Klipper)
-[testing](/blob/main/Klipper)
 
 You need to add the info in `printer.cfg` from our repo to your `printer.cfg`
 
