@@ -1,7 +1,7 @@
  - [ ] Read and understand all the documentation
  - [ ]  Decide on the tools to use, See [Docks](Docks) for a calculation of how many will fit
  - [ ] Decide on dock types, [Modular Dock](https://github.com/DraftShift/ModularDock) or other
- - [ ] Decide if you are going top mount, or use a cross bar, 2040 or [Door Buffer](https://github.com/DraftShift/DoorBuffer) or [MiniBFI](https://github.com/DraftShift/StealthChanger/tree/main/UserMods/BT123/MiniBFI)
+ - [ ] Decide if you are going top mount, or use a cross bar, 2040 or [Door Buffer](https://github.com/DraftShift/DoorBuffer) or [MiniBFI](https://github.com/DraftShift/StealthChanger/tree/main/UserMods/BT123/MiniBFI%20%2B%20MicroBFI)
  - [ ] Decide on a [Tophat](https://github.com/DraftShift/Tophat)
  - [ ] Decide on umbilical management **WIP**
  - [ ] Visit the [BOM](Bill-of-Materials) to make sure you have ordered everything you need for the convertion
