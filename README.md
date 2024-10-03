@@ -39,6 +39,7 @@ Please use our [wiki](../../wiki) for more information and documentation.
 - [Support and FAQs](../../wiki/Support-and-FAQs)
 - [Contributing & Donating](../../wiki/Contributing-and-Donating)
 - [Team & Credits](../../wiki/Team-and-Credits)
+- [Vendors & Kits](../../wiki/Vendors-and-Kits)
 
 
 ## Preview

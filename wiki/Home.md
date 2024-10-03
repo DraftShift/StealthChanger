@@ -47,3 +47,4 @@ How are you doing docks? There are a few different ways of doing them, and what 
 10. [Support & FAQs](Support-and-FAQs)
 11. [Contributing & Donating](Contributing-and-Donating)
 12. [Team & Credits](Team-and-Credits)
+13. [Vendors & Kits](Vendors-and-Kits)
