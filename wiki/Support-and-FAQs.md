@@ -12,22 +12,33 @@
 ## FAQs
 
 
-1. After printing the parts make sure that the hex holes look to be proper hexes and that they are very uniform.  If they are misshapen chances are you need to reprint as you will have alignment issues.  It doesn't take much to be out by a lot.  Try printing at a slower speed if you have issues.
+### Check your print quality
+After printing the parts make sure that the hex holes look to be proper hexes and that they are very uniform.  If they are misshapen chances are you need to reprint as you will have alignment issues.  It doesn't take much to be out by a lot.  Try printing at a slower speed if you have issues.
 
-2. Calculating available size for tools (number of tools you can fit)
+### How many tool will fit on my printer?
+Calculating available size for tools (number of tools you can fit)
    - Dragon Burners/Yavoth require 60mm per tool (I recommend 5mm between for extruder handles)
    - Blackbird, Stealth Burners and XOL require 76mm per tool
    - The gantry required about 20mm per side to be able to pass the tools.  To know how many tools you can fit it's simple math, measure that top bar -40mm to gantry and then divide the remainder by the size of your toolhead.
 
-3. Adjusting preload... Preload is created with the 2 countersunk screws in the tool plate.  These 2 screws need to be magnetic and will make contact with the magnets in the shuttle.  This adds 2 more wider points of contact at the base while also pre loading the sleeves/bearings.  To adjust them screw them all the way in, then slowly unscrew them 1/4 turn at a time (keeping each side even) until the tool no longer engages its self right away.  Once you reach a point where this happens, screw them back in 1/4 turn.  Each tool needs to be adjusted separately as printing irregularities can happen and this will allow you to compensate for it.  You may want to test and readjust these from time to time.
+### Adjust preload
+Preload is created with the 2 countersunk screws in the tool plate.  These 2 screws need to be magnetic and will make contact with the magnets in the shuttle.  This adds 2 more wider points of contact at the base while also pre loading the sleeves/bearings.  To adjust them screw them all the way in, then slowly unscrew them 1/4 turn at a time (keeping each side even) until the tool no longer engages its self right away.  Once you reach a point where this happens, screw them back in 1/4 turn.  Each tool needs to be adjusted separately as printing irregularities can happen and this will allow you to compensate for it.  You may want to test and readjust these from time to time.
 
-4. If you run homing on Z or QGL and you are getting lots of restarts or excessive runs.  Make sure you are using **N52** magnets, and check that your umbilicals are properly support and the right length.  If these 3 things aren't checked it will affect the tap precision.
+### QGL won't finish
+If you run homing on Z or QGL and you are getting lots of restarts or excessive runs.  Make sure you are using **N52** magnets, and check that your umbilicals are properly support and the right length.  If these 3 things aren't checked it will affect the tap precision.
 
 5. A lot of people are asking which toolhead/extruder is recommended. The answer is whatever you want. The changer and tools are completely separate. That being said, using something that is officially supported is going to be the easiest.
 
-6. CAN setup. You are definitely going to want to use CAN to connect your toolheads. Its only 4 wires and much lighter. You don't need anything fancy to split out the signal. Simple WAGO connectors work just fine. Of course, there are options for boards that will split the signal as well if you want something that looks a little more professional. Run wires up to the umbilical from your controller and power supply, then use WAGO's there to split the signal. See the guide [here](Configuration#canbus) for a lot more CAN information.
+### CAN setup
+You are definitely going to want to use CAN to connect your toolheads. Its only 4 wires and much lighter. You don't need anything fancy to split out the signal. Simple WAGO connectors work just fine. Of course, there are options for boards that will split the signal as well if you want something that looks a little more professional. Run wires up to the umbilical from your controller and power supply, then use WAGO's there to split the signal. See the guide [here](Configuration#canbus) for a lot more CAN information.
    
-7. If you try to change tools during a print (or when the hotends are active) and it drops off one tool, then waits behind another tool and does nothing, the issue is that its probably waiting for the tool temp to stabilize. Make sure you run a PID tune for each tool and place the info in the corresponding tool config.
+### Make sure you have a good PID
+If you try to change tools during a print (or when the hotends are active) and it drops off one tool, then waits behind another tool and does nothing, the issue is that its probably waiting for the tool temp to stabilize. Make sure you run a PID tune for each tool and place the info in the corresponding tool config.
+
+### How to calculate build loss
+On a stock Voron you will loose some build volume, that build volume loss is in the Y and Z areas on the front of the build plate.  To determine this you ened to know where you docks are and the dementions of your tool.  We have included an image to help you visualize and calculate the loss under and behind the docks.
+
+![Build loss](https://github.com/DraftShift/StealthChanger/blob/main/media/BuildLoss.png?raw=true)
 
 ## Build Guide
 **Built on stream by [ZombieHedgehog](https://www.twitch.tv/zombiehedgehog)**
