@@ -32,7 +32,8 @@ Preload is created with the 2 countersunk screws in the tool plate.  These 2 scr
 ### QGL won't finish
 If you run homing on Z or QGL and you are getting lots of restarts or excessive runs.  Make sure you are using **N52** magnets, and check that your umbilicals are properly support and the right length.  If these 3 things aren't checked it will affect the tap precision.
 
-5. A lot of people are asking which toolhead/extruder is recommended. The answer is whatever you want. The changer and tools are completely separate. That being said, using something that is officially supported is going to be the easiest.
+### Which toolhead/extruder is recommended?
+A lot of people are asking which toolhead/extruder is recommended. The answer is whatever you want. The changer and tools are completely separate. That being said, using something that is officially supported is going to be the easiest.
 
 ### CAN setup
 You are definitely going to want to use CAN to connect your toolheads. Its only 4 wires and much lighter. You don't need anything fancy to split out the signal. Simple WAGO connectors work just fine. Of course, there are options for boards that will split the signal as well if you want something that looks a little more professional. Run wires up to the umbilical from your controller and power supply, then use WAGO's there to split the signal. See the guide [here](Configuration#canbus) for a lot more CAN information.
