@@ -1,5 +1,5 @@
 # Stealthburner Number Cowls
-These are modified cowls for the Stealthburner toolhead featuring tool numbers in place of the voron logo. These are multi body STLs so you will NEED a tool changer or MMU (AMS) to print these. 
+These are modified cowls for the Stealthburner toolhead featuring tool numbers in place of the voron logo. They are multi body STLs so you will NEED a tool changer or MMU (AMS) to print these. 
 
 ![Render of All Cowls](images/everything.png)
 
@@ -13,5 +13,11 @@ When you're slicing load each ALL the STLs from one of the tool folders at once,
 
 &nbsp;
 
+ps. If you make these before I get real images up here, please dm on Discord with them!
+
+&nbsp;
 
 ![Render of Frontal View](images/knomi_front.png)
+
+## Credits
+Thanks to VORON Design for the Stealthburner toolhead and BigTreeTech for the Knomi and then Stealthburner Cowl.
