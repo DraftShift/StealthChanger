@@ -43,8 +43,8 @@ When setting your dock position in your tool config, X and Y are pretty self exp
 
 It is important to get this right. If you don't, you will have changing issues, or crash your tools into your docks. This is where we recommend you start:
 
-close_Y = park_y + 30
-safe_y = park_y + thickness of your thickest tool (plus a little buffer)
+- close_y = park_y + 30
+- safe_y = park_y + thickness of your thickest tool (plus a little buffer)
 
 IE, if you Y park position is -15. Your close Y should be 15. If your Y park position is 0, it should be 30. Safe Y should be slighty further out. 
 
