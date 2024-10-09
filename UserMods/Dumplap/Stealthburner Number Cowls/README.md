@@ -8,10 +8,14 @@ You will need Transparent ABS/ASA for the numbers as the cowl is requires it, an
 
 ## Printing
 When you're slicing load each ALL the STLs from one of the tool folders at once, then click "yes" for "single body multiple parts" and then assign you colors/tools. This will have to be done one at a time for every tool you have, so I recommend downloading the entire folder which will keep them organized. Here folder download links for the 2 cowl types
+
 &nbsp;
+
 	[Download Knomi Cowls Folder](https://download-directory.github.io/?url=https://github.com/Dumplap/StealthChanger/tree/main/UserMods/Dumplap/Stealthburner%2520Number%2520Cowls/.stl/Knomi%2520Cowls)
 	[Download Original Cowls Folder](https://download-directory.github.io/?url=https://github.com/Dumplap/StealthChanger/tree/main/UserMods/Dumplap/Stealthburner%2520Number%2520Cowls/.stl/Original%2520Cowls)
+
 &nbsp;
+
 To make you transparent sections better print with 100% infill and concentric pattern
 
 
