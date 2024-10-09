@@ -1,2 +1,2 @@
 ## Credits
-The "Stealthburner LED Carrier.stl" was designed by VORON Design, which I have only renamed
+The "Stealthburner LED Carrier.stl" was designed by VORON Design; which I have only renamed.
