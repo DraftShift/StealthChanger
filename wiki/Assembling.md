@@ -1,3 +1,7 @@
+1. [Assembling Shuttle and Backplates](#assembling-shuttle-and-backplates)
+2. [Preload](#preload)
+4. [Tips and Tricks](#tips-and-tricks)
+
 **NOTE: Currently pins may feel very loose, this is by design to allow for room for glue or epoxy (recommended) to set.  Normally press fit is good enough for testined, but for actual use make sure to secure the pins properly.**
 
 **NOTE: D2HW shuttle is not compatible with Hall Effects, and D2HW back plate will affect cooling.**
