@@ -1,3 +1,6 @@
+1. [Official Team Roster](#official-team-roster)
+2. [Credits](#credits)
+
 # Official Team Roster
 
 | Github   	| Discord    	| Main Role     |

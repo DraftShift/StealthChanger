@@ -1,3 +1,7 @@
+1. [Z Offset](#z-offset)
+2. [Dock Parking](#dock-parking)
+3. [X/Y Offset](#xy-offset)
+
 Before you start with calibrations and QGLs, make sure to run `PROBE_ACCURACY SAMPLES=100` or more to brake things in.
 
 ## Z Offset
