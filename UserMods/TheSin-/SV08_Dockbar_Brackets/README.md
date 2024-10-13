@@ -9,6 +9,8 @@ This mod reuses the bolts on the top bar of the SV08 to add a 2020 extrusion.
 
 ## BOM
 - 4 x M3x10 BHCS (Replaces the 4 M3x6 BHCS screws)
+- 2 x M3 Heatset
+- 2 x M3x6 BHCS
 - 420mm 2020 extrusion
 
 ![](media/bracket.png?raw=true)
