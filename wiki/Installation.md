@@ -16,7 +16,7 @@ You need `homing.cfg`, `macros.cfg`, `tool_detection.cfg` and `toolchanger.cfg` 
 
 `homing.cfg` assumes you are using sensorless for X axis and a physical switch for Y acis.  It's important to use this file when building your own homing as the order and macros it calls are required.  If you use Hall Effects or switch end stops for both Axis, remove the `_SENSORLESS_HOME_X` call in `[homing_override]` with `G28 X`.  Alternatively if you use sensorless for both you need so update `G28 Y` to use a copy of `_SENSORLESS_HOME_X` but for Y. There is a second place in the homing override that sets your Y rebound.  The default is 20, without keeper you likely want this around 4-5, change `G0 Y{ max_y - 20 } F5000` to `G0 Y{ max_y - 5 } F5000` notice the 20 that changes.  This is something you may need to adjust to figure out the position of your switch.
 
-**NOTE: when using sensorless make sure that the `homing_retract_dist` in the `[stepper_y]` section is set to 0 as per [Voron Docs](https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html)**
+**NOTE:** when using sensorless Y make sure that the `homing_retract_dist` in the `[stepper_y]` section is set to 0 as per [Voron Docs](https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html)
 
 You can either add them manually to your klipper install, or alternatively, you can integrate them to your config so that moonraker keeps them up to date with your other software if they change. Below are the steps for the integrated way. If you make any changes to the files though, they will be overwritten if you update. If you choose to manually add them, make sure your printer.cfg reflects the location of them.
 
