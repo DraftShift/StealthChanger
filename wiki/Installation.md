@@ -3,6 +3,12 @@ All sections are required, so please follow all steps carefully.
 1. [Klipper Addon](#klipper-addon)
 2. [Toolchanger Configuration](#toolchanger-configuration)
 
+**NOTE:** DangerKlipper is not currently supported
+
+
+**NOTE:** Your klipper version eneds to be newer than Jun 14, 2024 (1591a51)
+
+
 **NOTE:** Before you start remove your `PRINT_START` and `PRINT_END` macros out of the config as toolchanging requires a specific version of these to initialize and start printing.
 
 ## Klipper Addon
