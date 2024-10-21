@@ -12,7 +12,7 @@ Post a video here that shows:
 * clearly shows a tool change
 * clearly shows the stealthchanger shuttle
 * a picture of the finished print is a bonus!
-* some form of visual with your discord username and date on it
+* some form of visual with your discord username and date (within the last 24 hours) on it in the video
 
 **NOTE: tool calibration prints do not count**
 
