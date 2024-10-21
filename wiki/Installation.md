@@ -29,7 +29,11 @@ You can either add them manually to your klipper install, or alternatively, you 
 **On the Klipper System** 
 ```
 cd ~
-git clone https://github.com/viesturz/tapchanger.git
+git clone https://github.com/viesturz/tapchanger.git --no-checkout
+cd tapchanger git sparse-checkout init --cone
+git sparse-checkout set Klipper
+git checkout
+cd ~
 ln -s ~/tapchanger/Klipper/config-example ~/printer_data/config/tapchanger
 ```
 
