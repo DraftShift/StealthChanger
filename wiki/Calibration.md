@@ -50,9 +50,19 @@ Do this for all tool heads one at a time.
 1. Put a tool on the shuttle and run `INITIALIZE_TOOLCHANGER`
 2. Run `G28` and `QUAD_GANTRY_LEVEL` 
 3. Remove the tool from the shuttle and place it in the dock
-4. Move the gantry as if to pick up the tool, as soon as the light on the optotap pcb changes, note the `params_park_x`, `params_park_y` and `params_park_z` and put them in the tool config file
-5. Repeat this for all tools
-6. Run `FIRMWARE_RESTART`
+4. Move the gantry as if to pick up the tool, as soon as the light on the optotap pcb changes
+5. Raise Z by 1
+6. Run `M114` and record the values to `params_park_x`, `params_park_y` and `params_park_z` in `[Tool Tn]` of the tool conf file
+7. Repeat this for all tools
+8. Run `FIRMWARE_RESTART`
+
+### Docking/Undocking
+
+The Moving using config parameters is as such:
+
+| Current tool | No tool | Next tool |
+|--------------|---------|-----------|
+|`safe_y`, `park_x` -> `park_z` -> `close_y` -> `path` | `close_y` -> `park_x` | `path` -> `safe_y` -> `t_command_restore_axis` |
 
 
 ## X/Y Offset
