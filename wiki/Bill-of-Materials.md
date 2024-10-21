@@ -4,7 +4,7 @@ All parts (screws, magnets, etc) are Voron, and Voron Tap standards.
 2. [BackPlates](#backplates)
 3. [Endstops](#endstops)
 4. [Options](#options)
-5. [Sex Ball Probe](#sex-ball-probe)
+5. [Sexball Probe](#sex-ball-probe)
 6. [Affiliate Links](#affiliate-links)
 
 ## Shuttle
@@ -67,7 +67,7 @@ Optional
 You will likely need help with belts, make sure to decide on if you will use the [shuttle keeper](https://github.com/DraftShift/Stealthchanger/tree/main/STLs/Extras) or use the [belt helper](https://github.com/DraftShift/Stealthchanger/tree/main/STLs/Extras/BeltHelper).  And print the required parts and make sure to have the addition bill of materials for them.
 
 
-## Sex ball probe
+## Sexball probe
 
 Calibration probe option that just replaces the shaft on a sexbolt.
 - [Probe](https://www.aliexpress.com/item/1005004822732672.html)
