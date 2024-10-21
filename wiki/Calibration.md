@@ -54,7 +54,7 @@ Do this for all tool heads one at a time.
 
 ## X/Y Offset
 
-**NOTE:** `gcode_x_offset` and `gcode_y_offset` on Tool 0 are always 0.
+**NOTE:** `gcode_x_offset` and `gcode_y_offset` on T0 are always 0
 
 ### [Sexball Probe](Bill-of-Materials#sexball-probe) or [NozzleAlign](https://github.com/viesturz/NozzleAlign)
 
