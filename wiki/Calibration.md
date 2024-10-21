@@ -7,18 +7,22 @@ Before you start with calibrations and QGLs, make sure to run `PROBE_ACCURACY SA
 
 ## Z Offset
 
+**NOTE:** Tn is the tool on the shuttle, ie T0
+
 1. Put a tool on the shuttle and run `INITIALIZE_TOOLCHANGER`
 2. Run `G28` and `QUAD_GANTRY_LEVEL` 
 3. Run `PROBE_CALIBRATE`
 4. Do a paper test as normal like a single toolhead head printer and adjust the Z
-5. DO NOT SAVE the calibration, just hit ACCEPT on Mainsail. You will see the offset in the console. Copy the offset and save this `[tool_probe Tn]` `z_offset` in the configs **NOTE: Tn is the tool on the shuttle, ie T0**
-6. Repeat form step 1 for all tools
+5. DO NOT SAVE the calibration, just hit ACCEPT on Mainsail. You will see the offset in the console. Copy the offset and save this `[tool_probe Tn]` `z_offset` in the configs
+6. Repeat from `step 1` for all tools
 7. Run `FIRMWARE_RESTART`
 
 Do this for all tool heads one at a time.
 
 ## GCODE Z Offset
 
+**NOTE:** Tn is the tool on the shuttle, ie T1
+**NOTE:** only home or probe with T0 during this calibration
 **NOTE:** `gcode_z_offset` on Tool 0 is always 0.
 
 1. Set [z_offset](#z-offset) for all tools first
@@ -27,8 +31,8 @@ Do this for all tool heads one at a time.
 4. Run `G1 Z10 F600`
 5. Manually remove current tool and place the next tool in its place on the shuttle
 6. Do a paper test as normal
-7. Once done run `M114` and copy the Z value into `[tool Tn]` `gcode_z_offset` **NOTE: Tn is the tool on the shuttle, ie T1**
-8. Repeat from step 4 for all tools **NOTE: do not any homing or probing or you need to restart completely**
+7. Once done run `M114` and copy the Z value into `[tool Tn]` `gcode_z_offset`
+8. Repeat from `step 4` for all tools
 9. Run `FIRMWARE_RESTART`
 
 
