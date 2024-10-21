@@ -22,7 +22,9 @@ Do this for all tool heads one at a time.
 ## GCODE Z Offset
 
 **NOTE:** Tn is the tool on the shuttle, ie T1
+
 **NOTE:** only home or probe with T0 during this calibration
+
 **NOTE:** `gcode_z_offset` on Tool 0 is always 0.
 
 1. Set [z_offset](#z-offset) for all tools first
@@ -39,6 +41,7 @@ Do this for all tool heads one at a time.
 ## Dock Parking
 
 **NOTE:** Set the `params_close_y` to your highest `params_park_y` + 30, and set `params_safe_y` to `params_close_y` + the thickness of your thickest tool + 10 in the `toolchanger.cfg` and **remove them from the tool config files**
+
 **NOTE:** For `params_safe_y` you could also just make sure when you have a tool on the shuttle you can move freely behind the dock and not hit any other docked tools and note that `y` position.
 
 1. Put a tool on the shuttle and run `INITIALIZE_TOOLCHANGER`
