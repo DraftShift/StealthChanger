@@ -2,4 +2,4 @@ Currently we are working with Manufacturers and Vendors on official kits and CNC
 
 | Vendor | Discord Name | Store | Kit | Location |
 |--------|--------------|-------|-----|----------|
-| bobcat3d | Broncosis | [Essential Hardware](https://www.etsy.com/ca/listing/1736497017/voron-stealth-changer-essential-hardware) | Shuttle/Backplate Hardware only kit | Canada |
+| bobcat3d | Broncosis | [Etsy](https://www.etsy.com/ca/listing/1736497017/voron-stealth-changer-essential-hardware) | Shuttle/Backplate Hardware only kit | Canada |
