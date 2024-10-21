@@ -21,7 +21,7 @@ Do this for all tool heads one at a time.
 
 **NOTE:** `gcode_z_offset` on Tool 0 is always 0.
 
-1. Set all [`z_offset` first](#z-offset)
+1. Set [z_offset](#z-offset) for all tools first
 2. Make sure T0 is on the shuttle and run `INITIALIZE_TOOLCHANGER`
 3. Run `G28` and `QUAD_GANTRY_LEVEL` 
 4. Run `G1 Z10 F600`
