@@ -28,7 +28,6 @@ Do this for all tool heads one at a time.
 5. Manually remove T0 and place T1 in its place
 6. Do a paper test as normal
 7. Once done run `M114` and copy the Z value into `[tool T1]` `gcode_z_offset`
-Move Z a little higher (~30 is fine). This is so you have room to change toolheads.
 8. Repeat from step 4 for all tools
 9. Restart Klipper
 
