@@ -69,6 +69,8 @@ You will likely need help with belts, make sure to decide on if you will use the
 
 ## Sexball probe
 
+![Sexball probe](https://github.com/DraftShift/StealthChanger/blob/main/media/sexball_probe.jpg?raw=true)
+
 Calibration probe option that just replaces the shaft on a sexbolt.
 - [Probe](https://www.aliexpress.com/item/1005004822732672.html)
 - [12mm Ball with M5 Threads](https://www.aliexpress.com/item/1005005159693298.html)
