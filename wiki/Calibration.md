@@ -1,19 +1,36 @@
 1. [Z Offset](#z-offset)
-2. [Dock Parking](#dock-parking)
-3. [X/Y Offset](#xy-offset)
+2. [GCODE Z Offset](#gcode-z-offset)
+3. [Dock Parking](#dock-parking)
+4. [X/Y Offset](#xy-offset)
 
 Before you start with calibrations and QGLs, make sure to run `PROBE_ACCURACY SAMPLES=100` or more to brake things in.
 
 ## Z Offset
 
+1. Make sure T0 is on the shuttle and run `INITIALIZE_TOOLCHANGER`
+2. Run `G28` and `QUAD_GANTRY_LEVEL` 
+3. Run `PROBE_CALIBRATE`
+4. Do a paper test as normal like a single toolhead head printer and adjust the Z
+5. DO NOT SAVE the calibration, just hit ACCEPT on Mainsail. You will see the offset in the console. Copy the offset and save this `[tool_probe T0]` `z_offset` in the configs.
+6. Repeat for all tools
+7. Restart Klipper
+
+Do this for all tool heads one at a time.
+
+## GCODE Z Offset
+
 **NOTE:** `gcode_z_offset` on Tool 0 is always 0.
 
-- Home and QGL
-- Set the `tool_probe` `z_offset` using the paper method
-- Add this to the `tool_probe` config `z_offset`
-- For tools after Tool 0, use this value to find the `gcode_z_offset`, which is the difference between this `tool_probe` and `tool_probe` for Tool 0 `z_offset`. ie: if Tool 1 has a `z_offset` of `-1.0` and Tool 0 is `-0.8`, the `gcode_z_offset` for Tool 1 is `-0.2`
-- Restart Klipper
-- Repeat for all tools
+1. Set all (`z_offset` first)[#z-offset]
+2. Make sure T0 is on the shuttle and run `INITIALIZE_TOOLCHANGER`
+3. Run `G28` and `QUAD_GANTRY_LEVEL` 
+4. Run `G1 Z10 F600`
+5. Manually remove T0 and place T1 in its place
+6. Do a paper test as normal
+7. Once done run `M114` and copy the Z value into `[tool T1]` `gcode_z_offset`
+Move Z a little higher (~30 is fine). This is so you have room to change toolheads.
+8. Repeat from step 4 for all tools
+9. Restart Klipper
 
 
 ## Dock Parking
