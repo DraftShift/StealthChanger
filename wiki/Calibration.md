@@ -13,7 +13,7 @@ Before you start with calibrations and QGLs, make sure to run `PROBE_ACCURACY SA
 4. Do a paper test as normal like a single toolhead head printer and adjust the Z
 5. DO NOT SAVE the calibration, just hit ACCEPT on Mainsail. You will see the offset in the console. Copy the offset and save this `[tool_probe T0]` `z_offset` in the configs.
 6. Repeat for all tools
-7. Restart Klipper
+7. Run `FIRMWARE_RESTART`
 
 Do this for all tool heads one at a time.
 
@@ -29,7 +29,7 @@ Do this for all tool heads one at a time.
 6. Do a paper test as normal
 7. Once done run `M114` and copy the Z value into `[tool T1]` `gcode_z_offset`
 8. Repeat from step 4 for all tools
-9. Restart Klipper
+9. Run `FIRMWARE_RESTART`
 
 
 ## Dock Parking
