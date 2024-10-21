@@ -3,7 +3,7 @@
 3. [Dock Parking](#dock-parking)
 4. [X/Y Offset](#xy-offset)
 
-Before you start using tap, make sure to break it in on all your tools by running `PROBE_ACCURACY SAMPLES=100` or more per tool.
+Before you start calibrating you must "break-in" each tool probe.  Heat soak your machine and run a couple `PROBE_ACCURACY SAMPLES=100` per tool.
 
 ## Z Offset
 
