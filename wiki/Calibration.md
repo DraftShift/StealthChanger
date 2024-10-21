@@ -3,7 +3,7 @@
 3. [Dock Parking](#dock-parking)
 4. [X/Y Offset](#xy-offset)
 
-Before you start with calibrations and QGLs, make sure to break-in all your tools by running `PROBE_ACCURACY SAMPLES=100` or more on each tool.
+Before you start using tap, make sure to break it in on all your tools by running `PROBE_ACCURACY SAMPLES=100` or more per tool.
 
 ## Z Offset
 
