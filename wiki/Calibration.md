@@ -67,7 +67,7 @@ Follow the guide at [NozzleAlign](https://github.com/viesturz/NozzleAlign)
 
 Follow the guide at [Print STL](https://www.printables.com/model/201707-x-y-and-z-calibration-tool-for-idex-dual-extruder-)
 
-### Camera like [kTAMV](https://github.com/TypQxQ/kTAMV)
+### Camera or [kTAMV](https://github.com/TypQxQ/kTAMV)
 
 Follow the guide at [kTAMV](https://github.com/TypQxQ/kTAMV)
 
