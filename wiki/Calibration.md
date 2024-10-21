@@ -13,7 +13,7 @@ Before you start with calibrations and QGLs, make sure to run `PROBE_ACCURACY SA
 2. Run `G28`
 3. Run `QUAD_GANTRY_LEVEL`
 4. Run `G28`
-5. Do a paper test as normal like a single toolhead head printer and adjust the Z
+5. Do a [paper test](https://www.klipper3d.org/Bed_Level.html#the-paper-test) as normal like a single toolhead head printer and adjust the Z
 5. Copy the offset and save this to `z_offset` in `[tool_probe Tn]` of the tool conf file
 6. Repeat from `step 1` for all tools (`step 2` and `step 3` are optional after first tool)
 7. Run `FIRMWARE_RESTART`
@@ -35,7 +35,7 @@ Do this for all tool heads one at a time.
 5. Run `G28`
 6. Run `G1 Z10 F600`
 7. Manually remove current tool and place the next tool in its place on the shuttle
-8. Do a paper test as normal like a single toolhead head printer and adjust the Z
+8. Do a [paper test](https://www.klipper3d.org/Bed_Level.html#the-paper-test) as normal like a single toolhead head printer and adjust the Z
 9. Once done run `M114` and copy the Z value to `gcode_z_offset` in `[tool Tn]` of the tool conf file
 10. Repeat from `step 6` for all tools
 11. Run `FIRMWARE_RESTART`
