@@ -25,9 +25,9 @@ Do this for all tool heads one at a time.
 2. Make sure T0 is on the shuttle and run `INITIALIZE_TOOLCHANGER`
 3. Run `G28` and `QUAD_GANTRY_LEVEL` 
 4. Run `G1 Z10 F600`
-5. Manually remove T0 and place T1 in its place
+5. Manually remove current tool and place the next tool in its place on the shuttle
 6. Do a paper test as normal
-7. Once done run `M114` and copy the Z value into `[tool T1]` `gcode_z_offset`
+7. Once done run `M114` and copy the Z value into `[tool Tn]` `gcode_z_offset` **NOTE: Tn is the tool on the shuttle, ie T1**
 8. Repeat from step 4 for all tools **NOTE: do not any homing or probing or you need to restart completely**
 9. Run `FIRMWARE_RESTART`
 
