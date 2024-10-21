@@ -89,4 +89,4 @@ Calibration probe option that just replaces the shaft on a sexbolt.
 
 Due to QC issues, this is an [Alternative bush](https://s.click.aliexpress.com/e/_DFJQgtN) which has also been tested and works fine.
 
-Alternatively you can purchase a kit from [Broncosis’s Etsy store](https://www.etsy.com/ca/listing/1736497017/voron-stealth-changer-essential-hardware) if you’re based in North America
+Alternatively you can purchase check on our official [vendors list](Vendors-and-Kits)
