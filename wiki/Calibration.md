@@ -15,7 +15,7 @@ Before you start with calibrations and QGLs, make sure to run `PROBE_ACCURACY SA
 4. Run `G28`
 5. Do a paper test as normal like a single toolhead head printer and adjust the Z
 5. Copy the offset and save this to `z_offset` in `[tool_probe Tn]` of the tool conf file
-6. Repeat from `step 1` for all tools (Step 2 and Step 3 are optional after first tool)
+6. Repeat from `step 1` for all tools (`step 2` and `step 3` are optional after first tool)
 7. Run `FIRMWARE_RESTART`
 
 Do this for all tool heads one at a time.
