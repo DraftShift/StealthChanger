@@ -38,7 +38,8 @@ Do this for all tool heads one at a time.
 
 ## Dock Parking
 
-**NOTE:** Set the `params_close_y` to your highest `params_park_y` + 30, and set `params_safe_y` to `params_close_y` + the thickness of your thickest tool + 10 in the `toolchanger.cfg` and **remove them from the tool config files**.  For `params_safe_y` you could also just make sure when you have a tool on the shuttle you can move freely behind the dock and not hit anyother tools and note that `y` position.
+**NOTE:** Set the `params_close_y` to your highest `params_park_y` + 30, and set `params_safe_y` to `params_close_y` + the thickness of your thickest tool + 10 in the `toolchanger.cfg` and **remove them from the tool config files**
+**NOTE:** For `params_safe_y` you could also just make sure when you have a tool on the shuttle you can move freely behind the dock and not hit any other docked tools and note that `y` position.
 
 1. Put a tool on the shuttle and run `INITIALIZE_TOOLCHANGER`
 2. Run `G28` and `QUAD_GANTRY_LEVEL` 
