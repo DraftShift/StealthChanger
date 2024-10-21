@@ -53,8 +53,12 @@ Do this for all tool heads one at a time.
 4. Move the gantry as if to pick up the tool, as soon as the light on the optotap pcb changes
 5. Raise Z by 1
 6. Run `M114` and record the values to `params_park_x`, `params_park_y` and `params_park_z` in `[Tool Tn]` of the tool conf file
-7. Repeat this for all tools
-8. Run `FIRMWARE_RESTART`
+7. Run `G28`
+8. Run `SET_TOOL_PARAMETER PARAMETER='params_path_speed' VALUE=300`
+9. Run `TEST_TOOL_DOCKING RESTORE_AXIS=XYZ`
+10. Run `RESET_TOOL_PARAMETER PARAMETER='params_path_speed'`
+11. Repeat this for all tools
+12. Run `FIRMWARE_RESTART`
 
 ### Docking/Undocking
 
