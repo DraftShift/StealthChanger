@@ -5,7 +5,7 @@ All parts (screws, magnets, etc) are Voron, and Voron Tap standards.
 3. [Endstops](#endstops)
 4. [Options](#options)
 5. [Sex Ball](#sex-ball)
-5. [Affiliate Links](#affiliate-links)
+6. [Affiliate Links](#affiliate-links)
 
 ## Shuttle
 
