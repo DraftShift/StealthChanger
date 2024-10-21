@@ -31,4 +31,18 @@ Before you start with calibrations and QGLs, make sure to run `PROBE_ACCURACY SA
 
 **NOTE:** `gcode_x_offset` and `gcode_y_offset` on Tool 0 are always 0.
 
-Coming Soon™
+### [Sexball Probe](Bill-of-Materials#sexball-probe) or [NozzleAlign](https://github.com/viesturz/NozzleAlign)
+
+Follow the guide at [NozzleAlign](https://github.com/viesturz/NozzleAlign)
+
+### [Print STL](https://www.printables.com/model/201707-x-y-and-z-calibration-tool-for-idex-dual-extruder-)
+
+Follow the guide at [Print STL](https://www.printables.com/model/201707-x-y-and-z-calibration-tool-for-idex-dual-extruder-)
+
+### Camera like [kTAMV](https://github.com/TypQxQ/kTAMV)
+
+Follow the guide at [kTAMV](https://github.com/TypQxQ/kTAMV)
+
+### [Nudge](https://github.com/zruncho3d/nudge)
+
+Follow the guide at [Nudge](https://github.com/zruncho3d/nudge)
