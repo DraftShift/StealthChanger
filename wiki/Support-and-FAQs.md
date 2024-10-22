@@ -15,6 +15,9 @@
 ### Check your print quality
 After printing the parts make sure that the hex holes look to be proper hexes and that they are very uniform.  If they are misshapen chances are you need to reprint as you will have alignment issues.  It doesn't take much to be out by a lot.  Try printing at a slower speed if you have issues.
 
+### What probes can be use with SC?
+TAP is baked in to each tool as part of SC. As of right now no other probes are compatible with the printed parts or with klipper since only open probe can exist at a time.  Thus only TAP can be used.
+
 ### How many tool will fit on my printer?
 Calculating available size for tools (number of tools you can fit)
    - Dragon Burners/Yavoth require 60mm per tool (I recommend 5mm between for extruder handles)
