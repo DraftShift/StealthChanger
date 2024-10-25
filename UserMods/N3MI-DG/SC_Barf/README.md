@@ -1,9 +1,8 @@
-# SC Barf
+# SC Barf LEDs
 
-PCB with 1.5mm RGB leds arranged into the StealthChanger logo pattern.
+PCBs with 1.5mm RGB LEDs arranged into the StealthChanger logo pattern, both Voron and Micron styles.
 
 <img src="images/1.png" width=400>
-<img src="images/Animation.gif" width=400>
 
 ## Example Config
 
@@ -11,7 +10,7 @@ PCB with 1.5mm RGB leds arranged into the StealthChanger logo pattern.
 [neopixel rgb_logo]
 pin: PB3
 color_order: GRB
-chain_count: 21
+chain_count: 21 # 21 for Voron style, 17 for Micron style.
 initial_RED: 0.3
 initial_BLUE: 0.0
 initial_GREEN: 0.3
@@ -19,7 +18,7 @@ initial_GREEN: 0.3
 
 ## How to Order from JLCPCB
 
-- Add Gerbers `Gerbers.zip`
+- Add Gerber zip file
 - Select the PCB qty you want
 - Select the PCB color you want
 - Select `Order Number(Specify Position)`
@@ -40,6 +39,4 @@ Note. there is an alternative RGB led componant that can be selected if the `SK6
 
 ### SK6805-EC15
 <img src="images/corrcet_placement.png" width=800>
-
-### DY-S1515065/RGBC/6805-5T
-<img src="images/corrcet_placement_TONYU.png" width=800>
+<img src="images/correct_placement_micron.png" width=800>
