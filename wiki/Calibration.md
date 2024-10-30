@@ -155,3 +155,5 @@ Using the webUI (Mainsail, Fluidd, Octoprint) or the LCD Controls, move the tool
 If too much friction is found then one can use a positive Z value to move the nozzle up. It is also possible to move the head back up with smaller increments.
 
 Once you are happy with the results note the Z position (you may also use `M114` to get the location).
+
+*Taken from Klipper [paper test](https://www.klipper3d.org/Bed_Level.html#the-paper-test)*
