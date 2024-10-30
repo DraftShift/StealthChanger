@@ -2,6 +2,7 @@
 2. [GCODE Z Offset](#gcode-z-offset)
 3. [Dock Parking](#dock-parking)
 4. [X/Y Offset](#xy-offset)
+5. [Manual Paper Test](#manual-paper-test)
 
 **Before you start calibrating you must "break-in" each tool probe.  Heat soak your machine and run a couple `PROBE_ACCURACY SAMPLES=100` per tool.**
 
@@ -13,12 +14,47 @@
 2. Run `G28`
 3. Run `QUAD_GANTRY_LEVEL`
 4. Run `G28`
-5. Do a [paper test](https://www.klipper3d.org/Bed_Level.html#the-paper-test) as normal like a single toolhead head printer and adjust the Z
+5. Do a [Manual Paper Test](#manual-paper-test) as normal like a single toolhead head printer and adjust the Z
 5. Copy the offset and save this to `z_offset` in `[tool_probe Tn]` of the tool conf file
 6. Repeat from `step 1` for all tools (`step 2` and `step 3` are optional after first tool)
 7. Run `FIRMWARE_RESTART`
 
-Do this for all tool heads one at a time.
+This is a macro you can add to do and list them all
+```
+[gcode_macro GET_ALL_Z_OFFSETS]
+gcode:
+    {% set tools = printer.toolchanger.tool_numbers %}
+    {% set names = printer.toolchanger.tool_names %}
+    # Tool 0
+    SELECT_TOOL T={tools[0]}  RESTORE_AXIS=XYZ
+    STOP_TOOL_PROBE_CRASH_DETECTION
+    M109 S150
+    G28
+    QUAD_GANTRY_LEVEL
+    G28
+    M104 S0
+    {% for tool in tools[1:] %}
+        G0 Z10 F600
+        {% set curz = 10 %}
+        {% set tool_zoffset = -1.1 %}
+        SELECT_TOOL T={tool}  RESTORE_AXIS=Z
+        STOP_TOOL_PROBE_CRASH_DETECTION
+        M109 S150 T{tool}
+        MANUAL_PROBE
+        {% for _ in range(1, 10000) %}
+            {% if {QUERY_PROBE} %}
+                {% set curz = curz + tool_zoffset + 0.1 %}
+                {% break %}
+            {% endif %} 
+            {% set curz = curz - 0.01 %}
+            TESTZ Z=-0.01
+        {% endfor %}
+        RESPOND TYPE=echo MSG='[tool_probe T{tool}]'
+        RESPOND TYPE=echo MSG='z_offset: {curz}'
+        M104 S0 T{tool}
+    {% endfor %}
+```
+    
 
 ## GCODE Z Offset
 
@@ -35,7 +71,7 @@ Do this for all tool heads one at a time.
 5. Run `G28`
 6. Run `G1 Z10 F600`
 7. Manually remove current tool and place the next tool in its place on the shuttle
-8. Do a [paper test](https://www.klipper3d.org/Bed_Level.html#the-paper-test) as normal like a single toolhead head printer and adjust the Z
+8. Do a [Manual Paper Test](#manual-paper-test) as normal like a single toolhead head printer and adjust the Z
 9. Once done run `M114` and copy the Z value to `gcode_z_offset` in `[tool Tn]` of the tool conf file
 10. Repeat from `step 6` for all tools
 11. Run `FIRMWARE_RESTART`
@@ -88,3 +124,34 @@ Follow the guide at [kTAMV](https://github.com/TypQxQ/kTAMV)
 ### [Nudge](https://github.com/zruncho3d/nudge)
 
 Follow the guide at [Nudge](https://github.com/zruncho3d/nudge)
+
+
+## Manual Paper Test
+
+The primary bed calibration mechanism is the "paper test". It involves placing a regular piece of "copy machine paper" between the printer's bed and nozzle, and then commanding the nozzle to different Z heights until one feels a small amount of friction when pushing the paper back and forth.
+
+It is important to understand the "paper test" even if one has an "automatic Z probe". The probe itself often needs to be calibrated to get good results. That probe calibration is done using this "paper test".
+
+In order to perform the paper test, cut a small rectangular piece of paper using a pair of scissors (eg, 5x3 cm). The paper generally has a thickness of around 100 microns (0.100mm). (The exact thickness of the paper isn't crucial.)
+
+The first step of the paper test is to inspect the printer's nozzle and bed. Make sure there is no plastic (or other debris) on the nozzle or bed.
+
+**Inspect the nozzle and bed to ensure no plastic is present!**
+
+If one always prints on a particular tape or printing surface then one may perform the paper test with that tape/surface in place. However, note that tape itself has a thickness and different tapes (or any other printing surface) will impact Z measurements. Be sure to rerun the paper test to measure each type of surface that is in use.
+
+If there is plastic on the nozzle then heat up the extruder and use a metal tweezers to remove that plastic. Wait for the extruder to fully cool to room temperature before continuing with the paper test. While the nozzle is cooling, use the metal tweezers to remove any plastic that may ooze out.
+
+**Always perform the paper test when both nozzle and bed are at room temperature!**
+
+When the nozzle is heated, its position (relative to the bed) changes due to thermal expansion. This thermal expansion is typically around a 100 microns, which is about the same thickness as a typical piece of printer paper. The exact amount of thermal expansion isn't crucial, just as the exact thickness of the paper isn't crucial. Start with the assumption that the two are equal (see below for a method of determining the difference between the two distances).
+
+It may seem odd to calibrate the distance at room temperature when the goal is to have a consistent distance when heated. However, if one calibrates when the nozzle is heated, it tends to impart small amounts of molten plastic on to the paper, which changes the amount of friction felt. That makes it harder to get a good calibration. Calibrating while the bed/nozzle is hot also greatly increases the risk of burning oneself. The amount of thermal expansion is stable, so it is easily accounted for later in the calibration process.
+
+**Use manual controls to move the tool**
+
+Using the webUI (Mainsail, Fluidd, Octoprint) or the LCD Controls, move the tool down and stop just before the bed.  Place the paper between the nozzle and bed. It can be useful to fold a corner of the paper so that it is easier to grab. (Try not to push down on the bed when moving the paper back and forth.) Continue to job the tool down until one feels a small amount of friction when testing with the paper.
+
+If too much friction is found then one can use a positive Z value to move the nozzle up. It is also possible to move the head back up with smaller increments.
+
+Once you are happy with the results note the Z position (you may also use `M114` to get the location).
