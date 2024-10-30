@@ -24,6 +24,7 @@ PRINT_START TOOL_TEMP={first_layer_temperature[initial_tool]} {if is_extruder_us
 **Tool change GCODE**
 ```
 M104 S{temperature[next_extruder]} T[next_extruder] ; set new tool temperature so it can start heating while changing
+G1 X{wipe_tower_x} Y{wipe_tower_y} F{travel_speed*60} ; Move to wipe tower before tool change
 ```
 
 ### Orca
