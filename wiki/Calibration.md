@@ -150,9 +150,9 @@ It may seem odd to calibrate the distance at room temperature when the goal is t
 
 **Use manual controls to move the tool**
 
-Using the webUI (Mainsail, Fluidd, Octoprint) or the LCD Controls, move the tool down and stop just before the bed.  Place the paper between the nozzle and bed. It can be useful to fold a corner of the paper so that it is easier to grab. (Try not to push down on the bed when moving the paper back and forth.) Continue to jog the tool down until one feels a small amount of friction when testing with the paper.
+Using the webUI (Mainsail, Fluidd, Octoprint) or the LCD Controls, move the tool down and stop just before the bed.  Place the paper between the nozzle and bed. It can be useful to fold a corner of the paper so that it is easier to grab. (Try not to push down on the bed when moving the paper back and forth.) Continue to jog the tool down 0.1 at a time. After the nozzle stops moving, push the paper back and forth to check if the nozzle is in contact with the paper and to feel the amount of friction. Continue issuing TESTZ commands until one feels a small amount of friction when testing with the paper.
 
-If too much friction is found then one can use a positive Z value to move the nozzle up. It is also possible to move the head back up with smaller increments.
+If too much friction is found then jog up be smaller increments.
 
 Once you are happy with the results note the Z position (you may also use `M114` to get the location).
 
