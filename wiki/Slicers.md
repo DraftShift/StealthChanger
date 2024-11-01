@@ -38,7 +38,7 @@ Printer settings -> Machine G-code -> **Machine start G-code** - all must be a s
 PRINT_START TOOL_TEMP={first_layer_temperature[initial_tool]} {if is_extruder_used[0]}T0_TEMP={first_layer_temperature[0]}{endif} {if is_extruder_used[1]}T1_TEMP={first_layer_temperature[1]}{endif} {if is_extruder_used[2]}T2_TEMP={first_layer_temperature[2]}{endif} {if is_extruder_used[3]}T3_TEMP={first_layer_temperature[3]}{endif} {if is_extruder_used[4]}T4_TEMP={first_layer_temperature[4]}{endif} {if is_extruder_used[5]}T5_TEMP={first_layer_temperature[5]}{endif}  BED_TEMP=[first_layer_bed_temperature] TOOL=[initial_tool]
 ```
 
-Printer settings -> Machine G-code -> **Machine tool change G-code**
+Printer settings -> Machine G-code -> **Change Filament G-code**
 ```
 ;Leave blank
 ```
