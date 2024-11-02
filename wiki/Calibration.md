@@ -19,42 +19,6 @@
 6. Repeat from `step 1` for all tools (`step 2` and `step 3` are optional after first tool)
 7. Run `FIRMWARE_RESTART`
 
-This is a macro you can add to do and list them all
-```
-[gcode_macro GET_ALL_Z_OFFSETS]
-gcode:
-    {% set tools = printer.toolchanger.tool_numbers %}
-    {% set names = printer.toolchanger.tool_names %}
-    # Tool 0
-    SELECT_TOOL T={tools[0]}  RESTORE_AXIS=XYZ
-    STOP_TOOL_PROBE_CRASH_DETECTION
-    M109 S150
-    G28
-    QUAD_GANTRY_LEVEL
-    G28
-    M104 S0
-    {% for tool in tools[1:] %}
-        G0 Z10 F600
-        {% set curz = 10 %}
-        {% set tool_zoffset = -1.1 %}
-        SELECT_TOOL T={tool}  RESTORE_AXIS=Z
-        STOP_TOOL_PROBE_CRASH_DETECTION
-        M109 S150 T{tool}
-        MANUAL_PROBE
-        {% for _ in range(1, 10000) %}
-            {% if {QUERY_PROBE} %}
-                {% set curz = curz + tool_zoffset + 0.1 %}
-                {% break %}
-            {% endif %} 
-            {% set curz = curz - 0.01 %}
-            TESTZ Z=-0.01
-        {% endfor %}
-        RESPOND TYPE=echo MSG='[tool_probe T{tool}]'
-        RESPOND TYPE=echo MSG='z_offset: {curz}'
-        M104 S0 T{tool}
-    {% endfor %}
-```
-    
 
 ## GCODE Z Offset
 
