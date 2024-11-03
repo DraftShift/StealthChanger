@@ -1,0 +1,1 @@
+![Render of Cowl Cross Section](images/knomi_cross-section.png)
