@@ -52,16 +52,15 @@ IE, if you Y park position is -15. Your close Y should be 15. If your Y park pos
 
 The docking path can be confusing for people to understand. Let's try to disect it. Take this path:
 
-params_rods_sb_path: [{'y':9.5 ,'z':8}, {'y':9.5, 'z':2}, {'y':5.5, 'z':0}, {'z':0, 'y':0, 'f':0.5}, {'z':-6, 'y':0}, {'z':-10, 'y':3}, {'z':-10, 'y':16}]
+params_sc_path: [{'y':9.5 ,'z':4}, {'y':9.5, 'z':2}, {'y':5.5, 'z':0}, {'z':0, 'y':0, 'f':0.5}, {'z':-10, 'y':0}, {'z':-10, 'y':16}]
 
 When looking at this, understand that the movements are relative to the park position. When dropping off a tool, it will go left to right, and when picking up a tool, it will go right to left on movements. Let's say your park position is x=20 y=-10, z=240 and close_y=20. When dropping off a tool, it will move up and start the sequence essentially at x=20 y=20 z=240. Now add in the first set of items. 
 
-*  {'y':9.5 ,'z':8} Move to x=20 y=-0.5 z=248
+*  {'y':9.5 ,'z':4} Move to x=20 y=-0.5 z=244
 *  {'y':9.5, 'z':2} Move to x=20 y=-0.5 z=242
 *  {'y':5.5, 'z':0} Move to x=20 y=-4.5 z=240
 *  {'z':0, 'y':0, 'f':0.5}. This will slowly move you (f is speed in gcode) to docking position of x=20 y=-10, z=240
-*  {'z':-6, 'y':0} Drop the z down to z=234 so that it starts unhooking.
-*  {'z':-10, 'y':3} Move to z=230, y=-7, so its starting to move away. 
+*  {'z':-10, 'y':0} Drop the z down to z=230 so that it starts unhooking.
 *  {'z':-10, 'y':16}. Move to z=230 y=6, we are clear of the tool.
 
 It will then move to the close_y and x of the tool its picking up, and run in reverse order.
