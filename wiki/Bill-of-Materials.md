@@ -4,7 +4,8 @@ All parts (screws, magnets, etc) are Voron, and Voron Tap standards.
 2. [BackPlates](#backplates)
 3. [Endstops](#endstops)
 4. [Options](#options)
-5. [Affiliate Links](#affiliate-links)
+5. [Sexball Probe](#sexball-probe)
+6. [Affiliate Links](#affiliate-links)
 
 ## Shuttle
 
@@ -66,6 +67,26 @@ Optional
 You will likely need help with belts, make sure to decide on if you will use the [shuttle keeper](https://github.com/DraftShift/Stealthchanger/tree/main/STLs/Extras) or use the [belt helper](https://github.com/DraftShift/Stealthchanger/tree/main/STLs/Extras/BeltHelper).  And print the required parts and make sure to have the addition bill of materials for them.
 
 
+## Sexball probe
+
+![Sexball probe](https://github.com/DraftShift/StealthChanger/blob/main/media/sexball-probe.jpg?raw=true)
+
+Image By asoli
+
+Calibration probe option that just replaces the shaft on a sexbolt.
+- [Probe](https://www.aliexpress.com/item/1005004822732672.html)
+- [12mm Ball with M5 Threads](https://www.aliexpress.com/item/1005005159693298.html)
+- [M5x30mm External Thread Pin](https://www.aliexpress.com/item/1005003783080786.html)
+
+**NOTE:** For micron M5x25mm Pin is tall enough
+
+**NOTE:** Only use the hartk style bodys with the sleeves, knockoffs have too much slop.
+
+![Sexball probe types](https://github.com/DraftShift/StealthChanger/blob/main/media/sexball-probe-types.jpg?raw=true)
+
+Image by BT123
+
+
 ## Affiliate Links
 
 | Parts   	  | Link 1     | Link 2    | Link 3    |
@@ -76,4 +97,4 @@ You will likely need help with belts, make sure to decide on if you will use the
 
 Due to QC issues, this is an [Alternative bush](https://s.click.aliexpress.com/e/_DFJQgtN) which has also been tested and works fine.
 
-Alternatively you can purchase a kit from [Broncosis’s Etsy store](https://www.etsy.com/ca/listing/1736497017/voron-stealth-changer-essential-hardware) if you’re based in North America
+Alternatively you can purchase check on our official [vendors list](Vendors-and-Kits)

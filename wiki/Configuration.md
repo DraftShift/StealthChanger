@@ -31,9 +31,9 @@ You need to have a separate toolhead config for each toolhead, then link those i
 
 There are 2 places to set offsets in your toolhead config files. There is gcode_(x/y/z)_offset in the [tool] section, and (x/y/z)_offset in the [tool_probe] section. These do different things. The ones in the [tool] section are always relative to a specific tool. IE, if you homed with T0, then the gcode offsets are relative to T0. When you do multi-material prints, you will have to choose 1 tool to always do the homing, even if you don't use it, because all the other offsets need to be set against it. The [tool_probe] offset is only ever applied when homing with that tool. The gcode offsets are applied when changing a tool.
 
-You should set all the [tool_probe] offsets as well though. If you are only using a single tool, you can home with that tool, and it will use the offset in the [tool_probe] section. You won't need to home with your primary tool first then before you start a print. 
+You should set all the `[tool_probe]` offsets as well though. If you are only using a single tool, you can home with that tool, and it will use the offset in the `[tool_probe]` section. You won't need to home with your primary tool first then before you start a print. 
 
-To try and further clarify. Lets say you have 3 tools, T0, T1, and T2. We will say that T0 is your "primary" tool. Setup the probe z_offset like you would any other printer. Make sure the offset is set in z_offset (IE, make sure when you home and go to Z0, the nozzle is actually in that spot). Its location in x/y/z is always going to be 0 in relation to the other tools. So after T0 is homed, T1 and T2 (may) need to have their gcode_(x/y/z)_offset changed so they match the location that the primary tool actually is. There are 2 main ways of doing this. You can use a test print to print layers on top of or next to each other (something like this: [Nozzle Alignment Assist](https://www.printables.com/model/109267-nozzle-alignment-assist)) or you can use a camera (something like [kTAMV Klipper Tool Alignment](https://github.com/TypQxQ/kTAMV) or [IDEX Nozzle Calibration Tool](https://github.com/Life0fBrian/Brians-IDEX-Nozzle-Calibration-tool)).
+To try and further clarify. Lets say you have 3 tools, T0, T1, and T2. We will say that T0 is your "primary" tool. Setup the probe z_offset like you would any other printer. Make sure the offset is set in `z_offset` (IE, make sure when you home and go to Z 0, the nozzle is actually in that spot). Its location in x/y/z is always going to be 0 in relation to the other tools. So after T0 is homed, T1 and T2 (may) need to have their `gcode_(x/y/z)_offset` changed so they match the location that the primary tool actually is. There are 2 main ways of doing this. You can use a test print to print layers on top of or next to each other (something like this: [Nozzle Alignment Assist](https://www.printables.com/model/109267-nozzle-alignment-assist)) or you can use a camera (something like [kTAMV Klipper Tool Alignment](https://github.com/TypQxQ/kTAMV) or [IDEX Nozzle Calibration Tool](https://github.com/Life0fBrian/Brians-IDEX-Nozzle-Calibration-tool)).
 
 ## Dock Positions
 
@@ -52,16 +52,15 @@ IE, if you Y park position is -15. Your close Y should be 15. If your Y park pos
 
 The docking path can be confusing for people to understand. Let's try to disect it. Take this path:
 
-params_rods_sb_path: [{'y':9.5 ,'z':8}, {'y':9.5, 'z':2}, {'y':5.5, 'z':0}, {'z':0, 'y':0, 'f':0.5}, {'z':-6, 'y':0}, {'z':-10, 'y':3}, {'z':-10, 'y':16}]
+params_sc_path: [{'y':9.5 ,'z':4}, {'y':9.5, 'z':2}, {'y':5.5, 'z':0}, {'z':0, 'y':0, 'f':0.5}, {'z':-10, 'y':0}, {'z':-10, 'y':16}]
 
 When looking at this, understand that the movements are relative to the park position. When dropping off a tool, it will go left to right, and when picking up a tool, it will go right to left on movements. Let's say your park position is x=20 y=-10, z=240 and close_y=20. When dropping off a tool, it will move up and start the sequence essentially at x=20 y=20 z=240. Now add in the first set of items. 
 
-*  {'y':9.5 ,'z':8} Move to x=20 y=-0.5 z=248
+*  {'y':9.5 ,'z':4} Move to x=20 y=-0.5 z=244
 *  {'y':9.5, 'z':2} Move to x=20 y=-0.5 z=242
 *  {'y':5.5, 'z':0} Move to x=20 y=-4.5 z=240
 *  {'z':0, 'y':0, 'f':0.5}. This will slowly move you (f is speed in gcode) to docking position of x=20 y=-10, z=240
-*  {'z':-6, 'y':0} Drop the z down to z=234 so that it starts unhooking.
-*  {'z':-10, 'y':3} Move to z=230, y=-7, so its starting to move away. 
+*  {'z':-10, 'y':0} Drop the z down to z=230 so that it starts unhooking.
 *  {'z':-10, 'y':16}. Move to z=230 y=6, we are clear of the tool.
 
 It will then move to the close_y and x of the tool its picking up, and run in reverse order.

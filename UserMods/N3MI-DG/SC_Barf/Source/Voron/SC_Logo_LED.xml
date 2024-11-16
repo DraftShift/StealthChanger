@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\david\OneDrive\Documents\SC_Logo_LED\SC_Logo_LED\SC_Logo_LED.kicad_sch</source>
+    <date>2024-09-14T17:13:42+1000</date>
+    <tool>Eeschema 8.0.4</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>SC_Logo_LED.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C14445</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C14445"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SC_Logo_LED.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e16cf16-6684-40cf-be83-a50802996bd7</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C14445</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C14445"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SC_Logo_LED.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c2c1679-79ff-4a56-9471-acda3a74ff9f</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C14445</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C14445"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SC_Logo_LED.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ed312ca6-8f17-4b72-a9f5-02f5f42688c3</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>SK6805-EC15</value>
+      <footprint>SK6805-EC15:SK6805-EC15</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2890035</field>
+        <field name="Footprint">SK6805-EC15:SK6805-EC15</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SK6805-EC15" part="SK6805-EC15" description=""/>
+      <property name="LCSC" value="C2890035"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SC_Logo_LED.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f0bef39-3135-4420-9418-f87839d9ebb0</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>SK6805-EC15</value>
+      <footprint>SK6805-EC15:SK6805-EC15</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2890035</field>
+        <field name="Footprint">SK6805-EC15:SK6805-EC15</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SK6805-EC15" part="SK6805-EC15" description=""/>
+      <property name="LCSC" value="C2890035"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SC_Logo_LED.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>97318010-d749-4f6c-85e9-e7aad137003a</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>SK6805-EC15</value>
+      <footprint>SK6805-EC15:SK6805-EC15</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2890035</field>
+        <field name="Footprint">SK6805-EC15:SK6805-EC15</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SK6805-EC15" part="SK6805-EC15" description=""/>
+      <property name="LCSC" value="C2890035"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SC_Logo_LED.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fb18a51d-548b-448a-98e6-7ebad3d0ee0d</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>SK6805-EC15</value>
+      <footprint>SK6805-EC15:SK6805-EC15</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2890035</field>
+        <field name="Footprint">SK6805-EC15:SK6805-EC15</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SK6805-EC15" part="SK6805-EC15" description=""/>
+      <property name="LCSC" value="C2890035"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SC_Logo_LED.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>116312cd-64e2-437b-ad1f-2b09f7a28ade</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>SK6805-EC15</value>
+      <footprint>SK6805-EC15:SK6805-EC15</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2890035</field>
+        <field name="Footprint">SK6805-EC15:SK6805-EC15</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SK6805-EC15" part="SK6805-EC15" description=""/>
+      <property name="LCSC" value="C2890035"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SC_Logo_LED.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1957877-bbad-4a1e-9263-7c4e450bc199</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>SK6805-EC15</value>
+      <footprint>SK6805-EC15:SK6805-EC15</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2890035</field>
+        <field name="Footprint">SK6805-EC15:SK6805-EC15</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SK6805-EC15" part="SK6805-EC15" description=""/>
+      <property name="LCSC" value="C2890035"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SC_Logo_LED.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>143671bc-2e46-4834-b6f8-adcc965f3ca4</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>SK6805-EC15</value>
+      <footprint>SK6805-EC15:SK6805-EC15</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2890035</field>
+        <field name="Footprint">SK6805-EC15:SK6805-EC15</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SK6805-EC15" part="SK6805-EC15" description=""/>
+      <property name="LCSC" value="C2890035"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SC_Logo_LED.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20197901-a597-4dec-959f-113f2c5b4be4</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>SK6805-EC15</value>
+      <footprint>SK6805-EC15:SK6805-EC15</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2890035</field>
+        <field name="Footprint">SK6805-EC15:SK6805-EC15</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SK6805-EC15" part="SK6805-EC15" description=""/>
+      <property name="LCSC" value="C2890035"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SC_Logo_LED.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9eaebea1-ff1c-4e5b-b695-711f3ef31719</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>SK6805-EC15</value>
+      <footprint>SK6805-EC15:SK6805-EC15</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2890035</field>
+        <field name="Footprint">SK6805-EC15:SK6805-EC15</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SK6805-EC15" part="SK6805-EC15" description=""/>
+      <property name="LCSC" value="C2890035"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SC_Logo_LED.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8caa3ea2-0861-4917-a5ac-bb03f7c7a0a9</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>SK6805-EC15</value>
+      <footprint>SK6805-EC15:SK6805-EC15</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2890035</field>
+        <field name="Footprint">SK6805-EC15:SK6805-EC15</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SK6805-EC15" part="SK6805-EC15" description=""/>
+      <property name="LCSC" value="C2890035"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SC_Logo_LED.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>544cf831-dad6-4c27-b74c-d00bb16eca53</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>SK6805-EC15</value>
+      <footprint>SK6805-EC15:SK6805-EC15</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2890035</field>
+        <field name="Footprint">SK6805-EC15:SK6805-EC15</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SK6805-EC15" part="SK6805-EC15" description=""/>
+      <property name="LCSC" value="C2890035"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SC_Logo_LED.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c90251a-52f9-4522-b54f-4acea51a4ff2</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>SK6805-EC15</value>
+      <footprint>SK6805-EC15:SK6805-EC15</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2890035</field>
+        <field name="Footprint">SK6805-EC15:SK6805-EC15</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SK6805-EC15" part="SK6805-EC15" description=""/>
+      <property name="LCSC" value="C2890035"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SC_Logo_LED.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b117f7a2-dd77-4d34-8511-85942e68a41e</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>SK6805-EC15</value>
+      <footprint>SK6805-EC15:SK6805-EC15</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2890035</field>
+        <field name="Footprint">SK6805-EC15:SK6805-EC15</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SK6805-EC15" part="SK6805-EC15" description=""/>
+      <property name="LCSC" value="C2890035"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SC_Logo_LED.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08066eb9-0891-40d8-82d4-3db998968365</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>SK6805-EC15</value>
+      <footprint>SK6805-EC15:SK6805-EC15</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2890035</field>
+        <field name="Footprint">SK6805-EC15:SK6805-EC15</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SK6805-EC15" part="SK6805-EC15" description=""/>
+      <property name="LCSC" value="C2890035"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SC_Logo_LED.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa518ad2-680e-4207-8148-636587293631</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>SK6805-EC15</value>
+      <footprint>SK6805-EC15:SK6805-EC15</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2890035</field>
+        <field name="Footprint">SK6805-EC15:SK6805-EC15</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SK6805-EC15" part="SK6805-EC15" description=""/>
+      <property name="LCSC" value="C2890035"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SC_Logo_LED.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7537c9f9-6635-4653-b747-8cdacfb386cd</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>SK6805-EC15</value>
+      <footprint>SK6805-EC15:SK6805-EC15</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2890035</field>
+        <field name="Footprint">SK6805-EC15:SK6805-EC15</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SK6805-EC15" part="SK6805-EC15" description=""/>
+      <property name="LCSC" value="C2890035"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SC_Logo_LED.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb00eaa7-2b9e-45db-b14b-7ea16ce59528</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>SK6805-EC15</value>
+      <footprint>SK6805-EC15:SK6805-EC15</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2890035</field>
+        <field name="Footprint">SK6805-EC15:SK6805-EC15</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SK6805-EC15" part="SK6805-EC15" description=""/>
+      <property name="LCSC" value="C2890035"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SC_Logo_LED.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc044f11-b5de-4f9e-aa75-011b6e71d208</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>SK6805-EC15</value>
+      <footprint>SK6805-EC15:SK6805-EC15</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2890035</field>
+        <field name="Footprint">SK6805-EC15:SK6805-EC15</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SK6805-EC15" part="SK6805-EC15" description=""/>
+      <property name="LCSC" value="C2890035"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SC_Logo_LED.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ef87adb-1dfd-400b-9ab6-f899be869acf</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>SK6805-EC15</value>
+      <footprint>SK6805-EC15:SK6805-EC15</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2890035</field>
+        <field name="Footprint">SK6805-EC15:SK6805-EC15</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SK6805-EC15" part="SK6805-EC15" description=""/>
+      <property name="LCSC" value="C2890035"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SC_Logo_LED.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da520665-c492-4e38-b10f-f20cd5c61d6e</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>SK6805-EC15</value>
+      <footprint>SK6805-EC15:SK6805-EC15</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2890035</field>
+        <field name="Footprint">SK6805-EC15:SK6805-EC15</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SK6805-EC15" part="SK6805-EC15" description=""/>
+      <property name="LCSC" value="C2890035"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SC_Logo_LED.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>49a1b1dc-f192-49f3-80a9-1f5e242abfe3</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>SK6805-EC15</value>
+      <footprint>SK6805-EC15:SK6805-EC15</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2890035</field>
+        <field name="Footprint">SK6805-EC15:SK6805-EC15</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SK6805-EC15" part="SK6805-EC15" description=""/>
+      <property name="LCSC" value="C2890035"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SC_Logo_LED.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c484af3-2f8c-4d38-a971-252076fe120c</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_02x03_Counter_Clockwise</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical_SMD</footprint>
+      <description>Generic connector, double row, 02x03, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <fields>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical_SMD</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, double row, 02x03, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x03_Counter_Clockwise" description="Generic connector, double row, 02x03, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SC_Logo_LED.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f13c1fe5-cc19-4476-8f81-86782281699c</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>470R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C25117</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25117"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SC_Logo_LED.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>91e448a1-54cc-48d7-b786-efcb51d6c78c</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_02x03_Counter_Clockwise">
+      <description>Generic connector, double row, 02x03, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x03_Counter_Clockwise</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, double row, 02x03, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SK6805-EC15" part="SK6805-EC15">
+      <docs>https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</docs>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">SK6805-EC15</field>
+        <field name="Footprint">SK6805-EC15:SK6805-EC15</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6805-EC15_C2890035.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="DIN" type="input"/>
+        <pin num="2" name="VDD" type="power_in"/>
+        <pin num="3" name="DOUT" type="output"/>
+        <pin num="4" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\8.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\8.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="SK6805-EC15">
+      <uri>C:/Users/david/OneDrive/Documents/kicad/LIBS/SK6805-EC15.pretty/SK6805-EC15.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D10" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D11" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D12" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D13" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D14" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D15" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D16" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D17" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D18" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D19" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D2" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D20" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D21" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D3" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D4" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D5" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D6" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D7" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D8" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D9" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="2" name="DIN">
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="3" name="DOUT">
+      <node ref="D21" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="4" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="D1" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="D10" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="D11" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="D12" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="D13" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="D14" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="D15" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="D16" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="D17" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="D18" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="D19" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="D2" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="D20" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="D21" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="D3" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="D4" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="D5" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="D6" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="D7" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="D8" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="D9" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(D1-DIN)">
+      <node ref="D1" pin="1" pinfunction="DIN" pintype="input"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(D1-DOUT)">
+      <node ref="D1" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="D2" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="7" name="Net-(D2-DOUT)">
+      <node ref="D2" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="D3" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="8" name="Net-(D3-DOUT)">
+      <node ref="D3" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="D4" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="9" name="Net-(D4-DOUT)">
+      <node ref="D4" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="D5" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="10" name="Net-(D5-DOUT)">
+      <node ref="D5" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="D6" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="11" name="Net-(D6-DOUT)">
+      <node ref="D6" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="D7" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="12" name="Net-(D7-DOUT)">
+      <node ref="D7" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="D8" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="13" name="Net-(D8-DOUT)">
+      <node ref="D8" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="D9" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="14" name="Net-(D10-DIN)">
+      <node ref="D10" pin="1" pinfunction="DIN" pintype="input"/>
+      <node ref="D9" pin="3" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="15" name="Net-(D10-DOUT)">
+      <node ref="D10" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="D11" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="16" name="Net-(D11-DOUT)">
+      <node ref="D11" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="D12" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="17" name="Net-(D12-DOUT)">
+      <node ref="D12" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="D13" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="18" name="Net-(D13-DOUT)">
+      <node ref="D13" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="D14" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="19" name="Net-(D14-DOUT)">
+      <node ref="D14" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="D15" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="20" name="Net-(D15-DOUT)">
+      <node ref="D15" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="D16" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="21" name="Net-(D16-DOUT)">
+      <node ref="D16" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="D17" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="22" name="Net-(D17-DOUT)">
+      <node ref="D17" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="D18" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="23" name="Net-(D18-DOUT)">
+      <node ref="D18" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="D19" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="24" name="Net-(D19-DOUT)">
+      <node ref="D19" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="D20" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="25" name="Net-(D20-DOUT)">
+      <node ref="D20" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="D21" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+  </nets>
+</export>
