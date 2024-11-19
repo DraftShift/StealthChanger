@@ -1,5 +1,5 @@
 # Voron 2.4 Stealthchanger Mods - Anthead Sherpa-Mini Spacer
-
+<img src="./sherpaminispacer.jpg" style="width:300px;"/>
 ## Description
 - **Project:** Anthead Sherpa-Mini Spacer
 - **Purpose:** Enables the use of a Sherpa-Mini extruder while utilizing the wire channels in the back of the hotend mount for anthead on the Voron 2.4 Stealthchanger.
