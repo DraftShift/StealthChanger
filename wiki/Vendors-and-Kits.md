@@ -13,7 +13,7 @@ On Discord: Broncosis
 # US Vendors ![US Flag](https://flagcdn.com/32x24/us.png)
 
 ## [Isik's Tech](https://store.isiks.tech/)
-On Discord: _xbst
+On Discord: xbst_
 
 - [Birds' Nest](https://store.isiks.tech/products/birds-nest)
 - [MOAR_CAN](https://store.isiks.tech/products/moar_can)
