@@ -15,7 +15,8 @@ Based on the official Voron Design V2.4r2 CAD, all credit goes to the Voron Desi
 ### 250
 | QTY | Part           | Original | New |
 |-----|----------------|----------|-----|
-| 6   | Misumi 2020 | HFSB5-2020-370-TPW | HFSB5-2020-470-TPW |
+| 6   | Misumi 2020 (Frame) | HFSB5-2020-370-TPW | HFSB5-2020-470-TPW |
+| 2   | Misumi 2020 (Gantry) | HFSB5-2020-350 | HFSB5-2020-450 |
 | 2   | Linear Rail MGN9H | 300 mm | 400 mm |
 | 2   | Acrylic Sheet Clear (Side Panel) | 383x403x3 mm | 483x403x3 mm |
 | 1   | Acrylic Sheet Clear (Top Panel) | 383x383x3 mm | 483x383x3 mm |
@@ -27,7 +28,8 @@ Based on the official Voron Design V2.4r2 CAD, all credit goes to the Voron Desi
 ### 300
 | QTY | Part           | Original | New |
 |-----|----------------|----------|-----|
-| 6   | Misumi 2020 | HFSB5-2020-420-TPW | HFSB5-2020-520-TPW |
+| 6   | Misumi 2020 (Frame) | HFSB5-2020-420-TPW | HFSB5-2020-520-TPW |
+| 2   | Misumi 2020 (Gantry) | HFSB5-2020-400 | HFSB5-2020-500 |
 | 2   | Linear Rail MGN9H | 350 mm | 450 mm |
 | 2   | Acrylic Sheet Clear (Side Panel) | 433x453x3 mm | 533x453x3 mm |
 | 1   | Acrylic Sheet Clear (Top Panel) | 433x433x3 mm | 533x433x3 mm |
@@ -39,7 +41,8 @@ Based on the official Voron Design V2.4r2 CAD, all credit goes to the Voron Desi
 ### 350
 | QTY | Part           | Original | New |
 |-----|----------------|----------|-----|
-| 6   | Misumi 2020 | HFSB5-2020-470-TPW | HFSB5-2020-570-TPW |
+| 6   | Misumi 2020 (Frame) | HFSB5-2020-470-TPW | HFSB5-2020-570-TPW |
+| 2   | Misumi 2020 (Gantry) | HFSB5-2020-450 | HFSB5-2020-550 |
 | 2   | Linear Rail MGN9H | 400 mm | 500 mm |
 | 2   | Acrylic Sheet Clear (Side Panel) | 483x503x3 mm | 583x503x3 mm |
 | 1   | Acrylic Sheet Clear (Top Panel) | 483x483x3 mm | 583x483x3 mm |
