@@ -12,6 +12,6 @@ Top Mount for the SexBolt Probe that uses *hartk1213* Z-Endstop Probe, mounting 
 ## Notes
 - The stock recommended length for the M5 External Thread Pin is 30mm, however this can be shortened with a top mount to 25mm.
 - Be carful when inserting the heatsets as if they are inserted even slightly too far they will prevent your sexbolt from sitting vertical <br>
-- The STEP file has the Bushing intersecting the body, dont worry about it, it works...   the 2.25mm spacer is designed to only be the width of the extrusion to allow for 4 nevermore and other carbon filters.<p>
+- The STEP file has the Bushing intersecting the body, dont worry about it, it works...   the 2.25mm spacer is designed to only be the width of the extrusion to allow for 4 nevermore and other carbon filters.<br>
 
 ![SexBolt Mount Single](images/IMG_7855.png)![SexBolt Mount Single](images/IMG_7854.png)
