@@ -1,7 +1,7 @@
 # SexBolt 2020 Top Mount
 Mount for using *hartk1213* SexBolt Z-Endstop on top of the 2020 bed extrusions instead of on the side like it was intended, hehe.
 
-![Render of SC.076](images/IMG_7425.png)
+![SexBolt Mount Single](images/IMG_7857.HEIC)
 
 ## Hardware
 2x M3 Heatset's (Voron Spec)
