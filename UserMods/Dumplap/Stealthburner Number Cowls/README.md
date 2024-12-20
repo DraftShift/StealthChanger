@@ -16,5 +16,5 @@ When you're slicing load each ALL the STLs from one of the tool folders at once,
 
 ![Render of Frontal View](images/knomi_front.png)
 
-## Credits
+### Credits
 Thanks to VORON Design for the Stealthburner toolhead and BigTreeTech for the Knomi and then Stealthburner Cowl.
