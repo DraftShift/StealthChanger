@@ -55,7 +55,7 @@ Machine Settings -> Printer ->  Tool n -> **Extruder Start G-code**
 ;Leave blank
 ```
 
-Machine Settings -> Printer ->  Tool n -> **Pre tool change G-code** - 5.9+
+Machine Settings -> Printer ->  Tool n -> **Pre tool change G-code** - 5.10+
 ```
 M104 S{material_print_temperature} T{extruder_nr}
 ```
