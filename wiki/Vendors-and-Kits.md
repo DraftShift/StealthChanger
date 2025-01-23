@@ -18,3 +18,9 @@ On Discord: xbst_
 - [Birds' Nest](https://store.isiks.tech/products/birds-nest)
 - [MOAR_CAN](https://store.isiks.tech/products/moar_can)
 - [XT30+2 CAN Cable](https://store.isiks.tech/products/xt302-2-can-cable-3-meters)
+
+# International
+
+## [Fystec](https://www.aliexpress.com/store/3480083)
+
+= [CNC Shuttle](https://www.aliexpress.com/item/3256808225451808.html)
