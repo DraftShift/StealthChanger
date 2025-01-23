@@ -10,7 +10,7 @@ On Discord: Broncosis
 - [Opto Tap Sensors](https://www.etsy.com/ca/listing/1769077964/voron-opto-tap-sensors)
 
 
-# US Vendors ![US Flag](https://flagcdn.com/32x24/us.png)
+# USA Vendors ![US Flag](https://flagcdn.com/32x24/us.png)
 
 ## [Isik's Tech](https://store.isiks.tech/)
 On Discord: xbst_
@@ -19,7 +19,7 @@ On Discord: xbst_
 - [MOAR_CAN](https://store.isiks.tech/products/moar_can)
 - [XT30+2 CAN Cable](https://store.isiks.tech/products/xt302-2-can-cable-3-meters)
 
-# International
+# International Vendors
 
 ## [Fystec](https://www.aliexpress.com/store/3480083)
 
