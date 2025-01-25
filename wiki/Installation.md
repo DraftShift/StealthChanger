@@ -18,7 +18,7 @@ You must install [klipper-toolchanger](https://github.com/viesturz/klipper-toolc
 
 ## Toolchanger Configuration
 
-You need `homing.cfg`, `macros.cfg`, `tool_detection.cfg` and `toolchanger.cfg` from [TapChanger Example](https://github.com/viesturz/tapchanger/tree/main/Klipper/config-example)
+You need `homing.cfg`, `macros.cfg`, `tool_detection.cfg` and `toolchanger.cfg` from [TapChanger Example](https://github.com/viesturz/tapchanger/tree/a277492516af3751aa13f5097a908ab8a88b6eae/Klipper/config-example)
 
 `homing.cfg` assumes you are using sensorless for X axis and a physical switch for Y axis.  It's important to use this file when building your own homing as the order and macros it calls are required.  If you use Hall Effects or switch end stops for both Axis, remove the `_SENSORLESS_HOME_X` call in `[homing_override]` with `G28 X`.  Alternatively if you use sensorless for both you need so update `G28 Y` to use a copy of `_SENSORLESS_HOME_X` but for Y. There is a second place in the homing override that sets your Y rebound.  The default is 20, without keeper you likely want this around 4-5, change `G0 Y{ max_y - 20 } F5000` to `G0 Y{ max_y - 5 } F5000` notice the 20 that changes.  This is something you may need to adjust to figure out the position of your switch.
 
