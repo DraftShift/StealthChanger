@@ -28,7 +28,7 @@
 
 | Github   	| Discord    	| Main Role     |
 |---------	|---------	|---------      |
-| [fiferboy](https://github.com/fiferboy/) | fiferboy | Former Designer |
+| [fiferboy](https://github.com/fiferboy/) | fiferboy | Designer |
 | [ostroma](https://github.com/ostroma/) | nobo6855 | Tester |
 | | | |
 
