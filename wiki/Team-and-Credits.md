@@ -40,7 +40,9 @@
 # Credits
 
 * [VoronDesign](https://github.com/VoronDesign)
+* [Micron](https://github.com/PrintersForAnts/Micron)
 * [TapChanger](https://github.com/viesturz/tapchanger) by Viestures
 * [Dragon/RapidBurner/Yavoth](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner) by Chirpy
 * [Archetype](https://github.com/Armchair-Heavy-Industries/Archetype/tree/main) by Leddy/Armchair Heavy Industries
 * [Xol](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead) Maintained by DW-Tas/Armchair Heavy Industries
+* [Anthead](https://github.com/PrintersForAnts/AntHead) by hartk (Printers for Ants)
