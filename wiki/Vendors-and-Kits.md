@@ -23,4 +23,4 @@ On Discord: xbst_
 
 ## [Fystec](https://www.aliexpress.com/store/3480083)
 
-= [CNC Shuttle](https://www.aliexpress.com/item/3256808225451808.html)
+= [CNC Shuttle](https://s.click.aliexpress.com/e/_ooNmh4z)
