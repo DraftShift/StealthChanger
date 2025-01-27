@@ -34,6 +34,8 @@
 
 * For other Contributors see the [Usermods](https://github.com/DraftShift/StealthChanger/tree/main/UserMods) folders.
 
+* Special mentions for testing the LDO parts (Discord names): arthurledaron, broncosis, dudewithan02, dweenz., fr0stbyt3, gmbridge, hartk, rferrington783, theaninova
+
 
 # Credits
 
