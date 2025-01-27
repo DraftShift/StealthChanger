@@ -32,9 +32,10 @@
 | [ostroma](https://github.com/ostroma/) | nobo6855 | Tester |
 | | | |
 
-* For other Contributors see the [Usermods](https://github.com/DraftShift/StealthChanger/tree/main/UserMods) folders.
+## Special Mentions
 
-* Special mentions for testing the LDO parts (Discord names): arthurledaron, broncosis, dudewithan02, dweenz., fr0stbyt3, gmbridge, hartk, rferrington783, theaninova
+* Testing the LDO parts (Discord names): arthurledaron, broncosis, dudewithan02, dweenz., fr0stbyt3, gmbridge, hartk, rferrington783, theaninova
+* Contributors see the [Usermods](https://github.com/DraftShift/StealthChanger/tree/main/UserMods) folders.
 
 
 # Credits
