@@ -11,7 +11,8 @@
 In order to get proper matching set you should:
 - insert pins in your best backplate (straightest)
 - press bushings in the shuttle and ensure a smooth mating between the parts.
-- if everything feels smooth, pop the bushings out and glue them in place using either superglue or epoxy, other wise see [Heat Treating](#heat-treating)
+- inset 2x M3x8mm SHCS screws in the top 2 pins to secure, and a M3x6 or 8mm BHCS screw in the bottom pin. The StealthBurner back plate needs the pins glued so this is done as the last step
+- if everything feels smooth, so pop the bushings out and glue them in place using either superglue or epoxy, other wise see [Heat Treating](#heat-treating)
 - be sure to test that the mating still feels smooth after the glue sets.
 - You can now use the shuttle as a "master blank" for glueing the pins into all your backplates.
 

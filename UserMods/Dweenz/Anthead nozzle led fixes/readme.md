@@ -1,0 +1,1 @@
+A simple mod of N3MI's nozzle LED for ANTHEAD SF. The Mainbodies are labeled VORONLOGO. UHF means ultra high flow, HF means high flow. Then the extruder type sherpa mini, or orbiter. The LED's need to be split to object in slicer and oriented correctly. 
