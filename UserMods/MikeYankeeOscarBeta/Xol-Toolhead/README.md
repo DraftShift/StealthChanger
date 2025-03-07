@@ -1,4 +1,7 @@
-# StealthChanger Xol-Toolhead (Experimental)
+# DEPRECATED
+deprecated and no longer needed to use xol with stealthchanger. use the mainline xol backplate and xol modular docks instead
+
+# StealthChanger Xol-Toolhead for StealthChanger V1.0 (Experimental) 
 by [MikeYankeeOscarBeta](https://github.com/MikeYankeeOscarBeta/) (VoronDesign Discord: #MikeyMike V2.5796, Voron Toolchangers Discord: MikeyMike - Github: [MikeYankeeOscarBeta](https://github.com/MikeYankeeOscarBeta/StealthChanger))
 
 [Xol Toolhead](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead) by [Armchair Heavy Industries](https://github.com/Armchair-Heavy-Industries)
