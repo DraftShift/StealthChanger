@@ -35,6 +35,14 @@ Preload is created with the 2 countersunk screws in the tool plate.  These 2 scr
 ### QGL won't finish
 If you run homing on Z or QGL and you are getting lots of restarts or excessive runs.  Make sure you are using **N52** magnets, and check that your umbilicals are properly support and the right length.  If these 3 things aren't checked it will affect the tap precision.
 
+### Gantry won't go low enough (Voron-V2)
+Some tools are shorter than others and with some of the shorter tools the z-rail carriages reach the end of their travel before the nozzle can reach the bed, this can be a problem for probing, QGL and printing.
+
+There's a few options to solve this:
+- remove or modify the Z-belt-covers
+- replace stock z-joints with [Rigid Z joint](https://www.printables.com/model/996313-voron-v24-rigid-fixed-z-joint) or [low profile z-joints](https://mods.vorondesign.com/details/1hy4XR47A0UJYaDhizaFg)
+- Use taller bed spacers
+
 ### Which toolhead/extruder is recommended?
 A lot of people are asking which toolhead/extruder is recommended. The answer is whatever you want. The changer and tools are completely separate. That being said, using something that is officially supported is going to be the easiest.
 
