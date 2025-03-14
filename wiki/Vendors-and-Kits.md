@@ -19,8 +19,14 @@ On Discord: xbst_
 - [MOAR_CAN](https://store.isiks.tech/products/moar_can)
 - [XT30+2 CAN Cable](https://store.isiks.tech/products/xt302-2-can-cable-3-meters)
 
+## [Fabreeko](https://www.fabreeko.com/)
+
+- [Fysetc CNC Shuttle](https://www.fabreeko.com/products/stealth-changer-cnc-shuttle-kit-by-fysetc)
+- [Fysetc Can Bus Distribution Board](https://www.fabreeko.com/products/stealth-changer-cnc-shuttle-kit-by-fysetc)
+
 # International Vendors
 
 ## [Fystec](https://www.aliexpress.com/store/3480083)
 
-= [CNC Shuttle](https://s.click.aliexpress.com/e/_ooNmh4z)
+- [CNC Shuttle](https://s.click.aliexpress.com/e/_ooNmh4z)
+- [Can Bus Distribution Board](https://s.click.aliexpress.com/e/_ooNmh4z)
