@@ -12,17 +12,17 @@ On Discord: Broncosis
 
 # USA Vendors ![US Flag](https://flagcdn.com/32x24/us.png)
 
+## [Fabreeko](https://www.fabreeko.com/)
+
+- [Fysetc CNC Shuttle](https://www.fabreeko.com/products/stealth-changer-cnc-shuttle-kit-by-fysetc)
+- [Fysetc Can Bus Distribution Board](https://www.fabreeko.com/products/stealth-changer-cnc-shuttle-kit-by-fysetc)
+
 ## [Isik's Tech](https://store.isiks.tech/)
 On Discord: xbst_
 
 - [Birds' Nest](https://store.isiks.tech/products/birds-nest)
 - [MOAR_CAN](https://store.isiks.tech/products/moar_can)
 - [XT30+2 CAN Cable](https://store.isiks.tech/products/xt302-2-can-cable-3-meters)
-
-## [Fabreeko](https://www.fabreeko.com/)
-
-- [Fysetc CNC Shuttle](https://www.fabreeko.com/products/stealth-changer-cnc-shuttle-kit-by-fysetc)
-- [Fysetc Can Bus Distribution Board](https://www.fabreeko.com/products/stealth-changer-cnc-shuttle-kit-by-fysetc)
 
 # International Vendors
 
