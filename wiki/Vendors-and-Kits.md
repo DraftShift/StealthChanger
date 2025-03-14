@@ -15,7 +15,7 @@ On Discord: Broncosis
 ## [Fabreeko](https://www.fabreeko.com/)
 
 - [Fysetc CNC Shuttle](https://www.fabreeko.com/products/stealth-changer-cnc-shuttle-kit-by-fysetc)
-- [Fysetc Can Bus Distribution Board](https://www.fabreeko.com/products/stealth-changer-cnc-shuttle-kit-by-fysetc)
+- [Fysetc Can Bus Distribution Board](https://www.fabreeko.com/products/can-bus-distribution-board-for-stealth-changer-by-fysetc)
 
 ## [Isik's Tech](https://store.isiks.tech/)
 On Discord: xbst_
