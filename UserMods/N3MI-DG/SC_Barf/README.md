@@ -10,7 +10,7 @@ PCBs with 1.5mm RGB LEDs arranged into the StealthChanger logo pattern, both Vor
 [neopixel rgb_logo]
 pin: PB3
 color_order: GRB
-chain_count: 21 # 21 for Voron style, 17 for Micron style.
+chain_count: 21 # 21 for Voron style, 19 for Micron style.
 initial_RED: 0.3
 initial_BLUE: 0.0
 initial_GREEN: 0.3
