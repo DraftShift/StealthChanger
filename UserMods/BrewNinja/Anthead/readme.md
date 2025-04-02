@@ -1,0 +1,3 @@
+I was having some issues with the Anthead body fitting everything well and realized that I had some stuck support interfaces way in. Instead of dealing with that, I just edited N3MI's anthead mod for the Voron LGX. Thats why there is only 1 of them. You can now print this with either no supports, or only supports on the tall fins where the side fans go (I did the latter).
+
+Also find an adapter plate for the HGX extruder. I couldn't find one, so here it is. 
