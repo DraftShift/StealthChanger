@@ -1,3 +1,9 @@
-I was having some issues with the Anthead body fitting everything well and realized that I had some stuck support interfaces way in. Instead of dealing with that, I just edited N3MI's anthead mod for the Voron LGX. Thats why there is only 1 of them. You can now print this with either no supports, or only supports on the tall fins where the side fans go (I did the latter).
+ - There is an improved printing version of N3MI's Voron Sherpa spaced Stealhchanger main body. No supports needed except maybe the tall fan fins. 
+ - Second mod is an HGX adapter plate. This fits either my above mod, or any of the anthead sherpa spacing bodies.
 
-Also find an adapter plate for the HGX extruder. I couldn't find one, so here it is. 
+![Anthead Mods Pic](/Images/Anthead.png)
+
+	
+
+If you have questions about any of my mods, you can find me on the Stealthchanger Discord. 
+
