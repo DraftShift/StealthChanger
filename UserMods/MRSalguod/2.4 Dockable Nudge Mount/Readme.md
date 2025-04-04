@@ -10,9 +10,9 @@ I have modded it it use the same pins and bushings from [DSD's StealthChanger](h
 
 ### Files to print:
 
-* [2] Dock Mounts 2x.3mf
+* [2] Dock Mount.3mf
   
-* [1] Nudge_Mount Part 1.stl (this is the original file)
+* [1] Nudge Mount Part 1.stl (this is the original file)
   
 * [1] Nudge Mount Part 2.3mf
 
