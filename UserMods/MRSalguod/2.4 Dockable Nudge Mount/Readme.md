@@ -2,7 +2,7 @@
 
 This is a mod of [VIN-y's Removable 2.4 Mount](https://github.com/zruncho3d/nudge/tree/main/User%20Mods/VIN-y/Removable%202.4%20Mount) for the [Nudge probe](https://github.com/zruncho3d/nudge/tree/main). 
 
-It is dockable so that you don't loose any build volume. It also has a microswitch so that when it is docked is always triggered. 
+It is dockable so that you don't loose any build volume. It also has an optional microswitch so that when it is docked it is always triggered. 
 
 ### My Modifications:
 
@@ -24,10 +24,6 @@ I have modded it it use the same pins and bushings from [DSD's StealthChanger](h
 
 * [6] 6x3mm magnets 
 
-* [1] Micro switch 
-
-* [2] 2mm self-tapping screws 
-
 * [2] M3 x 20mm 
 
 * [1] M3 x 18mm
@@ -37,6 +33,10 @@ I have modded it it use the same pins and bushings from [DSD's StealthChanger](h
 * [1] M3 washer 
 
 * [2] M3 x 25mm counter sunk
+
+* [1] Micro switch (optional)
+
+* [2] 2mm self-tapping screws (optional)
 
 ### Configuration:
 
