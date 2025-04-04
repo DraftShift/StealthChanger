@@ -58,9 +58,10 @@ For my V2.4 350 the nudge locations are about [Z39 X245 Y334] Yours will be slig
 
 ### License: 
 Shared as the original. 
-GNU General Public License v3.0This work is licensed under a
-GNU
-General Public License v3.0
+
+GNU General Public License v3.0b
+
+This work is licensed under a GNU General Public License v3.0
 
 ✖ | Sharing without ATTRIBUTION
 
