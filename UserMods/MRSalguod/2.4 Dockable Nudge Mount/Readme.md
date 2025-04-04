@@ -1,6 +1,6 @@
 ### Information:
 
-This is a mod of [VIN-y's Removable 2.4 Mount](https://github.com/zruncho3d/nudge/tree/main/User%20Mods/VIN-y/Removable%202.4%20Mount) for the [Nudge probe](https://github.com/zruncho3d/nudge/tree/main). 
+I had spare bushing and pins from buying the cnc stealthchanger shuttle so I modded [VIN-y's Removable 2.4 Mount](https://github.com/zruncho3d/nudge/tree/main/User%20Mods/VIN-y/Removable%202.4%20Mount) for the [Nudge probe](https://github.com/zruncho3d/nudge/tree/main).
 
 It is dockable so that you don't loose any build volume. It also has an optional microswitch so that when it is docked it is always triggered. 
 
