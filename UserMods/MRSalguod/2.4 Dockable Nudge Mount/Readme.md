@@ -56,4 +56,17 @@ For my V2.4 350 the nudge locations are about [Z39 X245 Y334] Yours will be slig
 ![bottom.jpg](./images/bottom.jpg)
 
 
+### License: 
+Shared as the original. 
+GNU General Public License v3.0This work is licensed under a
+GNU
+General Public License v3.0
+
+✖ | Sharing without ATTRIBUTION
+✔ | Remix Culture allowed
+✔ | Commercial Use
+✔ | Meets Open Definition
+ℹ  | Share under the same license
+
+
 
