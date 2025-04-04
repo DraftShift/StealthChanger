@@ -40,7 +40,7 @@ I have modded it it use the same pins and bushings from [DSD's StealthChanger](h
 
 ### Configuration:
 
-For my V2.4 350 the nudge locations were [Z39 X245 Y334] Yours might be different. 
+For my V2.4 350 the nudge locations are about [Z39 X245 Y334] Yours will be sligthly different. 
 
   
 ### Pictures:
