@@ -30,6 +30,19 @@ I have modded it it use the same pins and bushings from [DSD's StealthChanger](h
 
 * [1] M3 washer 
 
-* [2] M3 x 25mm counter sunk 
+* [2] M3 x 25mm counter sunk
+
+### Pictures:
+
+![docked2.jpg](./images/docked2.jpg)
+
+![docked1.jpg](./images/docked1.jpg)
+
+![docked3.jpg](./images/docked1.jpg)
+
+![back-side.jpg](./images/back-side.jpg)
+
+![bottom.jpg](./images/bottom.jpg)
+
 
 
