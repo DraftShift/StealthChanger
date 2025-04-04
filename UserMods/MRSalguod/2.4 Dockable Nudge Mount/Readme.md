@@ -45,15 +45,13 @@ For my V2.4 350 the nudge locations are about [Z39 X245 Y334] Yours will be slig
   
 ### Pictures:
 
-![docked2.jpg](./images/docked2.jpg)
+![docked.jpg](./images/docked.jpg)
 
-![docked1.jpg](./images/docked1.jpg)
+![undocked.jpg](./images/undocked.jpg)
 
-![docked3.jpg](./images/docked1.jpg)
+![side.jpg](./images/side.jpg)
 
-![back-side.jpg](./images/back-side.jpg)
-
-![bottom.jpg](./images/bottom.jpg)
+![docks.jpg](./images/docks.jpg)
 
 
 ### License: 
