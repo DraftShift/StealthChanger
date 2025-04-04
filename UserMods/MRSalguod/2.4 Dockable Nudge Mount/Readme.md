@@ -32,6 +32,4 @@ I have modded it it use the same pins and bushings from [DSD's StealthChanger](h
 
 * [2] M3 x 25mm counter sunk 
 
-* Super glue - for the magnets (optional)
-
 
