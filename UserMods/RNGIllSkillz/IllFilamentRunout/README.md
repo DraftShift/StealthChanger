@@ -19,6 +19,7 @@ Side Mount filament runout sensors that supports 6 filament lines.
 Install katapult and klipper as on any rp2040 board. Just note what gpio you're using for CAN Tx Rx
 I recommend connecting sensor Vin pint in to DC-DC converter, not to RP board.
 Note that SN65HVD230 uses 3.3 volts
+Use 16-21 pins to connect optical sensors to the board. You can use different pins, but youll have to edit config accordingly.
 
 Input radius for ptfe tube is 4mm, but output is for 5mm tube
 
