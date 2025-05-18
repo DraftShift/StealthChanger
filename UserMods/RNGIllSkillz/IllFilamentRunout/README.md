@@ -16,11 +16,11 @@ Side Mount filament runout sensors that supports 6 filament lines.
 6x O-ring 10.0-7.0-1.5mm
 
 ## Notes
-Install katapult and klipper as on any rp2040 board. Just note what gpio pins you're using for CAN Tx Rx
+Install katapult and klipper as on any rp2040 board. Just note what gpio you're using for CAN Tx Rx
 I recommend connecting sensor Vin pint in to DC-DC converter, not to RP board.
 Note that SN65HVD230 uses 3.3 volts
 
 Input radius for ptfe tube is 4mm, but output is for 5mm tube
 
 ## Credits
-Sensor is based on ![Filament Progression and Runout sensor](https://www.printables.com/model/629380-filament-progression-and-runout-sensor-optical-end) by ![Fractalengineer](https://www.printables.com/@Fractalengine_242936)
+Sensor is based on [Filament Progression and Runout sensor](https://www.printables.com/model/629380-filament-progression-and-runout-sensor-optical-end) by [Fractalengineer](https://www.printables.com/@Fractalengine_242936)
