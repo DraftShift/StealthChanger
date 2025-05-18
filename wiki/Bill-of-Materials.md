@@ -52,6 +52,11 @@ x1 per toolhead
 - [2] m3 heat inserts
 - [2] m3x8 BHCS (optional in v1.1)
 
+### Xol / A4T
+
+- You will **not be able** to use stock 2.4 Z joints with Xol or A4T.
+- Replacement of your Z joints with something with a lower profile such as [hartk123's GE5C Z Joint](https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/hartk1213/Voron2.4_GE5C) or [Ellis'Short Z Joints](https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/Ellis/Short_Z_Joints) is necessary to avoid bottoming out your Z carriage on the deck panel when using Xol or A4T.
+
 
 ## Endstops
 
