@@ -12,6 +12,11 @@ On Discord: Broncosis
 
 # USA Vendors ![US Flag](https://flagcdn.com/32x24/us.png)
 
+## [Fabreeko](https://www.fabreeko.com/)
+
+- [Fysetc CNC Shuttle](https://www.fabreeko.com/products/stealth-changer-cnc-shuttle-kit-by-fysetc)
+- [Fysetc Can Bus Distribution Board](https://www.fabreeko.com/products/can-bus-distribution-board-for-stealth-changer-by-fysetc)
+
 ## [Isik's Tech](https://store.isiks.tech/)
 On Discord: xbst_
 
@@ -23,4 +28,5 @@ On Discord: xbst_
 
 ## [Fystec](https://www.aliexpress.com/store/3480083)
 
-= [CNC Shuttle](https://s.click.aliexpress.com/e/_ooNmh4z)
+- [CNC Shuttle](https://s.click.aliexpress.com/e/_ooNmh4z)
+- [Can Bus Distribution Board](https://s.click.aliexpress.com/e/_ooNmh4z)
