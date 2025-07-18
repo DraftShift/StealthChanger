@@ -1,6 +1,28 @@
 Currently we are working with Manufacturers and Vendors on official kits and CNC parts.  Once available and officially tested they will be listed here in alphabetical order.
 
 
+# World Wide Vendors ![World Wide](https://icons.iconarchive.com/icons/aha-soft/free-global-security/24/Global-Network-icon.png)
+
+## [LDO Motion](https://ldomotion.com/)
+
+Each kit bellow includes a `Where to buy` on the product page.
+
+- [Base Kit](https://ldomotion.com/p/product/16607023627247272)
+  - CNC Shuttle
+  - Sex Ball probe
+  - NH-Hexa 6+1 port USB adapter
+- [Tool & Dock Kit](https://ldomotion.com/p/product/16607023627247272)
+  - Nitehawk-36 Toolhead Kit (SC-edition)
+  - OptoTap PCB
+  - RGB Sequin/NeoPixel
+  - High CFM LDO fans (1x2510 axial, 2x4010 blower)
+  - Backplate Pins
+- [Top Hat & Door Buffer Kit](https://ldomotion.com/p/product/16607023627247272)
+  - LDO quality extrusions
+  - Fasteners and hardware
+  - Panels
+
+
 # Canadian Vendors ![Canada Flag](https://flagcdn.com/32x24/ca.png)
 
 ## [bobcat3d](https://bobcat3d.etsy.com/)
