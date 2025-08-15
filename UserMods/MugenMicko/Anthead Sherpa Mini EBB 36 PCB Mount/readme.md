@@ -19,7 +19,7 @@ cutouts to route wires through.  An additional bonus is that it braces the extru
 The backplate, the backplate spacer and the toolhead board PCB Mount.  The EBB36 comes with 2 x 20mm brass stand offs which are screwe
 between the extruder and the PCB Mount/PCB 
 
-![Image1](Image/image1.png)  ![Image2](Image/image2.png)
+![Image1](Image/image1.png)  ![Image2](Image/image2.png) ![Front](Image/front.jpg) ![side](Image/side.jpg) ![back](Image/back.jpg)
 
 # Credits
 [TheSin-](https://github.com/TheSin-) for the base I worked from
