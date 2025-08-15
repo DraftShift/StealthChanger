@@ -19,7 +19,7 @@ It may work for other 36 style boards but no promises. The cad (fusion360) is th
 The backplate, the backplate spacer and the toolhead board PCB Mount.  The EBB36 comes with 2 x 20mm brass stand offs which are screwe
 between the extruder and the PCB Mount/PCB 
 
-![Image1](images/image1.png)  ![Image2](images/image2.png)
+![Image1](Image/image1.png)  ![Image2](Image/image2.png)
 
 # Credits
 [TheSin-](https://github.com/TheSin-) for the base I worked from
