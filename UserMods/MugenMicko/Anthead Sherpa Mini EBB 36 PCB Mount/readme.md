@@ -3,7 +3,7 @@
 Whilst building my Stealthchanger Voron 2.4, my focus was being cable and cost effective, utilising some parts I had on hand
 and to keep cost down without compromising on capability and quality.  This lead me down the path of using Anthead, TZ V6 2.0,
 Sherpa Mini and BTT EBB36 toolhead board. This appears to be a pretty common combination but there was an issue with the extruder
-rotating on the Y Axis and the toolhead board mounts allowed the board to vibrate on the Y and Z axis.  TheSin- had created amazing
+rotating on the Y Axis and the toolhead board mounts allowed the board to vibrate on the Y and Z axis.  TheSin-[^1] had created amazing
 mounting solution for Orbitor 2 and an LGX based extruder which I have based this mod off of. 
 
 ## What does it achieve?
@@ -21,6 +21,7 @@ between the extruder and the PCB Mount/PCB
 
 ![Image1](Image/image1.png)  ![Image2](Image/image2.png) ![Front](Image/front.jpg) ![side](Image/side.jpg) ![back](Image/back.jpg)
 
+[^1]: https://github.com/DraftShift/StealthChanger/tree/main/UserMods/TheSin-/PCB36_Mount
 # Credits
 [TheSin-](https://github.com/TheSin-) for the base I worked from
 [N3MI-DG](https://github.com/N3MI-DG) @Myrkalear [@Nic335](https://github.com/nic335) , [jdmontgomer](https://github.com/jdmontgomer) @strothgar for pointing out these amazing designs, inspiring me and being top people
