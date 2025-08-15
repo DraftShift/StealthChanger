@@ -20,5 +20,5 @@ The backplate, the backplate spacer and the toolhead board PCB Mount.  The EBB36
 between the extruder and the PCB Mount/PCB 
 
 # Credits
-@TheSin- for the base I worked from
-@N3MI-DG @Myrkalear @Nic335 @jdmontgomer @strothgar for pointing out these amazing designs, inspiring me and being top people
+[TheSin-](https://github.com/TheSin-) for the base I worked from
+[N3MI-DG](https://github.com/N3MI-DG) @Myrkalear [@Nic335](https://github.com/nic335) [jdmontgomer](https://github.com/jdmontgomer) @strothgar for pointing out these amazing designs, inspiring me and being top people
