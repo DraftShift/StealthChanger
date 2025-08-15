@@ -23,5 +23,5 @@ between the extruder and the PCB Mount/PCB
 
 [^1]: https://github.com/DraftShift/StealthChanger/tree/main/UserMods/TheSin-/PCB36_Mount
 # Credits
-[TheSin-](https://github.com/TheSin-) for the base I worked from
-[N3MI-DG](https://github.com/N3MI-DG) @Myrkalear [@Nic335](https://github.com/nic335) , [jdmontgomer](https://github.com/jdmontgomer) @strothgar for pointing out these amazing designs, inspiring me and being top people
+[TheSin-](https://github.com/TheSin-) for the base I worked from,
+[N3MI-DG](https://github.com/N3MI-DG), @Myrkalear, [@Nic335](https://github.com/nic335), [jdmontgomer](https://github.com/jdmontgomer) and @strothgar for pointing out these amazing designs, inspiring me and being top people
