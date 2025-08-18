@@ -10,7 +10,7 @@
 Post a video here that shows:
 * 2 tool min print (mid print is fine)
 * clearly shows a tool change
-~~* clearly shows the stealthchanger shuttle~~
+* clearly shows the stealthchanger shuttle
 * a picture of the finished print is a bonus!
 * some form of visual with your discord username and date (within the last 24 hours) on it in the video
 
