@@ -9,7 +9,7 @@
 
 **Only one post per serial request**
 
-**Post a video here that shows (we shouldn't need to pause, zoom, jog a video, it's your responsibility to make sure it's clear and easy to see are normal play speed)**
+**Post a video here that shows (we shouldn't need to pause, zoom, jog a video, it's your responsibility to make sure it's clear and easy to see at normal play speed)**
 
 * 2 tool min print (mid print is fine)
 * clearly shows a tool change
