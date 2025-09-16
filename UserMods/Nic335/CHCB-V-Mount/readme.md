@@ -32,5 +32,5 @@ this mount reposition the nozle tip to the proper designated location, so proper
 
 ## Acknowledgements
 
-- Original **AntHead** design by * (https://github.com/PrintersForAnts/AntHead)[https://github.com/PrintersForAnts/AntHead* 
+- Original **AntHead** design by * <a href="https://github.com/PrintersForAnts/AntHead">https://github.com/PrintersForAnts/AntHead</a>
 - Trianglelab for the **CHCB-V V6DM** hotend
