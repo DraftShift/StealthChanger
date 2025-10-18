@@ -23,5 +23,5 @@ This uses "standard" DragaonBurner cowls
 - Place front cover
 - Install spacer as normal from here
 
-<img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/EddyMount/v1.0/FystecCNC/EddyDBHousing.jpg" width="400" height="465">
-<img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/EddyMount/v1.0/FystecCNC/EddyDBInstalled.jpg" width="400" height="465">
+<img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/EddyMount/v1.0/FystecCNC/EddyDBHousing.jpg" width="400" height="600">
+<img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/EddyMount/v1.0/FystecCNC/EddyDBInstalled.jpg" width="400" height="600">
