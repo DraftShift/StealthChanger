@@ -38,6 +38,6 @@ This uses "standard" DragaonBurner cowls - though it is specifically fit for Tra
 - If using the "piano-wire" hole, you may want to insert your 1mm wire prior to assembly to clear out any printing artifacts.  It is a 20mm deep hole.
 - Wire as needed.
 
-<img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/Orbiter2.0_EBB36_Mount.png" width="400" height="465">
-<img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/DB_EBB36_Orbiter2.0_Mount.jpg" width="400" height="506">
-<img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/DB_EBB36_Orbiter2.0_wFSensor_Mount.jpg" width="363" height="500">
+<img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/EBB36Mount/v1.0/Orbiter2.0_EBB36_Mount.png" width="400" height="465">
+<img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/EBB36Mount/v1.0/DB_EBB36_Orbiter2.0_Mount.jpg" width="400" height="506">
+<img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/EBB36Mount/v1.0/DB_EBB36_Orbiter2.0_wFSensor_Mount.jpg" width="363" height="500">
