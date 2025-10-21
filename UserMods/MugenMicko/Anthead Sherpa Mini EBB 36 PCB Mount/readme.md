@@ -11,6 +11,8 @@ TheSin-'s design connects the toolhead board to the backplate and the extruder t
 the same thing.  This mod also takes into account component placement on the toolhead board utilising key positioned stand offs to ensure
 the board triangilated on the mount. I have also included a backplate spacer to facilitate cable routing and the toolhead board mount has
 cutouts to route wires through.  An additional bonus is that it braces the extruder preventing rotation and reducing vibrations.
+## Revision 9 now uploaded
+Found that earlier version may cause torsion twist in extruder with certain gear sets, new version rectifies that issue and adds ability to capture the spring steel and improve umbilical control
 
 >[!WARNING]
 >It may work for other 36 style boards but no promises. The cad (fusion360) is there if you want to modify things to suit your toolhead board.
