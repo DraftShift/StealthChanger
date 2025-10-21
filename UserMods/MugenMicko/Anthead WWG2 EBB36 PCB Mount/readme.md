@@ -15,7 +15,7 @@ the board triangilated on the mount. An additional bonus is that it braces the e
 The backplate, the backplate spacer and the toolhead board PCB Mount.  The EBB36 comes with 2 x 20mm brass stand offs which are screwe
 between the extruder and the PCB Mount/PCB 
 
-![Image1](Anthead SF WWG2.png) 
+![Image1](Anthead_SF_WWG2.png) 
 
 [^1]: https://github.com/DraftShift/StealthChanger/tree/main/UserMods/TheSin-/PCB36_Mount
 # Credits
