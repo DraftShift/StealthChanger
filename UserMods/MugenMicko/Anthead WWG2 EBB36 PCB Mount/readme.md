@@ -1,18 +1,12 @@
 # A PCB Mounting solution for Anthead with Sherpa Mini and EBB36
 ## Purpose
-Whilst building my Stealthchanger Voron 2.4, my focus was being cable and cost effective, utilising some parts I had on hand
-and to keep cost down without compromising on capability and quality.  This lead me down the path of using Anthead, TZ V6 2.0,
-Sherpa Mini and BTT EBB36 toolhead board. This appears to be a pretty common combination but there was an issue with the extruder
-rotating on the Y Axis and the toolhead board mounts allowed the board to vibrate on the Y and Z axis.  TheSin-[^1] had created amazing
-mounting solution for Orbitor 2 and an LGX based extruder which I have based this mod off of. 
+Someone reached out commenting on my build which led to the discussion of his planned build being Anthead SF, WWG2 and EBB36 Gen2. This appears to be a pretty common combination but there was no quick easy solution for mounting, so I created one.  TheSin-[^1] had created amazing mounting solution for Orbitor 2 and an LGX based extruder which I have based this mod off of. 
 
 ## What does it achieve?
 TheSin-'s design connects the toolhead board to the backplate and the extruder to ensure rigidity and lack of movement, this mod does
 the same thing.  This mod also takes into account component placement on the toolhead board utilising key positioned stand offs to ensure
-the board triangilated on the mount. I have also included a backplate spacer to facilitate cable routing and the toolhead board mount has
-cutouts to route wires through.  An additional bonus is that it braces the extruder preventing rotation and reducing vibrations.
-## Revision 9 now uploaded
-Found that earlier version may cause torsion twist in extruder with certain gear sets, new version rectifies that issue and adds ability to capture the spring steel and improve umbilical control
+the board triangilated on the mount. An additional bonus is that it braces the extruder preventing rotation and reducing vibrations.
+
 
 >[!WARNING]
 >It may work for other 36 style boards but no promises. The cad (fusion360) is there if you want to modify things to suit your toolhead board.
@@ -21,7 +15,7 @@ Found that earlier version may cause torsion twist in extruder with certain gear
 The backplate, the backplate spacer and the toolhead board PCB Mount.  The EBB36 comes with 2 x 20mm brass stand offs which are screwe
 between the extruder and the PCB Mount/PCB 
 
-![Image1](Image/image1.png)  ![Image2](Image/image2.png) ![Front](Image/front.jpg) ![side](Image/side.jpg) ![back](Image/back.jpg)
+![Image1](Anthead SF WWG2.png) 
 
 [^1]: https://github.com/DraftShift/StealthChanger/tree/main/UserMods/TheSin-/PCB36_Mount
 # Credits
