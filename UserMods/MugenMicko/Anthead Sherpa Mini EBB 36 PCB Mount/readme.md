@@ -26,8 +26,6 @@ between the extruder and the PCB Mount/PCB
 
 ![Image1](Image/Toolhead_Updated.png)  ![Image2](Image/Toolhead_Updated_2.png) ![Front](Image/front.jpg) ![side](Image/side.jpg) ![back](Image/back.jpg)
 
-![Image1](Image/image1.png)  ![Image2](Image/image2.png) ![Front](Image/front.jpg) ![side](Image/side.jpg) ![back](Image/back.jpg)
->>>>>>> 7cd37f34824962ca402ba4f3a9c511b24f276e26
 
 [^1]: https://github.com/DraftShift/StealthChanger/tree/main/UserMods/TheSin-/PCB36_Mount
 # Credits
