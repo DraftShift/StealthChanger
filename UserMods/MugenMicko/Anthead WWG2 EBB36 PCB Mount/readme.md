@@ -1,4 +1,4 @@
-# A PCB Mounting solution for Anthead with Sherpa Mini and EBB36
+# A PCB Mounting solution for Anthead with WWG2 and EBB36
 ## Purpose
 Someone reached out commenting on my build which led to the discussion of his planned build being Anthead SF, WWG2 and EBB36 Gen2. This appears to be a pretty common combination but there was no quick easy solution for mounting, so I created one.  TheSin-[^1] had created amazing mounting solution for Orbitor 2 and an LGX based extruder which I have based this mod off of. 
 
