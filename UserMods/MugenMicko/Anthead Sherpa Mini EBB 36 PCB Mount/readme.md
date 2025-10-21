@@ -21,7 +21,7 @@ Found that earlier version may cause torsion twist in extruder with certain gear
 The backplate, the backplate spacer and the toolhead board PCB Mount.  The EBB36 comes with 2 x 20mm brass stand offs which are screwe
 between the extruder and the PCB Mount/PCB 
 
-![Image1](Image/Toolhead Updated.png)  ![Image2](Image/Toolhead Updated 2.png) ![Front](Image/front.jpg) ![side](Image/side.jpg) ![back](Image/back.jpg)
+![Image1](Image/Toolhead_Updated.png)  ![Image2](Image/Toolhead_Updated_2.png) ![Front](Image/front.jpg) ![side](Image/side.jpg) ![back](Image/back.jpg)
 
 [^1]: https://github.com/DraftShift/StealthChanger/tree/main/UserMods/TheSin-/PCB36_Mount
 # Credits
