@@ -41,7 +41,7 @@ Work in progress to create a common set of mounting components that provide a mo
 # Assembly
 - install wire-support block heat-set inserts (2 in front face, 2 in spine), ensure all are flush and straight
 - (optional if rear brace is used) Install Top-Flag-Plate heat-set insert, ensure top is flush with face
-<img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/CNCShuttleMount/v1.0/media/heatset_inserts_installed.jpg" width="10%" height="10%">
+  <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/CNCShuttleMount/v1.0/media/heatset_inserts_installed.jpg" width="10%" height="10%">
 - Install the PCB to the PCB mount of the desired leg-height (multiple are provided to tune your PCB vs hot-end placement.  For reference 1.0mm offset will suit a DragonBurner with a Voron Revo nozzle.
   <p float="left">
   <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/CNCShuttleMount/v1.0/media/pcb_mount_installed.jpg" width="10%" height="10%">
