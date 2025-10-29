@@ -39,6 +39,7 @@ Work in progress to create a common set of mounting components that provide a mo
 - 4 or 5 perimeters
 - 4 or 5 top/bottom layers
 - 40% infill
+<p><img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/CNCShuttleMount/v1.0/media/print_orientation_suggestion.png" width="10%" height="10%"></p>
 
 # Assembly
 - install wire-support block heat-set inserts (2 in front face, 2 in spine), ensure all are flush and straight
