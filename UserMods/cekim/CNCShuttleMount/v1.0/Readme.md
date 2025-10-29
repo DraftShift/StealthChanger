@@ -41,7 +41,7 @@ Work in progress to create a common set of mounting components that provide a mo
 # Assembly
 - install wire-support block heat-set inserts (2 in front face, 2 in spine), ensure all are flush and straight
 - (optional if rear brace is used) Install Top-Flag-Plate heat-set insert, ensure top is flush with face
-  <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/CNCShuttleMount/v1.0/media/heatset_inserts_installed.jpg" width="10%" height="10%">
+  <p><img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/CNCShuttleMount/v1.0/media/heatset_inserts_installed.jpg" width="10%" height="10%"></p>
 - Install the PCB to the PCB mount of the desired leg-height (multiple are provided to tune your PCB vs hot-end placement.  For reference 1.0mm offset will suit a DragonBurner with a Voron Revo nozzle.
   <p float="left">
   <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/CNCShuttleMount/v1.0/media/pcb_mount_installed.jpg" width="10%" height="10%">
@@ -79,7 +79,7 @@ Work in progress to create a common set of mounting components that provide a mo
    <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/CNCShuttleMount/v1.0/media/brace_top_ziptie_loose_top.jpg" width="10%" height="10%">
    </p>
 - Remove temporary screws holding the wire-support block to the PCB mount
-  <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/CNCShuttleMount/v1.0/media/temp_install_undo.jpg" width="10%" height="10%">
+  <p><img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/CNCShuttleMount/v1.0/media/temp_install_undo.jpg" width="10%" height="10%"></p>
 - Insert 2 M3x12 BHCS into the inserts for the CNC shuttle
   - There are inserts for the FYSTEC and LDO shuttles separately as they are shaped differently
   - Once the screw is inserted into the printed insert, then insert both into the shuttle
@@ -97,8 +97,8 @@ Work in progress to create a common set of mounting components that provide a mo
   <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/CNCShuttleMount/v1.0/media/assembly_on_shuttle_clipped.jpg" width="10%" height="10%">
   </p>  
 - Ensure full clearance at extremes of X/Y movement before proceeding under power
-<p float="left" >
-<img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/CNCShuttleMount/v1.0/media/cf_gantry_corner.jpg" width="10%" height="10%">
-<img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/CNCShuttleMount/v1.0/media/printed_2020_gantry_corner.jpg" width="10%" height="10%">
-</p>
+  <p float="left" >
+  <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/CNCShuttleMount/v1.0/media/cf_gantry_corner.jpg" width="10%" height="10%">
+  <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/CNCShuttleMount/v1.0/media/printed_2020_gantry_corner.jpg" width="10%" height="10%">
+  </p>
 

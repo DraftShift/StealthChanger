@@ -12,6 +12,10 @@ the same thing.  This mod also takes into account component placement on the too
 the board triangilated on the mount. I have also included a backplate spacer to facilitate cable routing and the toolhead board mount has
 cutouts to route wires through.  An additional bonus is that it braces the extruder preventing rotation and reducing vibrations.
 
+## Revision 9 now uploaded
+Found that earlier version may cause torsion twist in extruder with certain gear sets, new version rectifies that issue and adds ability to capture the spring steel and improve umbilical control. Also has built in supports for printing of the spring steel capturing section
+
+
 >[!WARNING]
 >It may work for other 36 style boards but no promises. The cad (fusion360) is there if you want to modify things to suit your toolhead board.
 
@@ -19,7 +23,9 @@ cutouts to route wires through.  An additional bonus is that it braces the extru
 The backplate, the backplate spacer and the toolhead board PCB Mount.  The EBB36 comes with 2 x 20mm brass stand offs which are screwe
 between the extruder and the PCB Mount/PCB 
 
-![Image1](Image/image1.png)  ![Image2](Image/image2.png) ![Front](Image/front.jpg) ![side](Image/side.jpg) ![back](Image/back.jpg)
+
+![Image1](Image/Toolhead_Updated.png)  ![Image2](Image/Toolhead_Updated_2.png) ![Front](Image/front.jpg) ![side](Image/side.jpg) ![back](Image/back.jpg)
+
 
 [^1]: https://github.com/DraftShift/StealthChanger/tree/main/UserMods/TheSin-/PCB36_Mount
 # Credits
