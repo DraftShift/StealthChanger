@@ -80,7 +80,7 @@ Work in progress to create a common set of mounting components that provide a mo
    </p>
 - Remove temporary screws holding the wire-support block to the PCB mount
   <p><img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/CNCShuttleMount/v1.0/media/temp_install_undo.jpg" width="10%" height="10%"></p>
-- Insert 2 M3x12 BHCS into the inserts for the CNC shuttle
+- Insert 2 M3x12 SHCS into the inserts for the CNC shuttle
   - There are inserts for the FYSTEC and LDO shuttles separately as they are shaped differently
   - Once the screw is inserted into the printed insert, then insert both into the shuttle
   <p float="left">
