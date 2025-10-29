@@ -79,14 +79,14 @@ Work in progress to create a common set of mounting components that provide a mo
    <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/CNCShuttleMount/v1.0/media/brace_top_ziptie_loose_top.jpg" width="10%" height="10%">
    </p>
 - Remove temporary screws holding the wire-support block to the PCB mount
-<img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/CNCShuttleMount/v1.0/media/temp_install_undo.jpg" width="10%" height="10%">
+  <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/CNCShuttleMount/v1.0/media/temp_install_undo.jpg" width="10%" height="10%">
 - Insert 2 M3x12 BHCS into the inserts for the CNC shuttle
   - There are inserts for the FYSTEC and LDO shuttles separately as they are shaped differently
   - Once the screw is inserted into the printed insert, then insert both into the shuttle
   <p float="left">
   <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/CNCShuttleMount/v1.0/media/fystec_insert_and_screw.jpg" width="10%" height="10%">
   <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/CNCShuttleMount/v1.0/media/fystec_insert_screw_inserted.jpg" width="10%" height="10%">
-  <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/CNCShuttleMount/v1.0/media/fystec_insert_isntalled_shuttle.jpg" width="10%" height="10%">
+  <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/CNCShuttleMount/v1.0/media/fystec_insert_installed_shuttle.jpg" width="10%" height="10%">
   </p>
 - Install the assembly on the shuttle and tighten top zip-tie (if rear brace used)
   - Fasten 2 front insert screws
