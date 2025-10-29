@@ -5,6 +5,8 @@ Work in progress to create a common set of mounting components that provide a mo
 - 2020 standard rail with printed/CNC/Carbon-Fiber gantry
 - Xbeam rail with CNC gantry
 
+  <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/CNCShuttleMount/v1.0/media/brace_top_ziptie_loose_top.jpg" width="30%" height="30%">
+
 # Notes/Warnings
 - This is a work in progress, not all configurations are tested.  My not work with your printer.
 - May result in collisions during printer movement, please use caution.
