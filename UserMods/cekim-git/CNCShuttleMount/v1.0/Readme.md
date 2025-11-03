@@ -11,6 +11,7 @@ Work in progress to create a common set of mounting components that provide a mo
 - This is a work in progress, not all configurations are tested.  My not work with your printer.
 - May result in collisions during printer movement, please use caution.
 - Pay particular attention to collisions between the USB/CAN cable an gantry components.
+- Please see companion modifications for [low-profile USB/CAN PG7 mounts here.](../../LowProfileGantryPG7Mount/v1.0)
 - The lock-washers on the M2.5 holding the CNC flag on the shuttle are VERY easy to lose.  Pay close attention to them if you don't want to lose them.  They are not essential on the printer part, but you may want to re-assemble the CNC version at some future date.
 - There are components marked "xbeam", "2020" "fystec" and "ldo".  Those without this designation are used for all configurations
 
@@ -103,4 +104,7 @@ Work in progress to create a common set of mounting components that provide a mo
   <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/CNCShuttleMount/v1.0/media/cf_gantry_corner.jpg" width="20%" height="20%">
   <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/CNCShuttleMount/v1.0/media/printed_2020_gantry_corner.jpg" width="20%" height="20%">
   </p>
-
+- (optional) Modify gantry cable mount as requiered to provide additional clearance
+  <p>[Companiion modification for low-profile USB/CAN PG7 mounts here](../../LowProfileGantryPG7Mount/v1.0)</P>
+  <p><img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim-git/LowProfileGantryPG7Mount/v1.0/media/printed\_gantry\_mount.jpg" width="30%" height="20%"></p>
+  
