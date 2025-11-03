@@ -1,6 +1,6 @@
 # Low-Profile PG7 A-motor Mounts for SC CNC Shuttle Beacon/Carto Mount
 
-Work in progress to provide PG7 gland mounts for the A-motor gantry mount that consume less space than existing mechanisms.  This additional space is needed to provide clearance for the USB/CAN cable attached to the CNC shuttle mount for Beacon/Carto.
+Work in progress to provide PG7 gland mounts for the A-motor gantry mount that consume less space than existing mechanisms.  This additional space is needed to provide clearance for the USB/CAN cable attached to the CNC shuttle mount for Beacon/Carto.  Without this modification, the USB/CAN cable affixed to the braced CNC shuttle mount for the Beacon/Carto scanners will tend to collide with the PG7 gland or mount.
 
 <p float="left">
 <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim-git/LowProfileGantryPG7Mount/v1.0/media/printed_gantry_mount.jpg" width="30%" height="20%">
