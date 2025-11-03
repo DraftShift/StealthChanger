@@ -105,6 +105,6 @@ Work in progress to create a common set of mounting components that provide a mo
   <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim-git/CNCShuttleMount/v1.0/media/printed_2020_gantry_corner.jpg" width="20%" height="20%">
   </p>
 - (optional) Modify gantry cable mount as requiered to provide additional clearance
-  <p>![Companiion modification for low-profile USB/CAN PG7 mounts here](../../LowProfileGantryPG7Mount/v1.0)</P>
+  ![Companiion modification for low-profile USB/CAN PG7 mounts here](../../LowProfileGantryPG7Mount/v1.0)
   <p><img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim-git/LowProfileGantryPG7Mount/v1.0/media/printed_gantry_mount.jpg" width="30%" height="20%"></p>
   
