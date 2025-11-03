@@ -46,7 +46,7 @@ Work in progress to provide PG7 gland mounts for the A-motor gantry mount that c
   <p float="left">
   <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim-git/LowProfileGantryPG7Mount/v1.0/media/pg7_support_examples.png" width="20%" height="20%">
   <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim-git/LowProfileGantryPG7Mount/v1.0/media/pg7_support_paint.png" width="20%" height="20%">
-  <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim-git/LowProfileGantryPG7Mount/v1.0/media/pg7_print_orientation.png" width="20%" height="20%">
+  <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim-git/LowProfileGantryPG7Mount/v1.0/media/pg7_print_orientation_suggestion.png" width="20%" height="20%">
   </p>
 
 # Assembly

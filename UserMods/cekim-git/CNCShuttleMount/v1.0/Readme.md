@@ -106,5 +106,5 @@ Work in progress to create a common set of mounting components that provide a mo
   </p>
 - (optional) Modify gantry cable mount as requiered to provide additional clearance
   <p>[Companiion modification for low-profile USB/CAN PG7 mounts here](../../LowProfileGantryPG7Mount/v1.0)</P>
-  <p><img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim-git/LowProfileGantryPG7Mount/v1.0/media/printed\_gantry\_mount.jpg" width="30%" height="20%"></p>
+  <p><img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim-git/LowProfileGantryPG7Mount/v1.0/media/printed_gantry_mount.jpg" width="30%" height="20%"></p>
   
