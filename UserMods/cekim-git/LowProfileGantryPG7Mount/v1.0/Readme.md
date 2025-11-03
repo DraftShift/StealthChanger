@@ -3,8 +3,8 @@
 Work in progress to provide PG7 gland mounts for the A-motor gantry mount that consume less space than existing mechanisms.  This additional space is needed to provide clearance for the USB/CAN cable attached to the CNC shuttle mount for Beacon/Carto.
 
 <p float="left">
-<img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim-git/LowProfileGantryPG7Mount/v1.0/media/printed\_gantry\_mount.jpg" width="30%" height="20%"></p>
-<img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim-git/LowProfileGantryPG7Mount/v1.0/media/chaotic\_cf\_zchain\_insert.jpg" width="30%" height="20%">
+<img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim-git/LowProfileGantryPG7Mount/v1.0/media/printed_gantry_mount.jpg" width="30%" height="20%">
+<img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim-git/LowProfileGantryPG7Mount/v1.0/media/chaotic_cf_zchain_insert.jpg" width="30%" height="20%">
 </p>
 
 # Mounts Provided
@@ -44,9 +44,9 @@ Work in progress to provide PG7 gland mounts for the A-motor gantry mount that c
   - insert or z-chain insert
 
   <p float="left">
-  <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim-git/LowProfileGantryPG7Mount/v1.0/media/pg7\_support\_examples.png" width="20%" height="20%">
-  <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim-git/LowProfileGantryPG7Mount/v1.0/media/pg7\_support\_paint.png" width="20%" height="20%">
-  <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim-git/LowProfileGantryPG7Mount/v1.0/media/pg7\_print\_orientation.png" width="20%" height="20%">
+  <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim-git/LowProfileGantryPG7Mount/v1.0/media/pg7_support_examples.png" width="20%" height="20%">
+  <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim-git/LowProfileGantryPG7Mount/v1.0/media/pg7_support_paint.png" width="20%" height="20%">
+  <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim-git/LowProfileGantryPG7Mount/v1.0/media/pg7_print_orientation.png" width="20%" height="20%">
   </p>
 
 # Assembly
@@ -63,10 +63,10 @@ Work in progress to provide PG7 gland mounts for the A-motor gantry mount that c
   - M3x6 BHCS (non-printed gantry options) into the insert from inside/behind the main mount body into the side insert
 
   <p float="left">
-  <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim-git/LowProfileGantryPG7Mount/v1.0/media/cnc\_mount\_and\_insert.jpg" width="20%" height="20%">
-  <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim-git/LowProfileGantryPG7Mount/v1.0/media/bend\_piano\_wire.jpg" width="20%" height="20%">
-  <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim-git/LowProfileGantryPG7Mount/v1.0/media/\[oano\_wire\_installed\_top.jpg" width="20%" height="20%">
-  <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim-git/LowProfileGantryPG7Mount/v1.0/media/alternate\_piano\_wire\_and\_fastener.jpg" width="20%" height="20%">
+  <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim-git/LowProfileGantryPG7Mount/v1.0/media/cnc_mount_and_insert.jpg" width="20%" height="20%">
+  <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim-git/LowProfileGantryPG7Mount/v1.0/media/bend_piano_wire.jpg" width="20%" height="20%">
+  <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim-git/LowProfileGantryPG7Mount/v1.0/media/piano_wire_installed_top.jpg" width="20%" height="20%">
+  <img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim-git/LowProfileGantryPG7Mount/v1.0/media/alternate_piano_wire_and_fastener.jpg" width="20%" height="20%">
   </p>
 
 
