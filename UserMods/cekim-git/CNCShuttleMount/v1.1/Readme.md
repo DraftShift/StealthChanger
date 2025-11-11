@@ -18,9 +18,10 @@ Work in progress to create a common set of mounting components that provide a mo
 
 # Notes/Warnings
 - This is a work in progress, not all configurations are tested.  My not work with your printer.
-- May result in collisions during printer movement, please use caution.  Pay particular attention to collisions between the USB/CAN cable an gantry components.
+- May result in collisions during printer movement, please use caution.  Pay particular attention to collisions between the USB/CAN cable and gantry components.
 - Please see companion modifications for [low-profile USB/CAN PG7 mounts here.](../../LowProfileGantryPG7Mount/v1.0)
 - Using only the wire-block without the brace is sufficient for functionality and generally provides the maximum clearance as the USB/CAN cable is able to bend out of the way of gantry components at the extremes of movement.  You will have to evaluate your configuration to determine whether the brace is appropriate for you.  Every effort has been made to minimize the space consumed by this mechanism is minimized, but the USB/CAN cable's themselves may exceed the space that exists between the X rail and the rear gantry components.
+- Whether braced or not, you will need to provide something between the gantry and the wire-mount/brace to keep the USB/CAN cable from bending down on the build-plate/part. Sleeves and 1mm piano wire work well for this.
 - The lock-washers on the M2.5 holding the CNC flag on the shuttle are VERY easy to lose.  Pay close attention to them if you don't want to lose them.  They are not essential on the printer part, but you may want to re-assemble the CNC version at some future date.
 - There are components marked "xbeam", "2020" "fystec", "ldo" and "backer".  Those without this designation are used for all configurations
 - This version REQUIRES 1 M3x3x5 heat-set inserts vs the voron standard M3x4.5x5
@@ -31,7 +32,7 @@ Work in progress to create a common set of mounting components that provide a mo
 - Optional top/rear support for the USB/CAN cable for Beacon/Carto
 - Replaces CNC'd flag with mount that integrates with the rear-brace
 - Minimize intrusion with X/Y space - Printed parts do not interfere with full X/Y/Z movement (USB cable may require that some gantry components be modified to clear in some cases)
-- May be used with the brace for additional clearance.
+- May be used without the brace for additional clearance.
 
 # BOM
 - 1 M3x3x5 heat-set insert
