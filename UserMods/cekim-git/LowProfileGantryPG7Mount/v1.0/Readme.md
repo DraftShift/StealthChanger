@@ -33,7 +33,7 @@ Work in progress to provide PG7 gland mounts for the A-motor gantry mount that c
 
 # Printing
 
-* Print dimensionality accurate parts (parts much match design file dimensions after shrinkage)
+* Print dimensionality accurate parts (parts must match design file dimensions after shrinkage)
 * 4-5 top/bottom layers
 * 40% infill
 * Suggest all mount bodies are printed on their head (see image - suggested print orientation
