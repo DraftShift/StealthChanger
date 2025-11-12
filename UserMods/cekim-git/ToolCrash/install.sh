@@ -2,8 +2,11 @@
 
 KDIR="${HOME}/klipper"
 KEXTRAS="${KDIR}/klippy/extras"
-s
-# wget -O - https://raw.githubusercontent.com/Frix-x/klippain-shaketune/main/install.sh | bash
+GITROOT="https://raw.githubusercontent.com"
+GITREPO="StealthChanger/refs/heads/main"
+GITUSER="DraftShift"
+#GITREPO="Toolchanger/refs/heads/main"
+#GITUSER="cekim-git"
 
 if [ ! -d "$KDIR" ]; then
     echo "tool_crash: klipper doesn't exist"
@@ -16,9 +19,9 @@ if [ ! -d "~/tool_crash" ]; then
 fi
 cd ~/tool_crash
 rm -rf ~/tool_crash/tool_crash.py
-wget -O ~/tool_crash/Readme.md https://github.com/DraftShift/StealthChanger/blob/main/UserMods/cekim-git/ToolCrash/Readme.md
-wget -O ~/tool_crash/License.txt https://github.com/DraftShift/StealthChanger/blob/main/UserMods/cekim-git/ToolCrash/License.txt
-wget -O ~/tool_crash/tool_crash.py https://github.com/DraftShift/StealthChanger/blob/main/UserMods/cekim-git/ToolCrash/tool_crash.py
+wget -O ~/tool_crash/README.md "${GITROOT}/${GITUSER}/${GITREPO}/UserMods/cekim-git/ToolCrash/README.md"
+wget -O ~/tool_crash/LICENSE.txt "${GITROOT}/${GITUSER}/${GITREPO}/UserMods/cekim-git/ToolCrash/LICENSE.txt"
+wget -O ~/tool_crash/tool_crash.py "${GITROOT}/${GITUSER}/${GITREPO}/UserMods/cekim-git/ToolCrash/tool_crash.py"
 
 # create symlink if it doesn't exist
 if [ -f "${KEXTRAS}/tool_crash.py" ]; then
