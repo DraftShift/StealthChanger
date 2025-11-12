@@ -1,17 +1,14 @@
 # tool_crash
 
 Work in progress to develop crash detection plugin for klipper-toolchanger that supports inductive as well as tap probes and attempts address issues with existing crash detection
-This is Alpha code... you shouldn't be using it unless you understand that...
 
 # Usage
-- Add tool_crash.py to klipper/klippy/extras
-- Clear pycache and restart klipper
+- Install
   ```
-  sudo systemctl stop klipper
-  cd ~/klipper ; find -name "*pycache*" -exec rm -rf {} \;
-  sudo systemctl restart klipper
+  wget -O - https://github.com/DraftShift/StealthChanger/blob/main/UserMods/cekim-git/ToolCrash/install.sh | bash
   ```
 - add [tool_crash] to printer.cfg
+  - See [example tool_crash.cfg](./tool_crash.cfg)
   - Suggested initial configuration for inductance Z configurations is no arguments to this section
   - Suggested initial configuration for TAP configurations would be ingore_events: probing
   - [tool_crash] should be added AFTER your toolchanger and tool .cfg files are included in your printer.cfg 
