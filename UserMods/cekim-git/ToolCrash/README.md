@@ -5,7 +5,7 @@ Work in progress to develop crash detection plugin for klipper-toolchanger that 
 # Usage
 - Install
   ```
-  wget -O - https://github.com/DraftShift/StealthChanger/blob/main/UserMods/cekim-git/ToolCrash/install.sh | bash
+  wget -O - https://raw.githubusercontent.com/DraftShift/StealthChanger/refs/heads/main/UserMods/cekim-git/ToolCrash/install.sh | bash
   ```
 - add [tool_crash] to printer.cfg
   - See [example tool_crash.cfg](./tool_crash.cfg)
