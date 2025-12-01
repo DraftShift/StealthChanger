@@ -1,4 +1,4 @@
-# Monolith gantry with fixed beltpath issues which arises by using monolith with the (cnc) stealthchanger shuttle
+# Monolith gantry with fixed beltpath issues which arises by using the monolith beltpath with the (cnc) stealthchanger shuttle
 The belts are aligned by offsetting the X-axis from its previous location ~2.26mm to the back. When the CNC shuttle is used just clamp the belts only in the front.
 
 <img width="1068" height="1040" alt="image" src="https://github.com/user-attachments/assets/e97141c7-a23f-4f7e-b2ec-88197c7c927b" />
