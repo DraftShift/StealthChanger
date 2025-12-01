@@ -12,3 +12,6 @@ The belts are aligned by offsetting the X-axis from its previous location ~2.26m
 
 <img width="789" height="505" alt="image" src="https://github.com/user-attachments/assets/87fecc83-dc9a-4fc5-8293-f043a0b15357" />
 
+## The file Printed 6mm 2WD X-axis Stealthchanger compl. modifies just the monolith XY joints to fix the belt issues
+
+<img width="1071" height="443" alt="image" src="https://github.com/user-attachments/assets/7dab6f24-438a-444f-b545-8fc7b494f6ce" />
