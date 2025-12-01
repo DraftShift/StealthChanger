@@ -4,7 +4,7 @@ The belts are aligned by offsetting the X-axis from its previous location ~2.26m
 <img width="1068" height="1040" alt="image" src="https://github.com/user-attachments/assets/e97141c7-a23f-4f7e-b2ec-88197c7c927b" />
 
 
-## The file V2 mod. Monolith Stealthchanger compl. is a derivative work from CloadWaynes monolith gantry. This gantry is modified to use mgn12 on all three axis  
+## The file V2 mod. Monolith Stealthchanger compl. is a derivative work from CloakedWaynes monolith gantry. This gantry is modified to use mgn12 on all three axis  
 
 <img width="1648" height="1089" alt="Screenshot 2025-12-01 224627" src="https://github.com/user-attachments/assets/dad1ee4f-6049-48be-9855-369b61bd0aeb" />
 
