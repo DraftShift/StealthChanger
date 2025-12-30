@@ -1,1 +1,1 @@
-[Contributing & Donating](../../wiki/Contributing-and-Donating)
+[Contributing](../../wiki/Contributing)
