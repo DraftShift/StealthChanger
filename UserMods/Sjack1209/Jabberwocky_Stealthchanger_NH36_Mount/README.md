@@ -8,14 +8,14 @@ This is a remix of [UserMods/TheSin-/PCB36_Mount/PCBMount.stl](../../TheSin-/PCB
  
 <table>
   <tr>
-    <td><img src="./images/CAD1.png" width="280"/></td>
-    <td><img src="./images/CAD2.png" width="200"/></td>
-    <td><img src="./images/CAD3.png" width="350"/></td>
+    <td><img src="./Images/CAD1.png" width="280"/></td>
+    <td><img src="./Images/CAD2.png" width="200"/></td>
+    <td><img src="./Images/CAD3.png" width="350"/></td>
   </tr>
   <tr>
-    <td><img src="./images/spacer.jpg" width="300"/></td>
-    <td><img src="./images/Assembled.jpg" width="300"/></td>
-	<td><img src="./images/Assembled1.jpg" width="350"/></td>
+    <td><img src="./Images/spacer.jpg" width="300"/></td>
+    <td><img src="./Images/Assembled.jpg" width="300"/></td>
+	<td><img src="./Images/Assembled1.jpg" width="350"/></td>
   </tr>
 </table>
 
@@ -30,15 +30,15 @@ Use standard voron print settings. 4 walls, 5 top & bottom laters, 40% infill.
 
 insert 2 heatset inserts into the back of the mount 
 
-<img src="./images/Heatsets.jpg" style="width:280px;"/>
+<img src="./Images/Heatsets.jpg" style="width:280px;"/>
 
 Then attach the mount and spacer to the Toolhead using 2 M3x10 or M3x12 BHCS 
 
-<img src="./images/Attached.jpg" style="width:280px;"/>
+<img src="./Images/Attached.jpg" style="width:280px;"/>
 
 Next, attach the NH36 with either 2 or 4 M3x8 BHCS
 
-<img src="./images/Assembled.jpg" style="width:280px;"/>
+<img src="./Images/Assembled.jpg" style="width:280px;"/>
 
 
 ## Bill of Materials (BOM)
