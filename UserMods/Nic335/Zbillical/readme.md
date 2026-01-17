@@ -1,4 +1,5 @@
-# Z-Umbilical Alternative for Voron 2.4 350mm
+# Z-Umbilical Alternative for Voron 2.4 350mm ( deprecated )
+This usermod has been deprecated and is retained for legacy purposes only.
 
 We are excited to present the Z-Umbilical Alternative, a superior replacement for the traditional Z-chain on the Voron 2.4 350mm. This innovative solution was developed in collaboration with FizzySG, the brilliant mind behind the EMS system.
 
