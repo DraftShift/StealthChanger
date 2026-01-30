@@ -18,7 +18,7 @@ this is also specific to [UserMods/TheSin-/PCB36_Mount/PCBMount.stl](../../TheSi
 
 ## Assembly
 
-- cable needs to be completely feed thru before **termination!**
+- cable needs to be completely feed thru before **termination!** (now has a split variant, credit: <a href="https://github.com/seenit783/seenit783">seenit783</a>)
 - verify that the connector is orientated the properly relative to the PCB
 - Push firmmly once aligned with hole while aligning eletrical connector
 - TieWrap should be put into the mounting point and the front of the tool, capturing the mount inside the sock.
@@ -41,3 +41,4 @@ Print
 ## Credits
 
 Special thanks to N3MI-DG for basically making this rocket sock look so good!
+

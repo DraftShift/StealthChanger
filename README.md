@@ -1,10 +1,17 @@
-# <img src="media/Stealthchanger_logo.png?raw=true" height="100" align="top" /> StealthChanger
+# <img src="media/Stealthchanger_logo.png?raw=true" height="100" align="top" style="height: 100px;" /> StealthChanger
 **Tool changing system for Vorons and other front mount printer motion systems.**
 
-<a href="https://discord.gg/jJs73c6vSc" target="_blank" alt="Join our Discord">![Discord](https://img.shields.io/discord/1226846451028725821?logo=discord&logoColor=%23ffffff&label=Join%20our%20Discord&labelColor=%237785cc&color=%23adf5ff)</a>
+<a href="https://discord.gg/draftshift" target="_blank" alt="Join our Discord">![Discord](https://img.shields.io/discord/1226846451028725821?logo=discord&logoColor=%23ffffff&label=Join%20our%20Discord&labelColor=%237785cc&color=%23adf5ff)</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/sponsors/DraftShift" target="_blank" alt="Sponsor Us">![GitHub Sponsors](https://img.shields.io/github/sponsors/DraftShift?logo=githubsponsors&label=Sponsors&labelColor=rgb(246%2C%20248%2C%20250)&color=rgb(191%2C%2057%2C%20137))</a>
- 
+
+ ## 🌐 Official Website
+
+StealthChanger now has an official website!
+
+👉 **https://stealthchanger.com** 
+
+##
 
 ## Introduction
 
@@ -17,7 +24,7 @@ This is a very light design, requiring less parts and as such is cheaper and eas
 All parts are easily replaceable without reprinting if wear happens, life of the bushings and pins are still being tested.
 
 ## Tool compatability
-Currently we support the standard Stealth Burner, Dragon Burner, Rapid Burner, Yavoth, XOL and Archetype.  There is also a usermod for the [Mini Stealth Burner](UserMods/jdmontgomer/MiniSB_SC).
+Currently we support the standard Stealth Burner, Dragon Burner, Rapid Burner, Yavoth, AntHead, A4T, XOL, Jabberwocky and Archetype BlackBird.  There is also a usermod for the [Mini Stealth Burner](UserMods/jdmontgomer/MiniSB_SC).
 
 ## V1.1 Release
 The original StealthChanger shuttle and backplates have been updated to V1.1, this update is to improve rigidity and probe accuracy. To help identify the version, "V1.1" has been clearly marked on all shuttles and backplates. please note, V1.1 is NOT compatible with previous versions. Updated documentation will follow shorly.
