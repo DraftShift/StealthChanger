@@ -10,7 +10,7 @@
 
 ### BOM:
 
-  Backplate is hardware should be the same. 8mm longer screws are needed for the Orbiter V2.0.
+  Backplate hardware should be the same. 8mm longer screws are needed for the Orbiter V2.0.
 
   ### Pictures:
 
@@ -40,6 +40,7 @@
   
   ℹ | Share under the same license
   
+
 
 
 
