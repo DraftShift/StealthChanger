@@ -14,13 +14,13 @@
 
   ### Pictures:
 
-  ![Dragon Burner Backplate with pins up 8mm Logo](./images/Dragon Burner Backplate with pins up 8mm Logo.png)
+  ![Dragon Burner Backplate with pins up 8mm Logo.png](./images/Dragon Burner Backplate with pins up 8mm Logo.png)
   
-  ![Dragon Burner Backplate with pins up 8mm No Logo](./images/Dragon Burner Backplate with pins up 8mm No Logo.png)
+  ![Dragon Burner Backplate with pins up 8mm No Logo.png](./images/Dragon Burner Backplate with pins up 8mm No Logo.png)
   
-  ![8mm Spacer Logo](./images/8mm Spacer Logo.png)
+  ![8mm Spacer Logo.png](./images/8mm Spacer Logo.png)
   
-  ![8mm Spacer No Logo](./images/8mm Spacer No Logo.png)
+  ![8mm Spacer No Logo.png](./images/8mm Spacer No Logo.png)
 
 ### License: 
 
@@ -35,3 +35,4 @@
   ✔ | Meets Open Definition
   ℹ | Share under the same license
   
+
