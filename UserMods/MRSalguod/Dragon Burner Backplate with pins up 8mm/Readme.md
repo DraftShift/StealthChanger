@@ -30,10 +30,15 @@
   GNU General Public License v3.0 
 
   ✖ | Sharing without ATTRIBUTION
+  
   ✔ | Remix Culture allowed
+  
   ✔ | Commercial Use
+  
   ✔ | Meets Open Definition
+  
   ℹ | Share under the same license
   
+
 
 
