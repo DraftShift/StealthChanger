@@ -31,6 +31,6 @@ This mount for DragonBurner provides a mount for the EBB36 that attaches to the 
 - Fasten the piano wire with teh m3x4 bung/set screw
 - Wire as needed.
 
-<img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/EBB36Mount/v3.0/Orbiter2.0_EBB36_Pivoting_Mount.png" width="400" height="465">
-<img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/EBB36Mount/v3.0/EBB36_Pivoting_Mount1.jpg" width="400" height="465">
-<img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim/EBB36Mount/v3.0/EBB36_Pivoting_Mount2.jpg" width="400" height="465">
+<img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim-git/EBB36Mount/v3.0/Orbiter2.0_EBB36_Pivoting_Mount.png" width="400" height="465">
+<img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim-git/EBB36Mount/v3.0/EBB36_Pivoting_Mount1.jpg" width="400" height="465">
+<img src="https://github.com/cekim-git/Toolchanger/blob/main/UserMods/cekim-git/EBB36Mount/v3.0/EBB36_Pivoting_Mount2.jpg" width="400" height="465">
