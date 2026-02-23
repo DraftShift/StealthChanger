@@ -44,11 +44,11 @@
   
   Backplate
   
-  ![Backplate-Logo.png](./images/Backplate-Logo.png)
+  ![Backplate.png](./images/Backplate.png)
   
   Spacer
   
-  ![Spacer-Logo.png](./images/Spacer-Logo.png)
+  ![Spacer.png](./images/Spacer.png)
   
 
 ### License: 
@@ -69,6 +69,7 @@
   
   ℹ | Share under the same license
   
+
 
 
 
