@@ -15,30 +15,39 @@
   ### Pictures:
   
   Before
+  
   ![Before.jpg](./images/Before.jpg)
   
   After
+  
   ![After.jpg](./images/After.jpg)
   
   Front
+  
   ![Front.jpg](./images/Front.jpg)
   
   Rear
+  
   ![Rear.jpg](./images/Rear.jpg)
   
   Side
+  
   ![Side.jpg](./images/Side.jpg)
   
   Modified Left Original Right Rear View
+  
   ![Modified-Left-Original-Right-Rear-View.png](./images/Modified-Left-Original-Right-Rear-View.png) 
   
   Modified Right Original Left Front View
+  
   ![Modified-Right-Original-Left-Front-View.png](./images/Modified-Right-Original-Left-Front-View.png)
   
   Backplate
+  
   ![Backplate-Logo.png](./images/Backplate-Logo.png)
   
   Spacer
+  
   ![Spacer-Logo.png](./images/Spacer-Logo.png)
   
 
@@ -60,6 +69,7 @@
   
   ℹ | Share under the same license
   
+
 
 
 
