@@ -13,6 +13,15 @@
   Backplate hardware should be the same. 8mm longer screws are needed for the Orbiter V2.0.
 
   ### Pictures:
+  ![Before.jpg](./images/Before.jpg)
+  
+  ![After.jpg](./images/After.jpg)
+  
+  ![Front.jpg](./images/Front.jpg)
+  
+  ![Rear.jpg](./images/Rear.jpg)
+  
+  ![Side.jpg](./images/Side.jpg)
   
   ![Modified-Left-Original-Right-Rear-View.png](./images/Modified-Left-Original-Right-Rear-View.png) 
   
@@ -40,6 +49,7 @@
   
   ℹ | Share under the same license
   
+
 
 
 
